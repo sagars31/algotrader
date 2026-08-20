@@ -1,0 +1,382 @@
+Rank,Stock_Name,Symbol,Sector,Industry,Market_Cap_Cr
+1,Hindustan Aeronautics Ltd.,HAL,Capital Goods,Aerospace & Defense,335424.1
+2,Bharat Electronics Ltd.,BEL,Capital Goods,Aerospace & Defense,299993.32
+3,ABB India Ltd.,ABB,Capital Goods,Electric Equipment,162003.95
+4,Hitachi Energy India Ltd.,POWERINDIA,Capital Goods,Electric Equipment,159034.19
+5,Bharat Heavy Electricals Ltd.,BHEL,Capital Goods,Engineering - Industrial Equipments,146977.89
+6,CG Power and Industrial Solutions Ltd.,CGPOWER,Capital Goods,Electric Equipment,140687.69
+7,Siemens Ltd.,SIEMENS,Capital Goods,Electric Equipment,139958.92
+8,Siemens Energy India Ltd.,ENRIN,Capital Goods,Electric Equipment,126120.08
+9,GE Vernova T&D India Ltd.,GVT&D,Capital Goods,Electric Equipment,111421.21
+10,Havells India Ltd.,HAVELLS,Capital Goods,Electric Equipment,81457.5
+11,Waaree Energies Ltd.,WAAREEENER,Capital Goods,Electric Equipment,76975.5
+12,Apar Industries Ltd.,APARINDS,Capital Goods,Electric Equipment,69927.22
+13,Suzlon Energy Ltd.,SUZLON,Capital Goods,Electric Equipment,64755.69
+14,Bharat Dynamics Ltd.,BDL,Capital Goods,Aerospace & Defense,51282.09
+15,Thermax Ltd.,THERMAX,Capital Goods,Engineering - Industrial Equipments,48270.22
+16,INDO-MIM Ltd.,INDOMIM,Capital Goods,Engineering - Industrial Equipments,41996.26
+17,Schneider Electric Infrastructure Ltd.,SCHNEIDER,Capital Goods,Electric Equipment,32719.0
+18,Kirloskar Oil Engines Ltd.,KIRLOSENG,Capital Goods,Engineering - Industrial Equipments,30558.44
+19,Data Patterns (India) Ltd.,DATAPATTNS,Capital Goods,Aerospace & Defense,24931.06
+20,TD Power Systems Ltd.,TDPOWERSYS,Capital Goods,Electric Equipment,23213.2
+21,Emmvee Photovoltaic Power Ltd.,EMMVEE,Capital Goods,Electric Equipment,22269.28
+22,MTAR Technologies Ltd.,MTARTECH,Capital Goods,Engineering,21713.2
+23,Elgi Equipments Ltd.,ELGIEQUIP,Capital Goods,Compressors / Pumps,19301.34
+24,Triveni Turbine Ltd.,TRITURBINE,Capital Goods,Engineering - Industrial Equipments,18828.92
+25,Jyoti CNC Automation Ltd.,JYOTICNC,Capital Goods,Engineering - Industrial Equipments,18780.6
+26,Inox India Ltd.,INOXINDIA,Capital Goods,Engineering - Industrial Equipments,17635.35
+27,Azad Engineering Ltd.,AZAD,Capital Goods,Engineering - Industrial Equipments,17550.73
+28,Zen Technologies Ltd.,ZENTEC,Capital Goods,Aerospace & Defense,16780.04
+29,Aequs Ltd.,AEQUS,Capital Goods,Aerospace & Defense,16743.17
+30,Astra Microwave Products Ltd.,ASTRAMICRO,Capital Goods,Aerospace & Defense,16518.53
+31,BEML Ltd.,BEML,Capital Goods,Construction Vehicles,15596.7
+32,Kirloskar Brothers Ltd.,KIRLOSBROS,Capital Goods,Compressors / Pumps,15157.18
+33,Apollo Micro Systems Ltd.,APOLLO,Capital Goods,Aerospace & Defense,14587.14
+34,Ingersoll-Rand (India) Ltd.,INGERRAND,Capital Goods,Compressors / Pumps,14544.48
+35,V-Guard Industries Ltd.,VGUARD,Capital Goods,Electric Equipment,14276.2
+36,Graphite India Ltd.,GRAPHITE,Capital Goods,Electrodes & Welding Equipment,14100.26
+37,KSB Ltd.,KSB,Capital Goods,Compressors / Pumps,13941.41
+38,Lloyds Engineering Works Ltd.,LLOYDSENGG,Capital Goods,Engineering - Industrial Equipments,13848.17
+39,HEG Ltd.,HEG,Capital Goods,Electrodes & Welding Equipment,13521.94
+40,Action Construction Equipment Ltd.,ACE,Capital Goods,Construction Vehicles,12930.05
+41,Atlanta Electricals Ltd.,ATLANTAELE,Capital Goods,Electric Equipment,12902.1
+42,Tega Industries Ltd.,TEGA,Capital Goods,Engineering - Industrial Equipments,12804.39
+43,Inox Wind Ltd.,INOXWIND,Capital Goods,Electric Equipment,12737.11
+44,Sigma Advanced Systems Ltd.,SIGMAADV,Capital Goods,Aerospace & Defense,12531.51
+45,Paras Defence And Space Technologies Ltd.,PARAS,Capital Goods,Aerospace & Defense,11105.74
+46,Voltamp Transformers Ltd.,VOLTAMP,Capital Goods,Electric Equipment,10248.34
+47,Kirloskar Pneumatic Company Ltd.,KIRLPNU,Capital Goods,Compressors / Pumps,9906.56
+48,Elecon Engineering Company Ltd.,ELECON,Capital Goods,Engineering - Industrial Equipments,9705.3
+49,Quality Power Electrical Equipments Ltd.,QPOWER,Capital Goods,Electric Equipment,9684.38
+50,KRN Heat Exchanger And Refrigeration Ltd.,KRN,Capital Goods,Engineering - Industrial Equipments,9613.89
+51,Esab India Ltd.,ESABINDIA,Capital Goods,Electrodes & Welding Equipment,9596.24
+52,Genus Power Infrastructures Ltd.,GENUSPOWER,Capital Goods,Electric Equipment,9425.44
+53,Transformers & Rectifiers (India) Ltd.,TARIL,Capital Goods,Electric Equipment,8940.44
+54,Vesuvius India Ltd.,VESUVIUS,Capital Goods,Refractories,8772.98
+55,RHI Magnesita India Ltd.,RHIM,Capital Goods,Refractories,7848.09
+56,Unimech Aerospace and Manufacturing Ltd.,UNIMECH,Capital Goods,Aerospace & Defense,7753.9
+57,Kennametal India Ltd.,KENNAMET,Capital Goods,Engineering - Industrial Equipments,7713.15
+58,Dynamatic Technologies Ltd.,DYNAMATECH,Capital Goods,Compressors / Pumps,7609.95
+59,Omnitech Engineering Ltd.,OMNI,Capital Goods,Engineering - Industrial Equipments,7144.8
+60,KSH International Ltd.,KSHINTL,Capital Goods,Electric Equipment,6968.67
+61,Powerica Ltd.,POWERICA,Capital Goods,Electric Equipment,6945.8
+62,Ajax Engineering Ltd.,AJAXENGG,Capital Goods,Engineering - Industrial Equipments,6650.47
+63,Raghav Productivity Enhancers Ltd.,RPEL,Capital Goods,Refractories,6603.35
+64,Skipper Ltd.,SKIPPER,Capital Goods,Engineering - Industrial Equipments,6418.41
+65,Axiscades Technologies Ltd.,AXISCADES,Capital Goods,Aerospace & Defense,6324.52
+66,Transrail Lighting Ltd.,TRANSRAILL,Capital Goods,Electric Equipment,6296.61
+67,Shakti Pumps (India) Ltd.,SHAKTIPUMP,Capital Goods,Compressors / Pumps,6173.6
+68,Praj Industries Ltd.,PRAJIND,Capital Goods,Engineering - Industrial Equipments,6169.69
+69,Standard Engineering Technology Ltd.,SETL,Capital Goods,Engineering - Industrial Equipments,5961.81
+70,Marine Electricals (India) Ltd.,MARINE,Capital Goods,Electric Equipment,5187.74
+71,Dee Development Engineers Ltd,DEEDEV,Capital Goods,Engineering - Industrial Equipments,4766.42
+72,GMM Pfaudler Ltd.,GMMPFAUDLR,Capital Goods,Engineering - Industrial Equipments,4699.15
+73,Hirect Ltd.,HIRECT,Capital Goods,Electric Equipment,4464.24
+74,Shilchar Technologies Ltd.,SHILCTECH,Capital Goods,Electric Equipment,4461.68
+75,Ram Ratna Wires Ltd.,RAMRAT,Capital Goods,Electric Equipment,4436.88
+76,John Cockerill India Ltd,COCKERILL,Capital Goods,Engineering - Industrial Equipments,4236.84
+77,Sanghvi Movers Ltd.,SANGHVIMOV,Capital Goods,Engineering - Industrial Equipments,4229.67
+78,Avantel Ltd.,AVANTEL,Capital Goods,Aerospace & Defense,4212.85
+79,WPIL Ltd.,WPIL,Capital Goods,Compressors / Pumps,4083.62
+80,Ideaforge Technology Ltd.,IDEAFORGE,Capital Goods,Aerospace & Defense,4081.07
+81,Rossell Techsys Ltd.,ROSSTECH,Capital Goods,Aerospace & Defense,4041.82
+82,Pitti Engineering Ltd.,PITTIENG,Capital Goods,Engineering - Industrial Equipments,3983.94
+83,Kirloskar Industries Ltd.,KIRLOSIND,Capital Goods,Engineering - Industrial Equipments,3948.87
+84,Indo Tech Transformers Ltd.,INDOTECH,Capital Goods,Electric Equipment,3758.84
+85,Harsha Engineers International Ltd.,HARSHA,Capital Goods,Engineering - Industrial Equipments,3743.28
+86,The Anup Engineering Ltd.,ANUP,Capital Goods,Engineering - Industrial Equipments,3712.83
+87,Uniparts India Ltd.,UNIPARTS,Capital Goods,Engineering - Industrial Equipments,3683.11
+88,Spectrum Electrical Industries Ltd.,SPECTRUM,Capital Goods,Electric Equipment,3434.26
+89,Oswal Pumps Ltd.,OSWALPUMPS,Capital Goods,Compressors / Pumps,3424.71
+90,Ujaas Energy Ltd.,UEL,Capital Goods,Electric Equipment,3203.55
+91,Windsor Machines Ltd.,WINDMACHIN,Capital Goods,Engineering - Industrial Equipments,3122.41
+92,Jash Engineering Ltd.,JASH,Capital Goods,Engineering - Industrial Equipments,3090.17
+93,Yash Highvoltage Ltd.,YASHHV,Capital Goods,Electric Equipment,2699.25
+94,Ador Welding Ltd.,ADOR,Capital Goods,Electrodes & Welding Equipment,2675.77
+95,Axis Solution Ltd.,AXISOL,Capital Goods,Engineering - Industrial Equipments,2673.28
+96,Bharat Bijlee Ltd.,BBL,Capital Goods,Electric Equipment,2583.55
+97,Concord Control Systems Ltd.,CNCRD,Capital Goods,Engineering - Industrial Equipments,2555.72
+98,JNK India Ltd.,JNKINDIA,Capital Goods,Engineering - Industrial Equipments,2552.62
+99,Rishabh Instruments Ltd.,RISHABH,Capital Goods,Electric Equipment,2516.76
+100,Sika Interplant Systems Ltd.,SIKA,Capital Goods,Aerospace & Defense,2327.43
+101,NIBE Ltd.,NIBE,Capital Goods,Aerospace & Defense,2307.75
+102,Thejo Engineering Ltd.,THEJO,Capital Goods,Engineering,2283.29
+103,HLE Glascoat Ltd.,HLEGLAS,Capital Goods,Engineering - Industrial Equipments,2276.38
+104,OBSC Perfection Ltd.,OBSCP,Capital Goods,Engineering - Industrial Equipments,2202.05
+105,Honda India Power Products Ltd.,HONDAPOWER,Capital Goods,Electric Equipment,2178.12
+106,CFF Fluid Control Ltd.,CFF,Capital Goods,Aerospace & Defense,2142.19
+107,Exicom Tele-Systems Ltd.,EXICOM,Capital Goods,Electric Equipment,2111.93
+108,Monolithisch India Ltd.,MONOLITH,Capital Goods,Refractories,2065.46
+109,HMT Ltd.,HMT,Capital Goods,Engineering - Industrial Equipments,2062.49
+110,HPL Electric & Power Ltd.,HPL,Capital Goods,Electric Equipment,2043.15
+111,Jaykay Enterprises Ltd.,JAYKAY,Capital Goods,Aerospace & Defense,2028.57
+112,Kilburn Engineering Ltd.,KLBRENG-B,Capital Goods,Engineering - Industrial Equipments,2004.81
+113,Alpex Solar Ltd.,ALPEXSOLAR,Capital Goods,Electric Equipment,1984.95
+114,DCX Systems Ltd.,DCXINDIA,Capital Goods,Aerospace & Defense,1959.84
+115,TIL Ltd.,TIL,Capital Goods,Construction Vehicles,1957.22
+116,Vidya Wires Ltd.,VIDYAWIRES,Capital Goods,Electric Equipment,1902.32
+117,Servotech Renewable Power System Ltd.,SERVOTECH,Capital Goods,Electric Equipment,1869.55
+118,Kabra Extrusiontechnik Ltd.,KABRAEXTRU,Capital Goods,Engineering - Industrial Equipments,1812.12
+119,Marsons Ltd.,MARSONS,Capital Goods,Electric Equipment,1804.47
+120,Macpower CNC Machines Ltd.,MACPOWER,Capital Goods,Engineering - Industrial Equipments,1750.03
+121,Virtuoso Optoelectronics Ltd.,VOEPL,Capital Goods,Electric Equipment,1737.73
+122,Disa India Ltd.,DISAQ,Capital Goods,Engineering - Industrial Equipments,1705.78
+123,Krishna Defence and Allied Industries Ltd.,KRISHNADEF,Capital Goods,Aerospace & Defense,1610.92
+124,MV Electrosystems Ltd.,MVELECTRO,Capital Goods,Electric Equipment,1610.23
+125,IFGL Refractories Ltd.,IFGLEXPOR,Capital Goods,Refractories,1605.19
+126,M&B Engineering Ltd.,MBEL,Capital Goods,Engineering - Industrial Equipments,1544.2
+127,Walchandnagar Industries Ltd.,WALCHANNAG,Capital Goods,Engineering - Industrial Equipments,1526.15
+128,Danish Power Ltd.,DANISH,Capital Goods,Electric Equipment,1502.77
+129,Diffusion Engineers Ltd.,DIFFNKG,Capital Goods,Electrodes & Welding Equipment,1466.17
+130,Igarashi Motors India Ltd.,IGARASHI,Capital Goods,Electric Equipment,1441.87
+131,Divine Power Energy Ltd.,DPEL,Capital Goods,Electric Equipment,1421.51
+132,Vivid Electromech Ltd.,VIVIDEL,Capital Goods,Electric Equipment,1392.5
+133,KP Green Engineering Ltd.,KPGEL,Capital Goods,Engineering,1391.0
+134,Millworks Technologies Ltd.,MILLWORKS,Capital Goods,Engineering - Industrial Equipments,1355.81
+135,Gala Precision Engineering Ltd.,GALAPREC,Capital Goods,Engineering - Industrial Equipments,1282.07
+136,Roto Pumps Ltd.,ROTO,Capital Goods,Compressors / Pumps,1246.38
+137,Everest Kanto Cylinder Ltd.,EKC,Capital Goods,Engineering - Industrial Equipments,1238.21
+138,ICE Make Refrigeration Ltd.,ICEMAKE,Capital Goods,Engineering - Industrial Equipments,1186.08
+139,Eimco Elecon (India) Ltd.,EIMCOELECO,Capital Goods,Engineering - Industrial Equipments,1159.85
+140,Yuken India Ltd.,YUKEN,Capital Goods,Compressors / Pumps,1155.93
+141,Poojaa Precision Engg Ltd.,PPEL,Capital Goods,Engineering - Industrial Equipments,1139.26
+142,Shree Refrigerations Ltd.,SHREEREF,Capital Goods,Engineering - Industrial Equipments,1128.66
+143,Modison Ltd.,MODISONLTD,Capital Goods,Electric Equipment,1106.06
+144,Indo Smc Ltd.,INDOSMC,Capital Goods,Electric Equipment,1102.43
+145,Emkay Tools Ltd.,ETL,Capital Goods,Engineering - Industrial Equipments,1098.08
+146,Mamata Machinery Ltd.,MAMATA,Capital Goods,Engineering - Industrial Equipments,1048.91
+147,Salasar Techno Engineering Ltd.,SALASAR,Capital Goods,Engineering - Industrial Equipments,1041.78
+148,Salzer Electronics Ltd.,SALZERELEC,Capital Goods,Electric Equipment,1009.07
+149,Solex Energy Ltd.,SOLEX,Capital Goods,Electric Equipment,953.21
+150,Kirloskar Electric Company Ltd.,KECL,Capital Goods,Electric Equipment,951.38
+151,Vilas Transcore Ltd.,VILAS,Capital Goods,Electric Equipment,915.92
+152,Rajoo Engineers Ltd.,RAJOOENG,Capital Goods,Engineering - Industrial Equipments,911.96
+153,Foseco Crucible (India) Ltd.,FOSECOC,Capital Goods,Refractories,895.36
+154,MIC Electronics Ltd.,MICEL,Capital Goods,Electric Equipment,879.69
+155,Pradeep Metals Ltd.,PRADPME,Capital Goods,Engineering - Industrial Equipments,849.77
+156,Airfloa Rail Technology Ltd.,AIRFLOA,Capital Goods,Engineering - Industrial Equipments,829.48
+157,Veljan Denison Ltd.,VELJAN,Capital Goods,Compressors / Pumps,823.5
+158,Prostarm Info Systems Ltd.,PROSTARM,Capital Goods,Electric Equipment,794.22
+159,Forbes Precision Tools And Machine Parts Ltd.,TOTEM,Capital Goods,Engineering - Industrial Equipments,763.34
+160,RM Drip and Sprinklers System Ltd.,RMDRIP,Capital Goods,Engineering - Industrial Equipments,763.1
+161,Lokesh Machines Ltd.,LOKESHMACH,Capital Goods,Engineering - Industrial Equipments,758.53
+162,Bajaj Steel Industries Ltd.,BAJAJST,Capital Goods,Engineering - Industrial Equipments,752.54
+163,Mangal Electrical Industries Ltd.,MEIL,Capital Goods,Electric Equipment,746.29
+164,South West Pinnacle Exploration Ltd.,SOUTHWEST,Capital Goods,Engineering,718.66
+165,Permanent Magnets Ltd.,PERMAGN,Capital Goods,Electric Equipment,715.74
+166,GEE Ltd.,GEE,Capital Goods,Electrodes & Welding Equipment,705.85
+167,Indef Manufacturing Ltd.,BAJAJINDEF,Capital Goods,Engineering - Industrial Equipments,696.8
+168,LT Elevator Ltd.,LTELEVATOR,Capital Goods,Engineering - Industrial Equipments,679.14
+169,Axtel Industries Ltd.,AXTEL,Capital Goods,Engineering - Industrial Equipments,670.91
+170,Tankup Engineers Ltd.,TANKUP,Capital Goods,Engineering - Industrial Equipments,656.58
+171,Parth Electricals & Engineering Ltd.,PARTH,Capital Goods,Electric Equipment,646.56
+172,RNIT AI Solutions Ltd.,RNITAI,Capital Goods,Electric Equipment,645.78
+173,Sunita Tools Ltd.,SUNITATOOL,Capital Goods,Engineering - Industrial Equipments,620.7
+174,Mallcom (India) Ltd,MALLCOM,Capital Goods,Engineering - Industrial Equipments,605.28
+175,Artson Ltd.,ARTSON,Capital Goods,Engineering - Industrial Equipments,597.73
+176,Apsis Aerocom Ltd.,APSISAERO,Capital Goods,Engineering - Industrial Equipments,590.54
+177,Pervasive Commodities Ltd.,PERVASIVE,Capital Goods,Electric Equipment,589.22
+178,Ganesh Green Bharat Ltd.,GGBL,Capital Goods,Electric Equipment,575.63
+179,Integra Engineering India Ltd.,INTEGRAEN,Capital Goods,Engineering - Industrial Equipments,533.42
+180,Saakshi Medtech & Panels Ltd.,SAAKSHI,Capital Goods,Electric Equipment,522.79
+181,Orient Ceratech Ltd.,ORIENTCER,Capital Goods,Refractories,518.64
+182,Fabtech Cleanrooms Ltd.,FABCLEAN,Capital Goods,Engineering - Industrial Equipments,512.12
+183,Digilogic Systems Ltd.,DIGILOGIC,Capital Goods,Aerospace & Defense,510.26
+184,Filtron Engineers Ltd.,FILTRON,Capital Goods,Engineering - Industrial Equipments,498.6
+185,Cryogenic OGS Ltd.,CRYOGENIC,Capital Goods,Engineering - Industrial Equipments,498.16
+186,International Conveyors Ltd.,INTLCONV,Capital Goods,Engineering - Industrial Equipments,487.61
+187,Anlon Technology Solution Ltd.,ANLON,Capital Goods,Engineering,480.63
+188,Mazda Ltd.,MAZDA,Capital Goods,Engineering - Industrial Equipments,474.59
+189,Patil Automation Ltd.,PATILAUTOM,Capital Goods,Engineering - Industrial Equipments,467.4
+190,United Drilling Tools Ltd.,UNIDT,Capital Goods,Engineering - Industrial Equipments,463.22
+191,Bemco Hydraulics Ltd.,BEMHY,Capital Goods,Engineering - Industrial Equipments,461.61
+192,Supreme Power Equipment Ltd.,SUPREMEPWR,Capital Goods,Electric Equipment,461.59
+193,Focus Lighting & Fixtures Ltd.,FOCUS,Capital Goods,Electric Equipment,448.1
+194,De Nora India Ltd.,DENORA,Capital Goods,Electrodes & Welding Equipment,445.95
+195,Fluidomat Ltd.,FLUIDOM,Capital Goods,Engineering - Industrial Equipments,443.77
+196,Gujarat Apollo Industries Ltd.,GUJAPOLLO,Capital Goods,Engineering - Industrial Equipments,443.57
+197,Sealmatic India Ltd.,SEALMATIC,Capital Goods,Engineering - Industrial Equipments,439.83
+198,C2C Advanced Systems Ltd.,C2C,Capital Goods,Aerospace & Defense,430.23
+199,Batliboi Ltd.,BATLIBOI,Capital Goods,Engineering - Industrial Equipments,423.48
+200,Zodiac Energy Ltd.,ZODIAC,Capital Goods,Engineering - Industrial Equipments,405.18
+201,Forbes & Company Ltd.,FORBESCO,Capital Goods,Engineering - Industrial Equipments,395.41
+202,S&S Power Switchgear Ltd.,S&SPOWER,Capital Goods,Electric Equipment,395.18
+203,Atmastco Ltd.,ATMASTCO,Capital Goods,Engineering - Industrial Equipments,394.99
+204,Hercules Investments Ltd.,HERCULES,Capital Goods,Engineering - Industrial Equipments,394.08
+205,Artemis Electricals And Projects Ltd.,AEPL,Capital Goods,Electric Equipment,384.34
+206,Taurian MPS Ltd.,TAURIAN,Capital Goods,Engineering,381.09
+207,Megatherm Induction Ltd.,MEGATHERM,Capital Goods,Engineering - Industrial Equipments,367.11
+208,Tipco Engineering India Ltd.,TIPCO,Capital Goods,Engineering - Industrial Equipments,362.91
+209,GTV Engineering Ltd.,GTV,Capital Goods,Engineering,357.89
+210,Cospower Engineering Ltd.,COSPOWER,Capital Goods,Electric Equipment,348.92
+211,Teamtech Formwork Solutions Ltd.,TEAMTECH,Capital Goods,Engineering - Industrial Equipments,347.72
+212,Avana Electrosystems Ltd.,AVANA,Capital Goods,Electric Equipment,328.13
+213,Leapfrog Engineering Services Ltd.,LESL,Capital Goods,Engineering,310.52
+214,Mahindra EPC Irrigation Ltd.,MAHEPC,Capital Goods,Engineering - Industrial Equipments,299.77
+215,Adisoft Technologies Ltd.,ADISOFT,Capital Goods,Engineering - Industrial Equipments,299.11
+216,Aaron Industries Ltd.,AARON,Capital Goods,Engineering - Industrial Equipments,283.74
+217,RMC Switchgears Ltd.,RMC,Capital Goods,Electric Equipment,282.27
+218,TechEra Engineering India Ltd.,TECHERA,Capital Goods,Aerospace & Defense,279.86
+219,Kaycee Industries Ltd.,KAYCEEI,Capital Goods,Electric Equipment,277.68
+220,JostS Engineering Company Ltd.,JOSTS,Capital Goods,Engineering - Industrial Equipments,266.1
+221,United Van Der Horst Ltd.,UVDRHOR,Capital Goods,Engineering - Industrial Equipments,256.08
+222,TRF Ltd.,TRF,Capital Goods,Engineering - Industrial Equipments,254.81
+223,Admach Systems Ltd.,ADMACH,Capital Goods,Engineering - Industrial Equipments,253.98
+224,Organic Recycling Systems Ltd.,ORGANICREC,Capital Goods,Engineering,249.22
+225,Birla Precision Technologies Ltd.,BIRLAPREC,Capital Goods,Engineering - Industrial Equipments,246.81
+226,Jasch Gauging Technologies Ltd.,JGTL,Capital Goods,Engineering - Industrial Equipments,240.2
+227,Sahaj Solar Ltd.,SAHAJSOLAR,Capital Goods,Engineering - Industrial Equipments,237.52
+228,Veto Switchgears And Cables Ltd.,VETO,Capital Goods,Electric Equipment,237.03
+229,Akanksha Power & Infrastructure Ltd.,AKANKSHA,Capital Goods,Electric Equipment,232.52
+230,Innovators Facade Systems Ltd.,INNOVATORS,Capital Goods,Engineering,226.32
+231,Panasonic Carbon India Company Ltd.,PANCARBON,Capital Goods,Electrodes & Welding Equipment,217.9
+232,Affordable Robotic & Automation Ltd.,AFFORDABLE,Capital Goods,Engineering,216.46
+233,Revathi Equipment India Ltd.,RVTH,Capital Goods,Engineering - Industrial Equipments,212.54
+234,Nitiraj Engineers Ltd.,NITIRAJ,Capital Goods,Engineering - Industrial Equipments,211.06
+235,Sizemasters Technology Ltd.,SIZEMASTER,Capital Goods,Engineering - Industrial Equipments,210.3
+236,Kataria Industries Ltd.,KATARIA,Capital Goods,Engineering,208.85
+237,Lakshmi Electrical Control Systems Ltd.,LAKSELEC,Capital Goods,Electric Equipment,201.74
+238,Royal Arc Electrodes Ltd.,ROYALARC,Capital Goods,Electrodes & Welding Equipment,199.8
+239,Quest Flow Controls Ltd.,QUESTFLOW,Capital Goods,Engineering - Industrial Equipments,195.92
+240,Jay Bee Laminations Ltd.,JAYBEE,Capital Goods,Electric Equipment,195.21
+241,United Heat Transfer Ltd.,UHTL,Capital Goods,Engineering - Industrial Equipments,193.84
+242,Alphageo (India) Ltd.,ALPHAGEO,Capital Goods,Engineering,191.93
+243,Global Pet Industries Ltd.,GLOBALPET,Capital Goods,Engineering - Industrial Equipments,190.96
+244,D&H India Ltd.,DHINDIA,Capital Goods,Electrodes & Welding Equipment,186.69
+245,Gallard Steel Ltd.,GALLARD,Capital Goods,Engineering - Industrial Equipments,184.01
+246,Dhanashree Electronics Ltd.,DEL,Capital Goods,Electric Equipment,180.07
+247,Star Delta Transformers Ltd.,STARDELTA,Capital Goods,Electric Equipment,175.26
+248,Rapicut Carbides Ltd.,RAPICUT,Capital Goods,Engineering - Industrial Equipments,172.85
+249,Aplab Ltd.,APLAB,Capital Goods,Electric Equipment,172.16
+250,Bansal Roofing Products Ltd.,BRPL,Capital Goods,Engineering,170.52
+251,Rappid Valves (India) Ltd.,RAPPID,Capital Goods,Engineering - Industrial Equipments,165.62
+252,Brady & Morris Engineering Company Ltd.,BRADYM,Capital Goods,Construction Vehicles,164.25
+253,KPT Industries Ltd.,KPT,Capital Goods,Engineering - Industrial Equipments,161.16
+254,Lippi Systems Ltd.,LIPPISYS,Capital Goods,Engineering,161.1
+255,Loyal Equipments Ltd.,LOYAL,Capital Goods,Engineering - Industrial Equipments,160.88
+256,Aartech Solonics Ltd.,AARTECH,Capital Goods,Electric Equipment,160.38
+257,DHP India Ltd.,DHPIND,Capital Goods,Engineering - Industrial Equipments,156.53
+258,Patels Airtemp (India) Ltd.,PATELSAI,Capital Goods,Engineering - Industrial Equipments,153.69
+259,Shivalic Power Control Ltd.,SPCL,Capital Goods,Electric Equipment,152.89
+260,Ikoma Technologies Ltd.,IKOMA,Capital Goods,Engineering - Industrial Equipments,150.53
+261,Apollo Techno Industries Ltd.,ATIL,Capital Goods,Engineering - Industrial Equipments,145.56
+262,ATV Projects India Ltd.,ATVPR,Capital Goods,Engineering - Industrial Equipments,145.12
+263,Alphalogic Industries Ltd.,ALPHAIND,Capital Goods,Engineering - Industrial Equipments,142.39
+264,Energy-Mission Machineries (India) Ltd.,EMMIL,Capital Goods,Engineering - Industrial Equipments,141.58
+265,Envirotech Systems Ltd.,ENVIRO,Capital Goods,Engineering - Industrial Equipments,139.89
+266,Duncan Engineering Ltd.,DUNCANENG,Capital Goods,Engineering - Industrial Equipments,131.47
+267,Accord Transformer & Switchgear Ltd.,ACCORDTS,Capital Goods,Electric Equipment,130.72
+268,Aztec Fluids & Machinery Ltd.,AZTEC,Capital Goods,Engineering - Industrial Equipments,127.84
+269,Chemtech Industrial Valves Ltd.,CHEMTECH,Capital Goods,Engineering - Industrial Equipments,126.89
+270,Aluwind Infra-Tech Ltd.,ALUWIND,Capital Goods,Engineering,123.24
+271,Aesthetik Engineers Ltd.,AESTHETIK,Capital Goods,Engineering,123.12
+272,International Combustion (India) Ltd.,INTLCOMBQ,Capital Goods,Engineering - Industrial Equipments,122.37
+273,Rishi Laser Ltd.,RISHILASE,Capital Goods,Engineering - Industrial Equipments,120.71
+274,Jyoti Ltd.,JYOTI,Capital Goods,Compressors / Pumps,120.06
+275,Latteys Industries Ltd.,LATTEYS,Capital Goods,Compressors / Pumps,118.38
+276,Readymix Construction Machinery Ltd.,READYMIX,Capital Goods,Engineering - Industrial Equipments,114.46
+277,Hindustan Tin Works Ltd.,HINDTIN,Capital Goods,Engineering - Industrial Equipments,113.41
+278,Rexnord Electronics & Controls Ltd.,REXNORD,Capital Goods,Electric Equipment,107.76
+279,Hindustan Appliances Ltd.,HINDAPL,Capital Goods,Electric Equipment,106.28
+280,ITL Industries Ltd.,ITL,Capital Goods,Engineering - Industrial Equipments,105.68
+281,Mehai Technology Ltd.,MEHAI,Capital Goods,Electric Equipment,104.46
+282,JSL Industries Ltd.,JSLINDL,Capital Goods,Electric Equipment,101.54
+283,Mauria Udyog Ltd.,MUL,Capital Goods,Engineering - Industrial Equipments,100.83
+284,Emkay Taps And Cutting Tools Ltd.,EMKAYTOOLS,Capital Goods,Engineering - Industrial Equipments,99.19
+285,Shilp Gravures Ltd.,SHILGRAVQ,Capital Goods,Engineering - Industrial Equipments,97.04
+286,Taylormade Renewables Ltd.,TRL,Capital Goods,Electric Equipment,92.45
+287,Smarten Power Systems Ltd.,SMARTEN,Capital Goods,Electric Equipment,91.3
+288,Cenlub Industries Ltd.,CENLUB,Capital Goods,Engineering - Industrial Equipments,89.6
+289,Visdem Technosys Ltd.,VISDEM,Capital Goods,Electric Equipment,88.19
+290,RTS Power Corporation Ltd.,RTSPOWR,Capital Goods,Electric Equipment,87.83
+291,T&I Global Ltd.,TIGLOB,Capital Goods,Engineering - Industrial Equipments,85.11
+292,Classic Electrodes (India) Ltd.,CLASSICEIL,Capital Goods,Electrodes & Welding Equipment,84.97
+293,Shetron Ltd.,SHETR,Capital Goods,Engineering - Industrial Equipments,83.73
+294,Shri Balaji Valve Components Ltd.,SBVCL,Capital Goods,Engineering - Industrial Equipments,82.78
+295,Ameya Precision Engineers Ltd.,AMEYA,Capital Goods,Engineering - Industrial Equipments,82.5
+296,Nilachal Refractories Ltd.,NILACHAL,Capital Goods,Refractories,80.0
+297,Vdeal System Ltd.,VDEAL,Capital Goods,Electric Equipment,77.27
+298,Rollatainers Ltd.,ROLLT,Capital Goods,Engineering - Industrial Equipments,75.29
+299,Cranex Ltd.,CRANEX,Capital Goods,Engineering - Industrial Equipments,70.24
+300,BEW Engineering Ltd.,BEWLTD,Capital Goods,Engineering - Industrial Equipments,67.65
+301,Atam Valves Ltd.,ATAM,Capital Goods,Engineering - Industrial Equipments,67.28
+302,Samay Project Services Ltd.,SAMAY,Capital Goods,Engineering,66.54
+303,Delta Manufacturing Ltd.,DELTAMAGNT,Capital Goods,Electric Equipment,64.33
+304,Gujarat Toolroom Ltd.,GUJTLRM,Capital Goods,Engineering,64.05
+305,Ema India Ltd.,EMAINDIA,Capital Goods,Engineering - Industrial Equipments,62.46
+306,Shining Tools Ltd.,SHTL,Capital Goods,Engineering - Industrial Equipments,56.1
+307,Refractory Shapes Ltd.,REFRACTORY,Capital Goods,Refractories,54.5
+308,Rulka Electricals Ltd.,RULKA,Capital Goods,Electric Equipment,52.81
+309,Vruddhi Engineering Works Ltd.,VRUDDHI,Capital Goods,Engineering,50.17
+310,Solitaire Machine Tools Ltd.,SOLIMAC,Capital Goods,Engineering - Industrial Equipments,49.96
+311,Ahlada Engineers Ltd.,AHLADA,Capital Goods,Engineering,49.56
+312,Manugraph India Ltd.,MANUGRAPH,Capital Goods,Engineering - Industrial Equipments,49.36
+313,Sona Machinery Ltd.,SONAMAC,Capital Goods,Engineering - Industrial Equipments,48.72
+314,Integra Switchgear Ltd.,INTEGSW,Capital Goods,Electric Equipment,47.65
+315,Gurunanak Agriculture India Ltd.,GURUNANAK,Capital Goods,Engineering - Industrial Equipments,46.8
+316,Indobell Insulations Ltd.,INDOBELL,Capital Goods,Engineering,46.62
+317,Presstonic Engineering Ltd.,PRESSTONIC,Capital Goods,Engineering,45.19
+318,Chamunda Electrical Ltd.,CHAMUNDA,Capital Goods,Electric Equipment,45.12
+319,Lerthai Finance Ltd.,LERTHAI,Capital Goods,Refractories,44.45
+320,Storage Technologies & Automation Ltd.,STAL,Capital Goods,Engineering - Industrial Equipments,43.01
+321,Rolcon Engineering Company Ltd.,ROLCOEN,Capital Goods,Engineering - Industrial Equipments,41.58
+322,Auri Grow India Ltd.,AURIGROW,Capital Goods,Engineering - Industrial Equipments,41.33
+323,Liotech Industries Ltd.,LIOTECH,Capital Goods,Engineering - Industrial Equipments,39.78
+324,Rasi Electrodes Ltd.,RASIELEC,Capital Goods,Electrodes & Welding Equipment,38.45
+325,Misquita Engineering Ltd.,MISQUITA,Capital Goods,Engineering - Industrial Equipments,35.82
+326,Alfa Transformers Ltd.,ALFATRAN,Capital Goods,Electric Equipment,35.65
+327,Associated Ceramics Ltd.,ASSOCER,Capital Goods,Refractories,32.89
+328,G.G. Dandekar Properties Ltd.,GGDPROP,Capital Goods,Engineering - Industrial Equipments,32.85
+329,Arigato Universe Ltd.,ARIGATO,Capital Goods,Engineering - Industrial Equipments,32.31
+330,Auro Impex & Chemicals Ltd.,AUROIMPEX,Capital Goods,Engineering - Industrial Equipments,31.84
+331,Advance Metering Technology Ltd.,AMTL,Capital Goods,Engineering - Industrial Equipments,31.5
+332,Agni Green Power Ltd.,AGNI,Capital Goods,Electric Equipment,30.47
+333,Riddhi Display Equipments Ltd.,RDEL,Capital Goods,Engineering - Industrial Equipments,29.57
+334,Adarsh Plant Protect Ltd.,ADARSHPL,Capital Goods,Engineering - Industrial Equipments,29.35
+335,Hawa Engineers Ltd.,HAWAENG,Capital Goods,Engineering - Industrial Equipments,29.2
+336,Switching Technologies Gunther Ltd.,SWITCHTE,Capital Goods,Electric Equipment,28.06
+337,Tarapur Transformers Ltd.,TARAPUR,Capital Goods,Electric Equipment,27.94
+338,Epic Energy Ltd.,EPIC,Capital Goods,Electric Equipment,27.52
+339,Sprayking Ltd.,SPRAYKING,Capital Goods,Engineering - Industrial Equipments,27.05
+340,Polymechplast Machines Ltd.,POLYCHMP,Capital Goods,Engineering - Industrial Equipments,26.65
+341,Harshil Agrotech Ltd.,HARSHILAGR,Capital Goods,Engineering - Industrial Equipments,26.14
+342,Miven Machine Tools Ltd.,MIVENMACH,Capital Goods,Engineering - Industrial Equipments,25.97
+343,Mewar Hi-Tech Engineering Ltd.,MHEL,Capital Goods,Engineering - Industrial Equipments,24.98
+344,Trans India House Impex Ltd,TIHIL,Capital Goods,Engineering - Industrial Equipments,24.8
+345,Iykot Hitech Toolroom Ltd.,IYKOTHITE,Capital Goods,Engineering - Industrial Equipments,23.0
+346,Envair Electrodyne Ltd.,ENVAIREL,Capital Goods,Engineering - Industrial Equipments,21.81
+347,SBEC Systems (India) Ltd.,SBECSYS,Capital Goods,Engineering,20.5
+348,Sterling Powergensys Ltd.,STERPOW,Capital Goods,Engineering - Industrial Equipments,19.07
+349,SKIL Infrastructure Ltd.,SKIL,Capital Goods,Engineering,19.06
+350,SP Refractories Ltd.,SPRL,Capital Goods,Refractories,18.24
+351,Harig Crankshafts Ltd.,HARCR,Capital Goods,Engineering - Industrial Equipments,17.91
+352,Trans Freight Containers Ltd.,TRANSFRE,Capital Goods,Engineering - Industrial Equipments,14.44
+353,Arrowhead Seperation Engineering Ltd.,ARROWHEAD,Capital Goods,Engineering - Industrial Equipments,13.29
+354,Debock Industries Ltd.,DIL,Capital Goods,Engineering,12.04
+355,BKM Industries Ltd.,BKMINDST,Capital Goods,Engineering - Industrial Equipments,11.93
+356,Shivagrico Implements Ltd.,SHIVAGR,Capital Goods,Engineering - Industrial Equipments,11.63
+357,Incon Engineers Ltd.,INCON,Capital Goods,Engineering - Industrial Equipments,11.39
+358,Maks Energy Solutions India Ltd.,MAKS,Capital Goods,Electric Equipment,11.3
+359,Sparc Electrex Ltd.,SPAR,Capital Goods,Electric Equipment,10.44
+360,Shri Ram Switchgears Ltd.,SRIRAM,Capital Goods,Electric Equipment,10.11
+361,Ishan International Ltd.,ISHAN,Capital Goods,Engineering,9.73
+362,Marshall Machines Ltd.,MARSHALL,Capital Goods,Engineering - Industrial Equipments,8.7
+363,Yashraj Containeurs Ltd.,YASHRAJC,Capital Goods,Engineering - Industrial Equipments,8.5
+364,Raasi Refractories Ltd.,RASSIREF,Capital Goods,Refractories,8.37
+365,Premier Ltd.,PREMIER,Capital Goods,Engineering - Industrial Equipments,8.35
+366,Hittco Tools Ltd.,HITTCO,Capital Goods,Engineering - Industrial Equipments,7.5
+367,Starlite Components Ltd.,STARLITE,Capital Goods,Electric Equipment,6.22
+368,TMT (India) Ltd.,TMTIND-B1,Capital Goods,Engineering,4.19
+369,Perfect Infraengineers Ltd.,PERFECT,Capital Goods,Engineering,4.11
+370,Global Defence Industries Ltd.,GDIL,Capital Goods,Aerospace & Defense,1.87
+371,Silveroak Commercials Ltd.,SILVERO,Capital Goods,Electric Equipment,1.7
+372,MPF Systems Ltd.,MPFSL,Capital Goods,Engineering - Industrial Equipments,1.18
+373,Harshil Agrotech Ltd. - (Rights Entitlements (REs)),HARSHIL-RE,Capital Goods,Engineering - Industrial Equipments,0.0
+374,Trans India House Impex Ltd. - (Rights Entitlements (REs)),TIHIL-RE,Capital Goods,Engineering - Industrial Equipments,0.0
+375,Aplab Ltd. - (Rights Entitlements (REs)),750991,Capital Goods,Electric Equipment,0.0
+376,Exicom Tele-Systems Ltd. - (Rights Entitlements (REs)),EXICOM-RE,Capital Goods,Electric Equipment,0.0
+377,Inox Wind Ltd. - (Rights Entitlements (REs)),INOXWI-RE,Capital Goods,Electric Equipment,0.0
+378,JostS Engineering Company Ltd. - (Rights Entitlements (REs),JOSTS-RE,Capital Goods,Engineering - Industrial Equipments,0.0
+379,Presstonic Engineering Ltd. -  (Rights Entitlement),PRESS-RE,Capital Goods,Engineering,0.0
+380,D&H India Ltd. - (Rights Entitlements (REs)),DHINDIA-RE,Capital Goods,Electrodes & Welding Equipment,0.0
+381,TIL Ltd. - (Rights Entitlements),TIL-RE1,Capital Goods,Construction Vehicles,0.0

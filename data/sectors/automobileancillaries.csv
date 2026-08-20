@@ -1,0 +1,270 @@
+Rank,Stock_Name,Symbol,Sector,Industry,Market_Cap_Cr
+1,Maruti Suzuki India Ltd.,MARUTI,Automobile & Ancillaries,Automobiles - Passenger Cars,435919.17
+2,Mahindra & Mahindra Ltd.,M&M,Automobile & Ancillaries,Automobiles - Passenger Cars,427649.56
+3,Bajaj Auto Ltd.,BAJAJ-AUTO,Automobile & Ancillaries,Automobile Two & Three Wheelers,321520.49
+4,Eicher Motors Ltd.,EICHERMOT,Automobile & Ancillaries,Automobile Two & Three Wheelers,223046.14
+5,TVS Motor Company Ltd.,TVSMOTOR,Automobile & Ancillaries,Automobile Two & Three Wheelers,205513.18
+6,Hyundai Motor India Ltd.,HYUNDAI,Automobile & Ancillaries,Automobiles - Passenger Cars,178759.04
+7,Samvardhana Motherson International Ltd.,MOTHERSON,Automobile & Ancillaries,Auto Ancillary,177631.27
+8,Tata Motors Ltd.,TMCV,Automobile & Ancillaries,Automobiles-Trucks/Lcv,174504.75
+9,Cummins India Ltd.,CUMMINSIND,Automobile & Ancillaries,Diesel Engines,149800.27
+10,Bosch Ltd.,BOSCHLTD,Automobile & Ancillaries,Auto Ancillary,138811.6
+11,Tata Motors Passenger Vehicles Ltd.,TMPV,Automobile & Ancillaries,Automobiles - Passenger Cars,123082.24
+12,Hero MotoCorp Ltd.,HEROMOTOCO,Automobile & Ancillaries,Automobile Two & Three Wheelers,115981.83
+13,Ashok Leyland Ltd.,ASHOKLEY,Automobile & Ancillaries,Automobiles-Trucks/Lcv,100971.56
+14,Bharat Forge Ltd.,BHARATFORG,Automobile & Ancillaries,Forgings,99203.39
+15,UNO Minda Ltd.,UNOMINDA,Automobile & Ancillaries,Auto Ancillary,71605.93
+16,Schaeffler India Ltd.,SCHAEFFLER,Automobile & Ancillaries,Bearings,63211.55
+17,Ather Energy Ltd.,ATHERENERG,Automobile & Ancillaries,Automobile Two & Three Wheelers,59609.89
+18,MRF Ltd.,MRF,Automobile & Ancillaries,Tyres & Allied,56579.56
+19,Tube Investments of India Ltd.,TIINDIA,Automobile & Ancillaries,Auto Ancillary,53077.53
+20,Sona BLW Precision Forgings Ltd.,SONACOMS,Automobile & Ancillaries,Auto Ancillary,49412.14
+21,Balkrishna Industries Ltd.,BALKRISIND,Automobile & Ancillaries,Tyres & Allied,45739.81
+22,AIA Engineering Ltd.,AIAENG,Automobile & Ancillaries,Castings/Forgings,41912.04
+23,Endurance Technologies Ltd.,ENDURANCE,Automobile & Ancillaries,Auto Ancillary,40757.06
+24,Exide Industries Ltd.,EXIDEIND,Automobile & Ancillaries,Batteries,40426.0
+25,Escorts Kubota Ltd.,ESCORTS,Automobile & Ancillaries,Automobiles-Tractors,34806.85
+26,ZF Commercial Vehicle Control Systems India Ltd.,ZFCVINDIA,Automobile & Ancillaries,Auto Ancillary,29942.8
+27,PTC Industries Ltd.,PTCIL,Automobile & Ancillaries,Castings/Forgings,28559.91
+28,Apollo Tyres Ltd.,APOLLOTYRE,Automobile & Ancillaries,Tyres & Allied,28198.48
+29,Craftsman Automation Ltd.,CRAFTSMAN,Automobile & Ancillaries,Auto Ancillary,26803.46
+30,Motherson Sumi Wiring India Ltd.,MSUMI,Automobile & Ancillaries,Auto Ancillary,26758.76
+31,Gabriel India Ltd.,GABRIEL,Automobile & Ancillaries,Auto Ancillary,25897.74
+32,Sundram Fasteners Ltd.,SUNDRMFAST,Automobile & Ancillaries,Auto Ancillary,25578.93
+33,Belrise Industries Ltd.,BELRISE,Automobile & Ancillaries,Auto Ancillary,24701.06
+34,Timken India Ltd.,TIMKEN,Automobile & Ancillaries,Bearings,24616.46
+35,Sansera Engineering Ltd.,SANSERA,Automobile & Ancillaries,Auto Ancillary,24481.23
+36,Force Motors Ltd.,FORCEMOT,Automobile & Ancillaries,Automobiles-Trucks/Lcv,24205.39
+37,Tenneco Clean Air India Ltd.,TENNIND,Automobile & Ancillaries,Auto Ancillary,21748.22
+38,SPR Auto Technologies Ltd.,SHRIPISTON,Automobile & Ancillaries,Auto Ancillary,19783.0
+39,Happy Forgings Ltd.,HAPPYFORGE,Automobile & Ancillaries,Forgings,19724.21
+40,HBL Engineering Ltd.,HBLENGINE,Automobile & Ancillaries,Batteries,18811.84
+41,Castrol India Ltd.,CASTROLIND,Automobile & Ancillaries,Lubricants,18457.02
+42,OLA Electric Mobility Ltd.,OLAELEC,Automobile & Ancillaries,Automobile Two & Three Wheelers,17921.2
+43,Amara Raja Energy & Mobility Ltd.,ARE&M,Automobile & Ancillaries,Batteries,17320.61
+44,Minda Corporation Ltd.,MINDACORP,Automobile & Ancillaries,Auto Ancillary,17207.74
+45,CIE Automotive India Ltd.,CIEINDIA,Automobile & Ancillaries,Auto Ancillary,15470.4
+46,Ceat Ltd.,CEATLTD,Automobile & Ancillaries,Tyres & Allied,14919.01
+47,JBM Auto Ltd.,JBMA,Automobile & Ancillaries,Auto Ancillary,14738.32
+48,Lumax Auto Technologies Ltd.,LUMAXTECH,Automobile & Ancillaries,Auto Ancillary,13800.57
+49,Ramkrishna Forgings Ltd.,RKFORGE,Automobile & Ancillaries,Forgings,13341.22
+50,SKF India (Industrial) Ltd.,SKFINDUS,Automobile & Ancillaries,Bearings,13281.01
+51,Varroc Engineering Ltd.,VARROC,Automobile & Ancillaries,Auto Ancillary,12963.93
+52,ASK Automotive Ltd.,ASKAUTOLTD,Automobile & Ancillaries,Auto Ancillary,12711.75
+53,Titagarh Rail Systems Ltd.,TITAGARH,Automobile & Ancillaries,Railways Wagons/Coaches,11210.92
+54,JK Tyre & Industries Ltd.,JKTYRE,Automobile & Ancillaries,Tyres & Allied,11077.52
+55,Jupiter Wagons Ltd.,JWL,Automobile & Ancillaries,Railways Wagons/Coaches,10959.91
+56,Olectra Greentech Ltd.,OLECTRA,Automobile & Ancillaries,Automobiles-Trucks/Lcv,10817.83
+57,Bombay Burmah Trading Corporation Ltd.,BBTC,Automobile & Ancillaries,Auto Ancillary,10240.77
+58,Pricol Ltd.,PRICOLLTD,Automobile & Ancillaries,Auto Ancillary,9640.22
+59,Banco Products (India) Ltd.,BANCOINDIA,Automobile & Ancillaries,Auto Ancillary,8849.0
+60,SJS Enterprises Ltd.,SJS,Automobile & Ancillaries,Auto Ancillary,8133.49
+61,SKF India Ltd.,SKFINDIA,Automobile & Ancillaries,Bearings,7774.37
+62,SML Mahindra Ltd.,SMLMAH,Automobile & Ancillaries,Automobiles-Trucks/Lcv,7431.84
+63,Suprajit Engineering Ltd.,SUPRAJIT,Automobile & Ancillaries,Auto Ancillary,7199.86
+64,Fiem Industries Ltd.,FIEMIND,Automobile & Ancillaries,Auto Ancillary,6192.09
+65,Balu Forge Industries Ltd.,BALUFORGE,Automobile & Ancillaries,Forgings,5993.73
+66,Gulf Oil Lubricants India Ltd.,GULFOILLUB,Automobile & Ancillaries,Lubricants,5742.74
+67,Lumax Industries Ltd.,LUMAXIND,Automobile & Ancillaries,Auto Ancillary,5430.94
+68,Sharda Motor Industries Ltd.,SHARDAMOTR,Automobile & Ancillaries,Auto Ancillary,5156.07
+69,LG Balakrishnan & Bros Ltd.,LGBBROSLTD,Automobile & Ancillaries,Auto Ancillary,5088.91
+70,Subros Ltd.,SUBROS,Automobile & Ancillaries,Auto Ancillary,4956.29
+71,Jamna Auto Industries Ltd.,JAMNAAUTO,Automobile & Ancillaries,Auto Ancillary,4921.82
+72,Steel Strips Wheels Ltd.,SSWL,Automobile & Ancillaries,Auto Ancillary,4916.11
+73,Savita Oil Technologies Ltd.,SOTL,Automobile & Ancillaries,Lubricants,4795.8
+74,Rolex Rings Ltd,ROLEXRINGS,Automobile & Ancillaries,Bearings,4623.62
+75,Greaves Cotton Ltd.,GREAVESCOT,Automobile & Ancillaries,Diesel Engines,4534.4
+76,NRB Bearings Ltd.,NRBBEARING,Automobile & Ancillaries,Bearings,4444.39
+77,Swaraj Engines Ltd.,SWARAJENG,Automobile & Ancillaries,Diesel Engines,4422.49
+78,Texmaco Rail & Engineering Ltd.,TEXRAIL,Automobile & Ancillaries,Railways Wagons/Coaches,4268.01
+79,Divgi Torqtransfer Systems Ltd.,DIVGIITTS,Automobile & Ancillaries,Auto Ancillary,3980.67
+80,V.S.T. Tillers Tractors Ltd.,VSTTILLERS,Automobile & Ancillaries,Automobiles-Tractors,3902.74
+81,Sandhar Technologies Ltd.,SANDHAR,Automobile & Ancillaries,Auto Ancillary,3856.42
+82,JTEKT India Ltd.,JTEKTINDIA,Automobile & Ancillaries,Auto Ancillary,3649.16
+83,Steelcast Ltd.,STEELCAS,Automobile & Ancillaries,Castings/Forgings,3556.67
+84,Wheels India Ltd.,WHEELS,Automobile & Ancillaries,Auto Ancillary,3510.05
+85,TVS Srichakra Ltd.,TVSSRICHAK,Automobile & Ancillaries,Tyres & Allied,3437.67
+86,Rane (Madras) Ltd.,RML,Automobile & Ancillaries,Auto Ancillary,3067.86
+87,Shanthi Gears Ltd.,SHANTIGEAR,Automobile & Ancillaries,Auto Ancillary,3040.25
+88,Carraro India Ltd.,CARRARO,Automobile & Ancillaries,Auto Ancillary,2927.57
+89,Panama Petrochem Ltd.,PANAMAPET,Automobile & Ancillaries,Lubricants,2926.38
+90,MM Forgings Ltd.,MMFL,Automobile & Ancillaries,Forgings,2874.93
+91,Sundaram-Clayton Ltd.,SUNCLAY,Automobile & Ancillaries,Auto Ancillary,2744.75
+92,Automotive Axles Ltd.,AUTOAXLES,Automobile & Ancillaries,Auto Ancillary,2701.95
+93,Veedol Corporation Ltd.,VEEDOL,Automobile & Ancillaries,Lubricants,2632.51
+94,Rajratan Global Wire Ltd.,RAJRATAN,Automobile & Ancillaries,Auto Ancillary,2621.05
+95,Talbros Automotive Components Ltd.,TALBROAUTO,Automobile & Ancillaries,Auto Ancillary,2593.82
+96,Eveready Industries India Ltd.,EVEREADY,Automobile & Ancillaries,Batteries,2588.39
+97,Federal-Mogul Goetze (India) Ltd.,FMGOETZE,Automobile & Ancillaries,Auto Ancillary,2544.89
+98,India Nippon Electricals Ltd.,INDNIPPON,Automobile & Ancillaries,Auto Ancillary,2542.31
+99,Gandhar Oil Refinery (India) Ltd.,GANDHAR,Automobile & Ancillaries,Lubricants,2399.03
+100,Amic Forging Ltd.,AMIC,Automobile & Ancillaries,Forgings,2342.9
+101,GNA Axles Ltd.,GNA,Automobile & Ancillaries,Auto Ancillary,2330.07
+102,Landmark Cars Ltd.,LANDMARK,Automobile & Ancillaries,Automobiles - Dealers & Distributors,2126.32
+103,NDR Auto Components Ltd.,NDRAUTO,Automobile & Ancillaries,Auto Ancillary,1937.79
+104,Goodyear India Ltd.,GOODYEAR,Automobile & Ancillaries,Tyres & Allied,1798.03
+105,Rico Auto Industries Ltd.,RICOAUTO,Automobile & Ancillaries,Auto Ancillary,1787.11
+106,Sar Auto Products Ltd.,SAPL,Automobile & Ancillaries,Auto Ancillary,1723.81
+107,Studds Accessories Ltd.,STUDDS,Automobile & Ancillaries,Auto Ancillary,1676.85
+108,Zelio E-Mobility Ltd.,ZELIO,Automobile & Ancillaries,Automobile Two & Three Wheelers,1658.58
+109,RACL Geartech Ltd.,RACLGEAR,Automobile & Ancillaries,Auto Ancillary,1638.07
+110,Bharat Seats Ltd.,BHARATSE,Automobile & Ancillaries,Auto Ancillary,1564.35
+111,Jay Bharat Maruti Ltd.,JAYBARMARU,Automobile & Ancillaries,Auto Ancillary,1389.93
+112,Atul Auto Ltd.,ATULAUTO,Automobile & Ancillaries,Automobile Two & Three Wheelers,1374.52
+113,Kross Ltd.,KROSS,Automobile & Ancillaries,Auto Ancillary,1355.99
+114,Menon Bearings Ltd.,MENONBE,Automobile & Ancillaries,Bearings,1304.61
+115,Precision Camshafts Ltd.,PRECAM,Automobile & Ancillaries,Auto Ancillary,1282.31
+116,Investment & Precision Castings Ltd.,INVPRECQ,Automobile & Ancillaries,Castings/Forgings,1213.6
+117,Munjal Auto Industries Ltd.,MUNJALAU,Automobile & Ancillaries,Auto Ancillary,1201.5
+118,Alicon Castalloy Ltd.,ALICON,Automobile & Ancillaries,Castings/Forgings,1180.26
+119,Automobile Corporation of Goa Ltd.,ACGL,Automobile & Ancillaries,Auto Ancillary,1110.17
+120,Saint-Gobain Sekurit India Ltd.,SEKURITIND,Automobile & Ancillaries,Auto Ancillary,1083.7
+121,The Hi-Tech Gears Ltd.,HITECHGEAR,Automobile & Ancillaries,Auto Ancillary,1035.1
+122,Nelcast Ltd.,NELCAST,Automobile & Ancillaries,Castings/Forgings,1024.44
+123,Uni Abex Alloy Products Ltd.,UNIABEXAL,Automobile & Ancillaries,Castings/Forgings,908.82
+124,Synergy Green Industries Ltd.,SGIL,Automobile & Ancillaries,Castings/Forgings,864.5
+125,Tirupati Forge Ltd.,TIRUPATIFL,Automobile & Ancillaries,Forgings,856.18
+126,Popular Vehicles & Services Ltd.,PVSL,Automobile & Ancillaries,Automobiles - Dealers & Distributors,823.41
+127,Sterling Tools Ltd.,STERTOOLS,Automobile & Ancillaries,Fasteners,807.21
+128,Automotive Stampings and Assemblies Ltd.,ASAL,Automobile & Ancillaries,Auto Ancillary,793.3
+129,IST Ltd.,ISTLTD,Automobile & Ancillaries,Auto Ancillary,757.64
+130,Enkei Wheels (India) Ltd.,ENKEIWHEL,Automobile & Ancillaries,Auto Ancillary,710.73
+131,Indo Farm Equipments Ltd.,INDOFARM,Automobile & Ancillaries,Automobiles-Tractors,702.99
+132,Mercury Ev-Tech Ltd.,MERCURYEV,Automobile & Ancillaries,Automobiles - Passenger Cars,685.61
+133,Kinetic Engineering Ltd.,KINETICENG,Automobile & Ancillaries,Auto Ancillary,640.75
+134,Captain Technocast Ltd.,CTCL,Automobile & Ancillaries,Castings/Forgings,630.43
+135,Hindustan Composites Ltd.,HINDCOMPOS,Automobile & Ancillaries,Auto Ancillary,613.21
+136,Magna Electro Castings Ltd.,MAGNAELQ,Automobile & Ancillaries,Castings/Forgings,608.96
+137,ZF Steering Gear (India) Ltd.,ZFSTEERING,Automobile & Ancillaries,Auto Ancillary,603.96
+138,Triton Valves Ltd.,TRITONV,Automobile & Ancillaries,Auto Ancillary,591.53
+139,Neetu Yoshi Ltd.,NEETUYOSHI,Automobile & Ancillaries,Castings/Forgings,589.95
+140,Kalyani Cast-Tech Ltd.,KALYANI,Automobile & Ancillaries,Castings/Forgings,570.71
+141,Munjal Showa Ltd.,MUNJALSHOW,Automobile & Ancillaries,Auto Ancillary,556.33
+142,Satani Bearings Ltd.,SATANIBRG,Automobile & Ancillaries,Bearings,550.5
+143,CLN Energy Ltd.,CLN,Automobile & Ancillaries,Batteries,546.61
+144,Urja Global Ltd.,URJA,Automobile & Ancillaries,Automobile Two & Three Wheelers,529.35
+145,High Energy Batteries (India) Ltd.,HIGHENE,Automobile & Ancillaries,Batteries,512.91
+146,Autoline Industries Ltd.,AUTOIND,Automobile & Ancillaries,Auto Ancillary,441.59
+147,Omax Autos Ltd.,OMAXAUTO,Automobile & Ancillaries,Auto Ancillary,436.85
+148,Simplex Castings Ltd.,SIMPLEXCAS,Automobile & Ancillaries,Castings/Forgings,431.42
+149,PPAP Automotive Ltd.,PPAP,Automobile & Ancillaries,Auto Ancillary,410.37
+150,Emmforce Autotech Ltd.,EMMFORCE,Automobile & Ancillaries,Auto Ancillary,393.69
+151,Tolins Tyres Ltd.,TOLINS,Automobile & Ancillaries,Tyres & Allied,382.64
+152,Menon Pistons Ltd.,MENNPIS,Automobile & Ancillaries,Auto Ancillary,371.43
+153,EBIX Ltd.,EBIX,Automobile & Ancillaries,Auto Ancillary,363.87
+154,Maxvolt Energy Industries Ltd.,MAXVOLT,Automobile & Ancillaries,Batteries,363.65
+155,Jay Ushin Ltd.,JAYUSH,Automobile & Ancillaries,Auto Ancillary,337.45
+156,Sundaram Brake Linings Ltd.,SUNDRMBRAK,Automobile & Ancillaries,Auto Ancillary,336.41
+157,Thaai Casting Ltd.,TCL,Automobile & Ancillaries,Castings/Forgings,326.54
+158,Talbros Engineering Ltd.,TALBROSENG,Automobile & Ancillaries,Auto Ancillary,319.74
+159,Hindustan Motors Ltd.,HINDMOTORS,Automobile & Ancillaries,Automobiles - Passenger Cars,314.24
+160,GP Petroleums Ltd.,GULFPETRO,Automobile & Ancillaries,Lubricants,311.41
+161,UCAL Ltd.,UCAL,Automobile & Ancillaries,Auto Ancillary,309.26
+162,Remsons Industries Ltd.,REMSONSIND,Automobile & Ancillaries,Auto Ancillary,308.92
+163,Metalic Technoforge Ltd.,METALIC,Automobile & Ancillaries,Forgings,299.45
+164,Pritika Auto Industries Ltd.,PRITIKAUTO,Automobile & Ancillaries,Auto Ancillary,295.39
+165,Galaxy Bearings Ltd.,GALXBRG,Automobile & Ancillaries,Bearings,287.95
+166,Him Teknoforge Ltd.,HIMTEK,Automobile & Ancillaries,Auto Ancillary,270.21
+167,SKP Bearing Industries Ltd.,SKP,Automobile & Ancillaries,Bearings,268.92
+168,Pavna Industries Ltd.,PAVNAIND,Automobile & Ancillaries,Auto Ancillary,254.5
+169,Indo-National Ltd.,NIPPOBATRY,Automobile & Ancillaries,Batteries,249.04
+170,Avatar Industries Ltd.,AVATAR,Automobile & Ancillaries,Auto Ancillary,240.63
+171,Bimetal Bearings Ltd.,BIMETAL,Automobile & Ancillaries,Bearings,237.48
+172,Kalyani Forge Ltd.,KALYANIFRG,Automobile & Ancillaries,Forgings,237.07
+173,Waaree Technologies Ltd.,WAAREE,Automobile & Ancillaries,Batteries,236.41
+174,Setco Automotive Ltd.,SETCO,Automobile & Ancillaries,Auto Ancillary,233.42
+175,Sintercom India Ltd.,SINTERCOM,Automobile & Ancillaries,Auto Ancillary,226.99
+176,Simmonds Marshall Ltd.,SIMMOND,Automobile & Ancillaries,Fasteners,221.37
+177,Shivam Autotech Ltd.,SHIVAMAUTO,Automobile & Ancillaries,Auto Ancillary,221.04
+178,Goldstar Power Ltd.,GOLDSTAR,Automobile & Ancillaries,Batteries,220.37
+179,Competent Automobiles Company Ltd.,COMPEAU,Automobile & Ancillaries,Automobiles - Dealers & Distributors,216.95
+180,Munish Forge Ltd.,MUNISH,Automobile & Ancillaries,Castings/Forgings,204.84
+181,Bhagwati Autocast Ltd.,BGWTATO,Automobile & Ancillaries,Castings/Forgings,198.48
+182,Wardwizard Innovations & Mobility Ltd.,WARDINMOBI,Automobile & Ancillaries,Automobile Two & Three Wheelers,196.73
+183,Panasonic Energy India Company Ltd.,PANAENERG,Automobile & Ancillaries,Batteries,195.86
+184,Amba Auto Sales and Services Ltd.,AMBAAUTO,Automobile & Ancillaries,Automobiles - Dealers & Distributors,194.14
+185,Dolfin Rubbers Ltd.,DOLFIN,Automobile & Ancillaries,Tyres & Allied,172.46
+186,Nitin Castings Ltd.,NITINCAST,Automobile & Ancillaries,Castings/Forgings,171.23
+187,IP Rings Ltd.,IPRINGLTD,Automobile & Ancillaries,Auto Ancillary,170.87
+188,Pritika Engineering Components Ltd.,PRITIKA,Automobile & Ancillaries,Auto Ancillary,163.46
+189,Emerald Tyre Manufacturers Ltd.,ETML,Automobile & Ancillaries,Tyres & Allied,163.12
+190,LAPL Automotive Ltd.,LAPL,Automobile & Ancillaries,Auto Ancillary,160.63
+191,Bharat Gears Ltd.,BHARATGEAR,Automobile & Ancillaries,Auto Ancillary,159.0
+192,Machino Plastics Ltd.,MACPLASQ,Automobile & Ancillaries,Auto Ancillary,157.72
+193,Tunwal E-Motors Ltd.,TUNWAL,Automobile & Ancillaries,Automobile Two & Three Wheelers,154.33
+194,Krishanveer Forge Ltd.,KVFORGE,Automobile & Ancillaries,Forgings,153.15
+195,GG Automotive Gears Ltd.,GGAUTO,Automobile & Ancillaries,Auto Ancillary,151.05
+196,KVS Castings Ltd.,KVSCASTING,Automobile & Ancillaries,Castings/Forgings,150.8
+197,National Fittings Ltd.,NATFIT,Automobile & Ancillaries,Castings/Forgings,149.06
+198,Gujarat Intrux Ltd.,GUJINTRX,Automobile & Ancillaries,Castings/Forgings,142.94
+199,Smiths & Founders (India) Ltd.,SMFIL,Automobile & Ancillaries,Forgings,142.18
+200,SNL Bearings Ltd.,SNL,Automobile & Ancillaries,Bearings,139.93
+201,LGB Forge Ltd.,LGBFORGE,Automobile & Ancillaries,Forgings,137.92
+202,Bikewo Green Tech Ltd.,BIKEWO,Automobile & Ancillaries,Automobiles - Dealers & Distributors,135.03
+203,Uravi Defence and Technology Ltd.,URAVIDEF,Automobile & Ancillaries,Auto Ancillary,127.05
+204,Shigan Quantum Technologies Ltd.,SHIGAN,Automobile & Ancillaries,Auto Ancillary,126.03
+205,Sharp Chucks & Machines Ltd.,SCML,Automobile & Ancillaries,Castings/Forgings,121.77
+206,Forge Auto International Ltd.,FORGEAUTO,Automobile & Ancillaries,Forgings,117.94
+207,Samkrg Pistons & Rings Ltd.,SAMKRG,Automobile & Ancillaries,Auto Ancillary,116.72
+208,Viaz Tyres Ltd.,VIAZ,Automobile & Ancillaries,Tyres & Allied,112.84
+209,Akar Auto Industries Ltd.,AAIL,Automobile & Ancillaries,Auto Ancillary,112.3
+210,Samrat Forgings Ltd.,SAMRATFORG,Automobile & Ancillaries,Forgings,112.0
+211,Hindustan Hardy Ltd.,HINDHARD,Automobile & Ancillaries,Auto Ancillary,111.82
+212,Pattech Fitwell Tube Components Ltd.,PATTECH,Automobile & Ancillaries,Forgings,107.93
+213,Hilton Metal Forging Ltd.,HILTON,Automobile & Ancillaries,Forgings,102.68
+214,Galaxy Agrico Exports Ltd.,GALAGEX,Automobile & Ancillaries,Bearings,98.52
+215,Sal Automotive Ltd.,SALAUTO,Automobile & Ancillaries,Auto Ancillary,96.58
+216,Sellowrap Industries Ltd.,SELLOWRAP,Automobile & Ancillaries,Auto Ancillary,93.46
+217,Porwal Auto Components Ltd.,PORWAL,Automobile & Ancillaries,Auto Ancillary,92.28
+218,Happy Steels Ltd.,HAPPY,Automobile & Ancillaries,Auto Ancillary,90.72
+219,Arabian Petroleum Ltd.,ARABIAN,Automobile & Ancillaries,Lubricants,90.4
+220,Ganga Forging Ltd.,GANGAFORGE,Automobile & Ancillaries,Forgings,88.3
+221,Super Iron Foundry Ltd.,SUPERIRON,Automobile & Ancillaries,Castings/Forgings,86.56
+222,New Swan Multitech Ltd.,SWANAGRO,Automobile & Ancillaries,Auto Ancillary,83.67
+223,NRB Industrial Bearings Ltd.,NIBL,Automobile & Ancillaries,Bearings,79.99
+224,Autofurnish Ltd.,AFLTD,Automobile & Ancillaries,Auto Ancillary,77.71
+225,Creative Castings Ltd.,CREATIVE,Automobile & Ancillaries,Castings/Forgings,76.7
+226,Premium Plast Ltd.,PREMIUM,Automobile & Ancillaries,Auto Ancillary,73.52
+227,Auto Pins (India) Ltd.,AUTOPINS,Automobile & Ancillaries,Auto Ancillary,73.05
+228,GS Auto International Ltd.,GSAUTO,Automobile & Ancillaries,Auto Ancillary,67.1
+229,Innovative Tyres & Tubes Ltd.,ITTL,Automobile & Ancillaries,Tyres & Allied,66.6
+230,Swastika Castal Ltd.,SWASTIKAAL,Automobile & Ancillaries,Castings/Forgings,65.59
+231,Universal Auto Foundry Ltd.,UNIAUTO,Automobile & Ancillaries,Castings/Forgings,64.66
+232,Atlas Cycles (Haryana) Ltd.,ATLASCYCLE,Automobile & Ancillaries,Cycles,62.7
+233,Kranti Industries Ltd.,KRANTI,Automobile & Ancillaries,Auto Ancillary,61.86
+234,Bombay Cycle & Motor Agency Ltd.,BOMBCYC,Automobile & Ancillaries,Automobile Two & Three Wheelers,61.41
+235,Paramount Speciality Forgings Ltd.,PSFL,Automobile & Ancillaries,Forgings,61.11
+236,Shayona Engineering Ltd.,SHAYONAENG,Automobile & Ancillaries,Castings/Forgings,54.9
+237,Vishal Bearings Ltd.,VISHALBL,Automobile & Ancillaries,Bearings,54.42
+238,Delta Autocorp Ltd.,DELTIC,Automobile & Ancillaries,Automobile Two & Three Wheelers,52.75
+239,Advance Technoforge Ltd.,ADVTECH,Automobile & Ancillaries,Forgings,50.86
+240,ATC Energies System Ltd.,ATCENERGY,Automobile & Ancillaries,Batteries,49.85
+241,Supertech EV Ltd.,SEVL,Automobile & Ancillaries,Automobile Two & Three Wheelers,44.68
+242,Jagan Lamps Ltd.,JAGANLAM,Automobile & Ancillaries,Auto Ancillary,42.1
+243,SM Auto Stamping Ltd.,SMAUTO,Automobile & Ancillaries,Auto Ancillary,40.63
+244,Austin Engineering Company Ltd.,AUSTENG,Automobile & Ancillaries,Bearings,40.39
+245,Welcast Steels Ltd.,ZWELCAST,Automobile & Ancillaries,Castings/Forgings,39.4
+246,Victory Electric Vehicles International Ltd.,VICTORYEV,Automobile & Ancillaries,Automobile Two & Three Wheelers,38.91
+247,Rasandik Engineering Industries India Ltd.,RASANDIK,Automobile & Ancillaries,Auto Ancillary,38.78
+248,Sundrex Oil Company Ltd.,SOCL,Automobile & Ancillaries,Lubricants,38.51
+249,EL Forge Ltd.,ELFORGE,Automobile & Ancillaries,Forgings,37.6
+250,Carnation Industries Ltd.,CARNATIN,Automobile & Ancillaries,Castings/Forgings,33.97
+251,Jainex Aamcol Ltd.,JAINEX,Automobile & Ancillaries,Auto Ancillary,28.15
+252,Mandeep Auto Industries Ltd.,MANDEEP,Automobile & Ancillaries,Auto Ancillary,21.96
+253,Precision Metaliks Ltd.,PRECISION,Automobile & Ancillaries,Auto Ancillary,19.86
+254,Benara Bearings And Pistons Ltd.,BENARA,Automobile & Ancillaries,Bearings,18.5
+255,Metalyst Forgings Ltd.,METALFORGE,Automobile & Ancillaries,Forgings,17.86
+256,Kalyani Commercials Ltd.,KALYANI,Automobile & Ancillaries,Automobiles - Dealers & Distributors,13.81
+257,Sibar Auto Parts Ltd.,SIBARAUT,Automobile & Ancillaries,Auto Ancillary,12.79
+258,Resourceful Automobile Ltd.,RAL,Automobile & Ancillaries,Automobiles - Dealers & Distributors,10.01
+259,Amforge Industries Ltd.,AMFORG,Automobile & Ancillaries,Auto Ancillary,8.49
+260,Lakshmi Precision Screws Ltd.,LAKPRE,Automobile & Ancillaries,Fasteners,5.25
+261,Spectra Industries Ltd.,SPECTRA,Automobile & Ancillaries,Auto Ancillary,2.69
+262,JTEKT India Ltd. - (Rights Entitlements (REs)),JTEKT-RE,Automobile & Ancillaries,Auto Ancillary,0.0
+263,Jainex Aamcol Ltd. - (Rights Entitlements (REs)),JAINEX-RE,Automobile & Ancillaries,Auto Ancillary,0.0
+264,Hilton Metal Forging Ltd. - (Rights Entitlements (REs)),HILTON-RE1,Automobile & Ancillaries,Forgings,0.0
+265,Galaxy Agrico Exports Ltd. - (Rights Entitlements (REs)),GALAGEX-RE,Automobile & Ancillaries,Bearings,0.0
+266,Hilton Metal Forging Ltd. - (Rights Entitlements (REs1)),HILTON-RE2,Automobile & Ancillaries,Forgings,0.0
+267,GS Auto International Ltd. - (Rights Entitlements (REs)),GSAUTO-RE,Automobile & Ancillaries,Auto Ancillary,0.0
+268,GS Auto International Ltd. - (Partly Paid-up),GSAILPP,Automobile & Ancillaries,Auto Ancillary,0.0
+269,Ganga Forging Ltd. - RE,GANGAFO-RE,Automobile & Ancillaries,Forgings,0.0

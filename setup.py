@@ -2,7 +2,6 @@
 
 import io
 import os
-from codecs import open
 from setuptools import setup
 
 current_dir = os.path.abspath(os.path.dirname(__file__))

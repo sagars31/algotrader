@@ -1,0 +1,312 @@
+Rank,Stock_Name,Symbol,Sector,Industry,Market_Cap_Cr
+1,Sun Pharmaceutical Industries Ltd.,SUNPHARMA,Healthcare,Pharmaceuticals & Drugs,461847.99
+2,Divi's Laboratories Ltd.,DIVISLAB,Healthcare,Pharmaceuticals & Drugs,225648.29
+3,Torrent Pharmaceuticals Ltd.,TORNTPHARM,Healthcare,Pharmaceuticals & Drugs,184109.45
+4,Apollo Hospitals Enterprise Ltd.,APOLLOHOSP,Healthcare,Hospital & Healthcare Services,128327.81
+5,Cipla Ltd.,CIPLA,Healthcare,Pharmaceuticals & Drugs,117138.71
+6,Zydus Lifesciences Ltd.,ZYDUSLIFE,Healthcare,Pharmaceuticals & Drugs,113715.44
+7,Lenskart Solutions Ltd.,LENSKART,Healthcare,Medical Equipment/Supplies/Accessories,106480.32
+8,Lupin Ltd.,LUPIN,Healthcare,Pharmaceuticals & Drugs,102192.0
+9,Dr. Reddy's Laboratories Ltd.,DRREDDY,Healthcare,Pharmaceuticals & Drugs,100328.03
+10,Mankind Pharma Ltd.,MANKIND,Healthcare,Pharmaceuticals & Drugs,99945.03
+11,Max Healthcare Institute Ltd.,MAXHEALTH,Healthcare,Hospital & Healthcare Services,98300.93
+12,Laurus Labs Ltd.,LAURUSLABS,Healthcare,Pharmaceuticals & Drugs,98063.97
+13,Aurobindo Pharma Ltd.,AUROPHARMA,Healthcare,Pharmaceuticals & Drugs,95397.65
+14,Manipal Health Enterprises Ltd.,MANIPALHOS,Healthcare,Hospital & Healthcare Services,93043.21
+15,Aster DM Quality Care Ltd.,ASTERDM,Healthcare,Hospital & Healthcare Services,71743.0
+16,Fortis Healthcare Ltd.,FORTIS,Healthcare,Hospital & Healthcare Services,70588.59
+17,Biocon Ltd.,BIOCON,Healthcare,Pharmaceuticals & Drugs,67616.01
+18,Glenmark Pharmaceuticals Ltd.,GLENMARK,Healthcare,Pharmaceuticals & Drugs,66040.57
+19,Alkem Laboratories Ltd.,ALKEM,Healthcare,Pharmaceuticals & Drugs,64553.14
+20,Abbott India Ltd.,ABBOTINDIA,Healthcare,Pharmaceuticals & Drugs,57536.52
+21,Anthem Biosciences Ltd.,ANTHEM,Healthcare,Pharmaceuticals & Drugs,50157.4
+22,Gland Pharma Ltd.,GLAND,Healthcare,Pharmaceuticals & Drugs,48975.3
+23,Ajanta Pharma Ltd.,AJANTPHARM,Healthcare,Pharmaceuticals & Drugs,45924.32
+24,Glaxosmithkline Pharmaceuticals Ltd.,GLAXO,Healthcare,Pharmaceuticals & Drugs,45554.98
+25,Ipca Laboratories Ltd.,IPCALAB,Healthcare,Pharmaceuticals & Drugs,43983.43
+26,Global Health Ltd.,MEDANTA,Healthcare,Hospital & Healthcare Services,38237.6
+27,Narayana Hrudayalaya Ltd.,NH,Healthcare,Hospital & Healthcare Services,37459.34
+28,Emcure Pharmaceuticals Ltd.,EMCURE,Healthcare,Pharmaceuticals & Drugs,36679.4
+29,Krishna Institute of Medical Sciences Ltd,KIMS,Healthcare,Hospital & Healthcare Services,33982.72
+30,Dr. Lal Pathlabs Ltd.,LALPATHLAB,Healthcare,Hospital & Healthcare Services,32174.1
+31,Wockhardt Ltd.,WOCKPHARMA,Healthcare,Pharmaceuticals & Drugs,31398.36
+32,Sai Life Sciences Ltd.,SAILIFE,Healthcare,Pharmaceuticals & Drugs,30793.97
+33,Neuland Laboratories Ltd.,NEULANDLAB,Healthcare,Pharmaceuticals & Drugs,29908.4
+34,Piramal Pharma Ltd.,PPLPHARMA,Healthcare,Pharmaceuticals & Drugs,27452.4
+35,Acutaas Chemicals Ltd.,ACUTAAS,Healthcare,Pharmaceuticals & Drugs,26472.62
+36,Pfizer Ltd.,PFIZER,Healthcare,Pharmaceuticals & Drugs,22321.46
+37,Granules India Ltd.,GRANULES,Healthcare,Pharmaceuticals & Drugs,21263.45
+38,Astrazeneca Pharma India Ltd.,ASTRAZEN,Healthcare,Pharmaceuticals & Drugs,19384.25
+39,Caplin Point Laboratories Ltd.,CAPLIPOINT,Healthcare,Pharmaceuticals & Drugs,18855.46
+40,Eris Lifesciences Ltd.,ERIS,Healthcare,Pharmaceuticals & Drugs,18827.93
+41,Poly Medicure Ltd.,POLYMED,Healthcare,Medical Equipment/Supplies/Accessories,18125.96
+42,Onesource Specialty Pharma Ltd.,ONESOURCE,Healthcare,Pharmaceuticals & Drugs,17793.79
+43,Alivus Life Sciences Ltd.,ALIVUS,Healthcare,Pharmaceuticals & Drugs,16995.25
+44,Cohance Lifesciences Ltd.,COHANCE,Healthcare,Pharmaceuticals & Drugs,16872.54
+45,Alembic Pharmaceuticals Ltd.,APLLTD,Healthcare,Pharmaceuticals & Drugs,16338.33
+46,Syngene International Ltd.,SYNGENE,Healthcare,Pharmaceuticals & Drugs,16201.26
+47,Natco Pharma Ltd.,NATCOPHARM,Healthcare,Pharmaceuticals & Drugs,16162.87
+48,Shilpa Medicare Ltd.,SHILPAMED,Healthcare,Pharmaceuticals & Drugs,16074.87
+49,Dr. Agarwal's Health Care Ltd.,AGARWALEYE,Healthcare,Hospital & Healthcare Services,16044.7
+50,Vijaya Diagnostic Centre Ltd.,VIJAYA,Healthcare,Hospital & Healthcare Services,15190.62
+51,Concord Biotech Ltd.,CONCORDBIO,Healthcare,Pharmaceuticals & Drugs,15128.55
+52,Marksans Pharma Ltd.,MARKSANS,Healthcare,Pharmaceuticals & Drugs,15090.35
+53,Rainbow Children's Medicare Ltd.,RAINBOW,Healthcare,Hospital & Healthcare Services,14871.39
+54,Jubilant Pharmova Ltd.,JUBLPHARMA,Healthcare,Pharmaceuticals & Drugs,13769.06
+55,CORONA Remedies Ltd.,CORONA,Healthcare,Pharmaceuticals & Drugs,13113.03
+56,Sudeep Pharma Ltd.,SUDEEPPHRM,Healthcare,Pharmaceuticals & Drugs,12509.06
+57,Park Medi World Ltd.,PARKHOSPS,Healthcare,Hospital & Healthcare Services,12148.06
+58,Akums Drugs & Pharmaceuticals Ltd.,AKUMS,Healthcare,Pharmaceuticals & Drugs,11446.48
+59,Metropolis Healthcare Ltd.,METROPOLIS,Healthcare,Hospital & Healthcare Services,11311.95
+60,Viyash Scientific Ltd.,VIYASH,Healthcare,Pharmaceuticals & Drugs,11244.04
+61,Blue Jet Healthcare Ltd.,BLUEJET,Healthcare,Pharmaceuticals & Drugs,11055.59
+62,Healthcare Global Enterprises Ltd.,HCG,Healthcare,Hospital & Healthcare Services,10658.68
+63,Jupiter Life Line Hospitals Ltd.,JLHL,Healthcare,Hospital & Healthcare Services,10365.99
+64,Sanofi Consumer Healthcare India Ltd.,SANOFICONR,Healthcare,Pharmaceuticals & Drugs,10235.84
+65,Thyrocare Technologies Ltd.,THYROCARE,Healthcare,Hospital & Healthcare Services,9928.73
+66,Procter & Gamble Health Ltd.,PGHL,Healthcare,Pharmaceuticals & Drugs,9849.58
+67,Suven Life Sciences Ltd.,SUVEN,Healthcare,Pharmaceuticals & Drugs,9673.53
+68,Strides Pharma Science Ltd.,STAR,Healthcare,Pharmaceuticals & Drugs,8922.78
+69,Yatharth Hospital & Trauma Care Services Ltd.,YATHARTH,Healthcare,Hospital & Healthcare Services,8141.94
+70,Aarti Pharmalabs Ltd.,AARTIPHARM,Healthcare,Pharmaceuticals & Drugs,7727.28
+71,Sanofi India Ltd.,SANOFI,Healthcare,Pharmaceuticals & Drugs,7476.66
+72,Nephrocare Health Services Ltd.,NEPHROPLUS,Healthcare,Hospital & Healthcare Services,7003.43
+73,Senores Pharmaceuticals Ltd.,SENORES,Healthcare,Pharmaceuticals & Drugs,6803.04
+74,Kovai Medical Center & Hospital Ltd.,KOVAI,Healthcare,Hospital & Healthcare Services,6619.74
+75,Sun Pharma Advanced Research Company Ltd.,SPARC,Healthcare,Pharmaceuticals & Drugs,6415.79
+76,Supriya Lifescience Ltd.,SUPRIYA,Healthcare,Pharmaceuticals & Drugs,6375.85
+77,Orchid Pharma Ltd.,ORCHPHARMA,Healthcare,Pharmaceuticals & Drugs,6270.58
+78,Innova Captab Ltd.,INNOVACAP,Healthcare,Pharmaceuticals & Drugs,5923.35
+79,FDC Ltd.,FDC,Healthcare,Pharmaceuticals & Drugs,5768.36
+80,Bliss GVS Pharma Ltd.,BLISSGVS,Healthcare,Pharmaceuticals & Drugs,5569.35
+81,Artemis Medicare Services Ltd.,ARTEMISMED,Healthcare,Hospital & Healthcare Services,4987.44
+82,IOL Chemicals And Pharmaceuticals Ltd.,IOLCP,Healthcare,Pharmaceuticals & Drugs,4853.48
+83,Morepen Laboratories Ltd.,MOREPENLAB,Healthcare,Pharmaceuticals & Drugs,4614.87
+84,RPG Life Sciences Ltd.,RPGLIFE,Healthcare,Pharmaceuticals & Drugs,4588.92
+85,Gufic Biosciences Ltd.,GUFICBIO,Healthcare,Pharmaceuticals & Drugs,4223.9
+86,Novartis India Ltd.,NOVARTIND,Healthcare,Pharmaceuticals & Drugs,3917.69
+87,Aarti Drugs Ltd.,AARTIDRUGS,Healthcare,Pharmaceuticals & Drugs,3806.42
+88,Gujarat Themis Biosyn Ltd.,GUJTHEM,Healthcare,Pharmaceuticals & Drugs,3803.43
+89,Unichem Laboratories Ltd.,UNICHEMLAB,Healthcare,Pharmaceuticals & Drugs,3793.46
+90,Kwality Pharmaceuticals Ltd.,KPL,Healthcare,Pharmaceuticals & Drugs,3574.34
+91,Indraprastha Medical Corporation Ltd.,INDRAMEDCO,Healthcare,Hospital & Healthcare Services,3419.86
+92,Advanced Enzyme Technologies Ltd.,ADVENZYMES,Healthcare,Pharmaceuticals & Drugs,3405.19
+93,SMS Pharmaceuticals Ltd.,SMSPHARMA,Healthcare,Pharmaceuticals & Drugs,3376.62
+94,Dishman Carbogen Amcis Ltd.,DCAL,Healthcare,Pharmaceuticals & Drugs,2985.15
+95,Beta Drugs Ltd.,BETA,Healthcare,Pharmaceuticals & Drugs,2827.67
+96,Vimta Labs Ltd.,VIMTALABS,Healthcare,Hospital & Healthcare Services,2754.05
+97,Hikal Ltd.,HIKAL,Healthcare,Pharmaceuticals & Drugs,2686.72
+98,Ind-Swift Laboratories Ltd.,INDSWFTLAB,Healthcare,Pharmaceuticals & Drugs,2645.37
+99,Dr Agarwals Eye Hospital Ltd.,DRAGARWQ,Healthcare,Hospital & Healthcare Services,2612.26
+100,Fredun Pharmaceuticals Ltd.,FREDUN,Healthcare,Pharmaceuticals & Drugs,2559.68
+101,Solara Active Pharma Sciences Ltd.,SOLARA,Healthcare,Pharmaceuticals & Drugs,2465.73
+102,Sai Parenteral's Ltd.,SAIPARENT,Healthcare,Pharmaceuticals & Drugs,2438.25
+103,Panacea Biotec Ltd.,PANACEABIO,Healthcare,Pharmaceuticals & Drugs,2429.2
+104,Venus Remedies Ltd.,VENUSREM,Healthcare,Pharmaceuticals & Drugs,2388.41
+105,KMC Speciality Hospitals (India) Ltd.,KMCSHIL,Healthcare,Hospital & Healthcare Services,2165.77
+106,NGL Fine-Chem Ltd.,NGLFINE,Healthcare,Pharmaceuticals & Drugs,2139.2
+107,Hester Biosciences Ltd.,HESTERBIO,Healthcare,Pharmaceuticals & Drugs,2053.26
+108,Indoco Remedies Ltd.,INDOCO,Healthcare,Pharmaceuticals & Drugs,2032.53
+109,Windlas Biotech Ltd.,WINDLAS,Healthcare,Pharmaceuticals & Drugs,1959.31
+110,Sakar Healthcare Ltd.,SAKAR,Healthcare,Pharmaceuticals & Drugs,1948.98
+111,Krsnaa Diagnostics Ltd.,KRSNAA,Healthcare,Hospital & Healthcare Services,1868.79
+112,Shukra Pharmaceuticals Ltd.,SHUKRAPHAR,Healthcare,Pharmaceuticals & Drugs,1821.32
+113,Shalby Ltd.,SHALBY,Healthcare,Hospital & Healthcare Services,1658.49
+114,Suraksha Diagnostic Ltd.,SURAKSHA,Healthcare,Hospital & Healthcare Services,1583.26
+115,Jagsonpal Pharmaceuticals Ltd.,JAGSNPHARM,Healthcare,Pharmaceuticals & Drugs,1495.28
+116,Amrutanjan Health Care Ltd.,AMRUTANJAN,Healthcare,Pharmaceuticals & Drugs,1430.35
+117,Syncom Formulations (India) Ltd.,SYNCOMF,Healthcare,Pharmaceuticals & Drugs,1402.48
+118,Accent Microcell Ltd.,ACCENTMIC,Healthcare,Pharmaceuticals & Drugs,1398.56
+119,Fermenta Biotech Ltd.,FERMENTA,Healthcare,Pharmaceuticals & Drugs,1322.63
+120,GPT Healthcare Ltd.,GPTHEALTH,Healthcare,Hospital & Healthcare Services,1280.06
+121,Q-Line Biotech Ltd.,QLINE,Healthcare,Medical Equipment/Supplies/Accessories,1242.93
+122,Lincoln Pharmaceuticals Ltd.,LINCOLN,Healthcare,Pharmaceuticals & Drugs,1227.52
+123,Laxmi Dental Ltd.,LAXMIDENTL,Healthcare,Medical Equipment/Supplies/Accessories,1115.01
+124,Bajaj Healthcare Ltd.,BAJAJHCARE,Healthcare,Pharmaceuticals & Drugs,1108.34
+125,Gujarat Kidney And Super Speciality Ltd.,GKSL,Healthcare,Hospital & Healthcare Services,1077.39
+126,Unihealth Hospitals Ltd.,UNIHEALTH,Healthcare,Hospital & Healthcare Services,1075.08
+127,Remus Pharmaceuticals Ltd.,REMUS,Healthcare,Pharmaceuticals & Drugs,1057.44
+128,Sigachi Industries Ltd.,SIGACHI,Healthcare,Pharmaceuticals & Drugs,1040.5
+129,3B Blackbio Dx Ltd.,3BBLACKBIO,Healthcare,Medical Equipment/Supplies/Accessories,1007.56
+130,Themis Medicare Ltd.,THEMISMED,Healthcare,Pharmaceuticals & Drugs,964.29
+131,Bharat Parenterals Ltd.,BPLPHARMA,Healthcare,Pharmaceuticals & Drugs,930.04
+132,Kopran Ltd.,KOPRAN,Healthcare,Pharmaceuticals & Drugs,918.15
+133,Wanbury Ltd.,WANBURY,Healthcare,Pharmaceuticals & Drugs,915.43
+134,Sudarshan Pharma Industries Ltd.,SUDARSHAN,Healthcare,Pharmaceuticals & Drugs,906.51
+135,Gaudium IVF and Women Health Ltd.,GAUDIUMIVF,Healthcare,Hospital & Healthcare Services,897.46
+136,Hexagon Nutrition Ltd.,HEXAGON,Healthcare,Pharmaceuticals & Drugs,783.23
+137,Anlon Healthcare Ltd.,AHCL,Healthcare,Pharmaceuticals & Drugs,769.1
+138,Anuh Pharma Ltd.,ANUHPHR,Healthcare,Pharmaceuticals & Drugs,764.31
+139,Osel Devices Ltd.,OSELDEVICE,Healthcare,Medical Equipment/Supplies/Accessories,701.29
+140,Influx Healthtech Ltd.,INFLUX,Healthcare,Pharmaceuticals & Drugs,662.91
+141,Shree Ganesh Remedies Ltd.,SGRL,Healthcare,Pharmaceuticals & Drugs,629.56
+142,Kilitch Drugs (India) Ltd.,KILITCH,Healthcare,Pharmaceuticals & Drugs,624.24
+143,Bafna Pharmaceuticals Ltd.,BAFNAPH,Healthcare,Pharmaceuticals & Drugs,620.74
+144,Amanta Healthcare Ltd.,AMANTA,Healthcare,Pharmaceuticals & Drugs,608.07
+145,Chandan Healthcare Ltd.,CHANDAN,Healthcare,Hospital & Healthcare Services,606.41
+146,KRM Ayurveda Ltd.,KRMAYURVED,Healthcare,Hospital & Healthcare Services,601.36
+147,Zim Laboratories Ltd.,ZIMLAB,Healthcare,Pharmaceuticals & Drugs,588.1
+148,Hemant Surgical Industries Ltd.,HSIL,Healthcare,Medical Equipment/Supplies/Accessories,530.62
+149,Jenburkt Pharmaceuticals Ltd.,JENBURPH,Healthcare,Pharmaceuticals & Drugs,468.58
+150,Albert David Ltd.,ALBERTDAVD,Healthcare,Pharmaceuticals & Drugs,460.97
+151,Prevest Denpro Ltd.,PREVEST,Healthcare,Medical Equipment/Supplies/Accessories,458.27
+152,Asarfi Hospital Ltd.,ASARFI,Healthcare,Hospital & Healthcare Services,453.56
+153,Valiant Laboratories Ltd.,VALIANTLAB,Healthcare,Pharmaceuticals & Drugs,451.07
+154,Haleos Labs Ltd.,HALEOSLABS,Healthcare,Pharmaceuticals & Drugs,448.78
+155,Kaya Ltd.,KAYA,Healthcare,Hospital & Healthcare Services,445.07
+156,Astal Laboratories Ltd.,ASTALLTD,Healthcare,Pharmaceuticals & Drugs,377.5
+157,Medico Remedies Ltd.,MEDICO,Healthcare,Pharmaceuticals & Drugs,373.51
+158,Nureca Ltd.,NURECA,Healthcare,Medical Equipment/Supplies/Accessories,333.54
+159,iStreet Network Ltd.,ISTRNETWK,Healthcare,Pharmaceuticals & Drugs,329.29
+160,Medicamen Biotech Ltd.,MEDICAMEQ,Healthcare,Pharmaceuticals & Drugs,326.52
+161,Ambalal Sarabhai Enterprises Ltd.,AMBALALSA,Healthcare,Pharmaceuticals & Drugs,325.46
+162,Trident Lifeline Ltd.,TLL,Healthcare,Pharmaceuticals & Drugs,314.79
+163,BDH Industries Ltd.,BDH,Healthcare,Pharmaceuticals & Drugs,314.06
+164,Astonea Labs Ltd.,ASTONEALAB,Healthcare,Pharmaceuticals & Drugs,292.21
+165,Everest Organics Ltd.,EVERESTO,Healthcare,Pharmaceuticals & Drugs,288.24
+166,Yash Optics & Lens Ltd.,YASHOPTICS,Healthcare,Medical Equipment/Supplies/Accessories,282.33
+167,Zenotech Laboratories Ltd.,ZENOTECH,Healthcare,Pharmaceuticals & Drugs,266.34
+168,Gennex Laboratories Ltd.,GENNEX,Healthcare,Pharmaceuticals & Drugs,262.87
+169,Aarey Drugs & Pharmaceuticals Ltd.,AAREYDRUGS,Healthcare,Pharmaceuticals & Drugs,254.96
+170,Hannah Joseph Hospital Ltd.,HANNAH,Healthcare,Hospital & Healthcare Services,246.28
+171,Oxygenta Pharmaceutical Ltd.,OXYGENTAPH,Healthcare,Pharmaceuticals & Drugs,241.8
+172,Lyka Labs Ltd.,LYKALABS,Healthcare,Pharmaceuticals & Drugs,240.6
+173,Lotus Eye Hospital And Institute Ltd.,LOTUSEYE,Healthcare,Hospital & Healthcare Services,240.51
+174,Sanjivani Paranteral Ltd.,SANJIVIN,Healthcare,Pharmaceuticals & Drugs,240.28
+175,Nectar Lifesciences Ltd.,NECLIFE,Healthcare,Pharmaceuticals & Drugs,218.93
+176,Accretion Pharmaceuticals Ltd.,ACCPL,Healthcare,Pharmaceuticals & Drugs,211.76
+177,Kerala Ayurveda Ltd.,KERALAYUR,Healthcare,Pharmaceuticals & Drugs,208.7
+178,Accretion Nutraveda Ltd.,ANL,Healthcare,Pharmaceuticals & Drugs,207.06
+179,Coral Laboratories Ltd.,CORALAB,Healthcare,Pharmaceuticals & Drugs,205.3
+180,Earkart Ltd.,EARKART,Healthcare,Medical Equipment/Supplies/Accessories,192.49
+181,Vaidya Sane Ayurved Laboratories Ltd.,MADHAVBAUG,Healthcare,Hospital & Healthcare Services,188.19
+182,Gujarat Inject (Kerala) Ltd.,GUJINJEC,Healthcare,Pharmaceuticals & Drugs,185.46
+183,Brooks Laboratories Ltd.,BROOKS,Healthcare,Pharmaceuticals & Drugs,185.14
+184,Bio Medica Laboratories Ltd.,BMLL,Healthcare,Pharmaceuticals & Drugs,181.52
+185,Syschem (India) Ltd.,SYSCHEM,Healthcare,Pharmaceuticals & Drugs,170.23
+186,Aashka Hospitals Ltd.,AASHKA,Healthcare,Hospital & Healthcare Services,168.48
+187,Star Imaging and Path Lab Ltd.,STARIMAGIN,Healthcare,Hospital & Healthcare Services,166.36
+188,Panchsheel Organics Ltd.,PANCHSHEEL,Healthcare,Pharmaceuticals & Drugs,161.16
+189,Natural Capsules Ltd.,NATCAPSUQ,Healthcare,Pharmaceuticals & Drugs,156.43
+190,Quest Laboratories Ltd.,QUESTLAB,Healthcare,Pharmaceuticals & Drugs,149.86
+191,Auro Laboratories Ltd.,AUROLAB,Healthcare,Pharmaceuticals & Drugs,148.83
+192,Parnax Lab Ltd.,PARNAXLAB,Healthcare,Pharmaceuticals & Drugs,148.57
+193,Nephro Care India Ltd.,NEPHROCARE,Healthcare,Hospital & Healthcare Services,144.09
+194,Smruthi Organics Ltd.,SMRUTHIORG,Healthcare,Pharmaceuticals & Drugs,142.56
+195,Bal Pharma Ltd.,BALPHARMA,Healthcare,Pharmaceuticals & Drugs,137.8
+196,Kimia Biosciences Ltd.,KIMIABL,Healthcare,Pharmaceuticals & Drugs,136.92
+197,Avience Biomedicals Ltd.,AVIENCE,Healthcare,Medical Equipment/Supplies/Accessories,135.65
+198,Lactose (India) Ltd.,LACTOSE,Healthcare,Pharmaceuticals & Drugs,135.27
+199,Alpa Laboratories Ltd.,ALPA,Healthcare,Pharmaceuticals & Drugs,134.93
+200,Balaxi Pharmaceuticals Ltd.,BALAXI,Healthcare,Pharmaceuticals & Drugs,132.5
+201,Par Drugs And Chemicals Ltd.,PAR,Healthcare,Pharmaceuticals & Drugs,125.81
+202,Raaj Medisafe India Ltd.,RAAJMEDI,Healthcare,Medical Equipment/Supplies/Accessories,121.54
+203,Krebs Biochemicals & Industries Ltd.,KREBSBIO,Healthcare,Pharmaceuticals & Drugs,120.52
+204,Pharmaids Pharmaceuticals Ltd.,PHARMAID,Healthcare,Pharmaceuticals & Drugs,117.94
+205,Godavari Drugs Ltd.,GODAVARI,Healthcare,Pharmaceuticals & Drugs,114.6
+206,Holmarc Opto-Mechatronics Ltd.,HOLMARC,Healthcare,Medical Equipment/Supplies/Accessories,107.53
+207,Tyche Industries Ltd.,TYCHE,Healthcare,Pharmaceuticals & Drugs,107.16
+208,Aspira Pathlab & Diagnostics Ltd.,ASPIRA,Healthcare,Hospital & Healthcare Services,102.42
+209,Denis Chem Lab Ltd.,DENISCHEM,Healthcare,Pharmaceuticals & Drugs,97.89
+210,Sotac Pharmaceuticals Ltd.,SOTAC,Healthcare,Pharmaceuticals & Drugs,96.58
+211,Concord Drugs Ltd.,CONCORD,Healthcare,Pharmaceuticals & Drugs,96.03
+212,Makers Laboratories Ltd.,MAKERSL,Healthcare,Pharmaceuticals & Drugs,92.1
+213,Invicta Diagnostic Ltd.,INVICTA,Healthcare,Hospital & Healthcare Services,91.78
+214,Mercury Laboratories Ltd.,MERCURYLAB,Healthcare,Pharmaceuticals & Drugs,91.72
+215,Fortis Malar Hospitals Ltd.,FORTISMLR,Healthcare,Hospital & Healthcare Services,91.03
+216,Amwill Health Care Ltd.,AMWILL,Healthcare,Pharmaceuticals & Drugs,83.52
+217,Maitreya Medicare Ltd.,MAITREYA,Healthcare,Hospital & Healthcare Services,82.67
+218,Curis Lifesciences Ltd.,CURIS,Healthcare,Pharmaceuticals & Drugs,82.46
+219,Onyx Biotec Ltd.,ONYX,Healthcare,Pharmaceuticals & Drugs,79.78
+220,Modern Diagnostic & Research Centre Ltd.,MDRC,Healthcare,Hospital & Healthcare Services,77.01
+221,Zenith Drugs Ltd.,ZENITHDRUG,Healthcare,Pharmaceuticals & Drugs,76.57
+222,Sangani Hospitals Ltd.,SANGANI,Healthcare,Hospital & Healthcare Services,76.39
+223,Source Natural Foods and Herbal Supplements Ltd.,SOURCENTRL,Healthcare,Pharmaceuticals & Drugs,73.19
+224,Vineet Laboratories Ltd.,VINEETLAB,Healthcare,Pharmaceuticals & Drugs,72.02
+225,Samrat Pharmachem Ltd.,SAMRATPH,Healthcare,Pharmaceuticals & Drugs,71.43
+226,Bharat Immunologicals & Biologicals Corporation Ltd.,BIBCL,Healthcare,Pharmaceuticals & Drugs,69.52
+227,Asston Pharmaceuticals Ltd.,APL,Healthcare,Pharmaceuticals & Drugs,68.06
+228,Vilin Bio Med Ltd.,VILINBIO,Healthcare,Pharmaceuticals & Drugs,66.34
+229,Aanjaay Industries Ltd.,KABRADG,Healthcare,Pharmaceuticals & Drugs,59.22
+230,Shanmuga Hospital Ltd.,SHANMUGA,Healthcare,Hospital & Healthcare Services,58.39
+231,Vasundhara Rasayans Ltd.,VRL,Healthcare,Pharmaceuticals & Drugs,57.84
+232,Phaarmasia Ltd.,PHRMASI,Healthcare,Pharmaceuticals & Drugs,52.57
+233,Shree Pacetronix Ltd.,SHREEPAC,Healthcare,Medical Equipment/Supplies/Accessories,49.44
+234,Mangalam Drugs And Organics Ltd.,MANGALAM,Healthcare,Pharmaceuticals & Drugs,45.03
+235,Vivo Bio Tech Ltd.,VIVOBIOT,Healthcare,Pharmaceuticals & Drugs,44.6
+236,Parmax Pharma Ltd.,PARMAX,Healthcare,Pharmaceuticals & Drugs,44.05
+237,KMS Medisurgi Ltd.,KMSMEDI,Healthcare,Medical Equipment/Supplies/Accessories,43.82
+238,JFL Life Sciences Ltd.,JFLLIFE,Healthcare,Pharmaceuticals & Drugs,43.55
+239,Shelter Pharma Ltd.,SHELTER,Healthcare,Pharmaceuticals & Drugs,42.43
+240,Vista Pharmaceuticals Ltd.,VISTAPH,Healthcare,Pharmaceuticals & Drugs,42.41
+241,Rajnish Wellness Ltd.,RAJNISH,Healthcare,Pharmaceuticals & Drugs,41.63
+242,ANG Lifesciences India Ltd.,ANG,Healthcare,Pharmaceuticals & Drugs,41.03
+243,Aatmaj Healthcare Ltd.,AATMAJ,Healthcare,Hospital & Healthcare Services,40.91
+244,Vivimed Labs Ltd.,VIVIMEDLAB,Healthcare,Pharmaceuticals & Drugs,40.88
+245,Amkay Products Ltd.,AMKAY,Healthcare,Medical Equipment/Supplies/Accessories,39.82
+246,Goldline Pharmaceutical Ltd.,GLPL,Healthcare,Pharmaceuticals & Drugs,38.49
+247,Roopa Industries Ltd.,ROOPAIND,Healthcare,Pharmaceuticals & Drugs,38.28
+248,Lasa Supergenerics Ltd.,LASA,Healthcare,Pharmaceuticals & Drugs,38.03
+249,NG Industries Ltd.,NGIND,Healthcare,Hospital & Healthcare Services,37.86
+250,Chandra Bhagat Pharma Ltd.,CBPL,Healthcare,Pharmaceuticals & Drugs,37.65
+251,Sandu Pharmaceuticals Ltd.,SANDUPHQ,Healthcare,Pharmaceuticals & Drugs,35.71
+252,Panjon Ltd.,PANJON,Healthcare,Pharmaceuticals & Drugs,32.77
+253,GKB Ophthalmics Ltd.,GKB,Healthcare,Medical Equipment/Supplies/Accessories,32.76
+254,Walpar Nutritions Ltd.,WALPAR,Healthcare,Pharmaceuticals & Drugs,32.73
+255,Kretto Syscon Ltd.,KRETTOSYS,Healthcare,Medical Equipment/Supplies/Accessories,32.51
+256,Bandaram Pharma Packtech Ltd.,BANDARAM,Healthcare,Pharmaceuticals & Drugs,32.44
+257,Deccan Health Care Ltd.,DECCAN,Healthcare,Pharmaceuticals & Drugs,32.4
+258,Sharma East India Hospitals & Medical Research Ltd,SHARMEH,Healthcare,Hospital & Healthcare Services,31.69
+259,Soni Medicare Ltd.,SML,Healthcare,Hospital & Healthcare Services,31.13
+260,Gujarat Terce Laboratories Ltd.,GUJTERC,Healthcare,Pharmaceuticals & Drugs,30.15
+261,Galaxy Medicare Ltd.,GML,Healthcare,Medical Equipment/Supplies/Accessories,30.04
+262,KK Shah Hospitals Ltd.,KKSHL,Healthcare,Hospital & Healthcare Services,29.89
+263,Centenial Surgical Suture Ltd.,CSURGSU,Healthcare,Medical Equipment/Supplies/Accessories,29.88
+264,Medicamen Organics Ltd.,MEDIORG,Healthcare,Pharmaceuticals & Drugs,29.62
+265,Chennai Meenakshi Multispeciality Hospital Ltd.,CMMHOSP,Healthcare,Hospital & Healthcare Services,29.43
+266,Tejnaksh Healthcare Ltd.,TEJNAKSH,Healthcare,Hospital & Healthcare Services,27.18
+267,Unick Fix-A-Form And Printers Ltd.,UNICK,Healthcare,Pharmaceuticals & Drugs,26.89
+268,Samsrita Labs Ltd.,SAMSRITA,Healthcare,Hospital & Healthcare Services,26.25
+269,Venmax Drugs And Pharmaceuticals Ltd.,VENMAX,Healthcare,Pharmaceuticals & Drugs,24.52
+270,Adeshwar Meditex Ltd.,ADESHWAR,Healthcare,Pharmaceuticals & Drugs,24.24
+271,Cian Healthcare Ltd.,CHCL,Healthcare,Pharmaceuticals & Drugs,23.88
+272,Ishita Drugs & Industries Ltd.,ISHITADR,Healthcare,Pharmaceuticals & Drugs,22.53
+273,Colinz Laboratories Ltd.,COLINZ,Healthcare,Pharmaceuticals & Drugs,20.12
+274,Bacil Pharma Ltd.,BACPHAR,Healthcare,Pharmaceuticals & Drugs,18.83
+275,Nidan Laboratories And Healthcare Ltd.,NIDAN,Healthcare,Hospital & Healthcare Services,18.49
+276,Zenith Health Care Ltd.,ZENITHHE,Healthcare,Pharmaceuticals & Drugs,16.61
+277,Norris Medicines Ltd.,NORRIS,Healthcare,Pharmaceuticals & Drugs,15.9
+278,Desh Rakshak Aushdhalaya Ltd.,DESHRAK,Healthcare,Pharmaceuticals & Drugs,15.33
+279,Shamrock Industrial Company Ltd.,SHAMROIN,Healthcare,Pharmaceuticals & Drugs,14.09
+280,Starsource Multitrade Ltd.,STARSOURCE,Healthcare,Pharmaceuticals & Drugs,13.47
+281,Global Longlife Hospital and Research Ltd.,GLHRL,Healthcare,Hospital & Healthcare Services,12.64
+282,Saroja Pharma Industries India Ltd.,SAROJA,Healthcare,Pharmaceuticals & Drugs,12.64
+283,Ortin Global Ltd.,ORTINGLOBE,Healthcare,Pharmaceuticals & Drugs,12.42
+284,Unjha Formulations Ltd.,UNJHAFOR,Healthcare,Pharmaceuticals & Drugs,12.34
+285,Kobo Biotech Ltd.,KOBO,Healthcare,Pharmaceuticals & Drugs,12.22
+286,Emmessar Biotech & Nutrition Ltd.,EMMESSA,Healthcare,Pharmaceuticals & Drugs,11.83
+287,Beryl Drugs Ltd.,BERLDRG,Healthcare,Pharmaceuticals & Drugs,11.64
+288,Dhanvantri Jeevan Rekha Ltd.,ZDHJERK,Healthcare,Hospital & Healthcare Services,11.47
+289,Dolphin Medical Services Ltd.,DOLPHMED,Healthcare,Hospital & Healthcare Services,11.31
+290,Broach Lifecare Hospital Ltd.,BROACH,Healthcare,Hospital & Healthcare Services,11.05
+291,Family Care Hospitals Ltd.,FAMILYCARE,Healthcare,Hospital & Healthcare Services,10.32
+292,Looks Health Services Ltd.,LOOKS,Healthcare,Hospital & Healthcare Services,9.51
+293,Clinitech Laboratory Ltd.,CTLLAB,Healthcare,Hospital & Healthcare Services,9.13
+294,Adline Chem Lab Ltd.,ADLINE,Healthcare,Pharmaceuticals & Drugs,7.62
+295,Hindustan Bio Sciences Ltd.,HINDBIO,Healthcare,Pharmaceuticals & Drugs,7.1
+296,Ganga Pharmaceuticals Ltd.,GANGAPHARM,Healthcare,Pharmaceuticals & Drugs,7.09
+297,Brawn Biotech Ltd.,BRAWN,Healthcare,Pharmaceuticals & Drugs,6.09
+298,Decipher Labs Ltd.,DECIPHER,Healthcare,Pharmaceuticals & Drugs,6.06
+299,Dr Lalchandani Labs Ltd.,DLCL,Healthcare,Hospital & Healthcare Services,5.52
+300,Gian Life Care Ltd.,GIANLIFE,Healthcare,Hospital & Healthcare Services,4.89
+301,MPS Pharmaa Ltd.,ADVIKLA,Healthcare,Pharmaceuticals & Drugs,3.8
+302,Transpact Enterprises Ltd.,TRANSPACT,Healthcare,Medical Equipment/Supplies/Accessories,3.67
+303,Boston Commerce Ltd.,BOSTON,Healthcare,Medical Equipment/Supplies/Accessories,3.14
+304,Cresanto Global Ltd.,CRESANTO,Healthcare,Pharmaceuticals & Drugs,2.19
+305,Murae Organisor Ltd. - (Rights Entitlements (REs)),MURAE-RE1,Healthcare,Pharmaceuticals & Drugs,0.0
+306,Rajnish Wellness Ltd. - (Rights Entitlements (REs)),RAJNI-RE,Healthcare,Pharmaceuticals & Drugs,0.0
+307,Kilitch Drugs (India) Ltd. - (Rights Entitlements (REs)),KILITC-RE,Healthcare,Pharmaceuticals & Drugs,0.0
+308,Valiant Laboratories Ltd. - (Rights Entitlements (REs)),VALIANT-RE,Healthcare,Pharmaceuticals & Drugs,0.0
+309,Vineet Laboratories Ltd. - (Rights Entitlements (REs)),VINEET-RE,Healthcare,Pharmaceuticals & Drugs,0.0
+310,Dr Lalchandani Labs Ltd. - (Rights Entitlements (REs)),DLCL-RE,Healthcare,Hospital & Healthcare Services,0.0
+311,Healthcare Global Enterprises Ltd. - (Rights Entitlements (REs)),HCG-RE,Healthcare,Hospital & Healthcare Services,0.0

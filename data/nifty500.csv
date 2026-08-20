@@ -1,0 +1,501 @@
+Rank,Stock_Name,Symbol,Sector,Industry,Market_Cap
+1,Reliance Industries Ltd.,RELIANCE,Crude Oil,Refineries,1770056
+2,Bharti Airtel Ltd.,BHARTIARTL,Telecom,Telecommunication - Service  Provider,1243238
+3,HDFC Bank Ltd.,HDFCBANK,Banking,Bank - Private,1120928
+4,ICICI Bank Ltd.,ICICIBANK,Banking,Bank - Private,1017618
+5,State Bank Of India,SBIN,Banking,Bank - Public,985830
+6,Tata Consultancy Services Ltd.,TCS,Information Technology,IT - Software,853507
+7,Bajaj Finance Ltd.,BAJFINANCE,Finance,Finance - NBFC,677197
+8,Larsen & Toubro Ltd.,LT,Infrastructure,Engineering - Construction,558973
+9,Life Insurance Corporation of India,LICI,Finance,Insurance,523330
+10,Hindustan Unilever Ltd.,HINDUNILVR,Fast Moving Consumer Goods,Household & Personal Products,490888
+11,Infosys Ltd.,INFY,Information Technology,IT - Software,474407
+12,Sun Pharmaceutical Industries Ltd.,SUNPHARMA,Healthcare,Pharmaceuticals & Drugs,461848
+13,Titan Company Ltd.,TITAN,Diamond & Jewellery,Diamond  &  Jewellery,450907
+14,Maruti Suzuki India Ltd.,MARUTI,Automobile & Ancillaries,Automobiles - Passenger Cars,435919
+15,Mahindra & Mahindra Ltd.,M&M,Automobile & Ancillaries,Automobiles - Passenger Cars,427650
+16,Adani Enterprises Ltd.,ADANIENT,Trading,Trading,411532
+17,Adani Power Ltd.,ADANIPOWER,Power,Power Generation/Distribution,395818
+18,Kotak Mahindra Bank Ltd.,KOTAKBANK,Banking,Bank - Private,390932
+19,Adani Ports and Special Economic Zone Ltd.,ADANIPORTS,Logistics,Port,390521
+20,Axis Bank Ltd.,AXISBANK,Banking,Bank - Private,378950
+21,HCL Technologies Ltd.,HCLTECH,Information Technology,IT - Software,369058
+22,ITC Ltd.,ITC,Fast Moving Consumer Goods,Cigarettes/Tobacco,347827
+23,Ultratech Cement Ltd.,ULTRACEMCO,Construction Materials,Cement & Construction Materials,345217
+24,Hindustan Aeronautics Ltd.,HAL,Capital Goods,Aerospace & Defense,335424
+25,NTPC Ltd.,NTPC,Power,Power Generation/Distribution,330656
+26,Bajaj Finserv Ltd.,BAJAJFINSV,Finance,Finance - Investment,325218
+27,Bajaj Auto Ltd.,BAJAJ-AUTO,Automobile & Ancillaries,Automobile Two & Three Wheelers,321520
+28,JSW Steel Ltd.,JSWSTEEL,Iron & Steel,Steel & Iron Products,309839
+29,Eternal Ltd.,ETERNAL,Information Technology,e-Commerce,306881
+30,Bharat Electronics Ltd.,BEL,Capital Goods,Aerospace & Defense,299993
+31,Oil & Natural Gas Corporation Ltd.,ONGC,Crude Oil,Oil Exploration,297398
+32,Nestle India Ltd.,NESTLEIND,Fast Moving Consumer Goods,Consumer Food,289286
+33,Shriram Finance Ltd.,SHRIRAMFIN,Finance,Finance - NBFC,264499
+34,Avenue Supermarts Ltd.,DMART,Retailing,Retailing,264427
+35,Asian Paints Ltd.,ASIANPAINT,Chemicals,Paints,259943
+36,Coal India Ltd.,COALINDIA,Mining,Mining & Minerals,251624
+37,Power Grid Corporation Of India Ltd.,POWERGRID,Power,Power Generation/Distribution,247861
+38,Hindustan Zinc Ltd.,HINDZINC,Non - Ferrous Metals,Metal - Non Ferrous,237421
+39,Hindalco Industries Ltd.,HINDALCO,Non - Ferrous Metals,Metal - Non Ferrous,232431
+40,Tata Steel Ltd.,TATASTEEL,Iron & Steel,Steel & Iron Products,228947
+41,Divi's Laboratories Ltd.,DIVISLAB,Healthcare,Pharmaceuticals & Drugs,225648
+42,Eicher Motors Ltd.,EICHERMOT,Automobile & Ancillaries,Automobile Two & Three Wheelers,223046
+43,Adani Green Energy Ltd.,ADANIGREEN,Power,Power Generation/Distribution,221545
+44,Grasim Industries Ltd.,GRASIM,Construction Materials,Cement & Construction Materials,221121
+45,TVS Motor Company Ltd.,TVSMOTOR,Automobile & Ancillaries,Automobile Two & Three Wheelers,205513
+46,Interglobe Aviation Ltd.,INDIGO,Aviation,Airlines,205513
+47,Adani Energy Solutions Ltd.,ADANIENSOL,Power,Power Generation/Distribution,197752
+48,Indian Oil Corporation Ltd.,IOC,Crude Oil,Refineries,196850
+49,Torrent Pharmaceuticals Ltd.,TORNTPHARM,Healthcare,Pharmaceuticals & Drugs,184109
+50,Wipro Ltd.,WIPRO,Information Technology,IT - Software,182040
+51,SBI Life Insurance Company Ltd.,SBILIFE,Finance,Insurance,181289
+52,Solar Industries India Ltd.,SOLARINDS,Chemicals,Chemicals,180799
+53,Hyundai Motor India Ltd.,HYUNDAI,Automobile & Ancillaries,Automobiles - Passenger Cars,178759
+54,Samvardhana Motherson International Ltd.,MOTHERSON,Automobile & Ancillaries,Auto Ancillary,177631
+55,Tata Motors Ltd.,TMCV,Automobile & Ancillaries,Automobiles-Trucks/Lcv,174505
+56,Pidilite Industries Ltd.,PIDILITIND,Chemicals,Chemicals,172007
+57,JIO Financial Services Ltd.,JIOFIN,Finance,Finance - NBFC,165079
+58,DLF Ltd.,DLF,Realty,Construction - Real Estate,164113
+59,Cholamandalam Investment and Finance Company Ltd.,CHOLAFIN,Finance,Finance - NBFC,162700
+60,ABB India Ltd.,ABB,Capital Goods,Electric Equipment,162004
+61,Tech Mahindra Ltd.,TECHM,Information Technology,IT - Software,160214
+62,Trent Ltd.,TRENT,Retailing,Retailing,159436
+63,Hitachi Energy India Ltd.,POWERINDIA,Capital Goods,Electric Equipment,159034
+64,Tata Capital Ltd.,TATACAP,Finance,Finance - NBFC,154641
+65,ICICI Prudential Asset Management Company Ltd.,ICICIAMC,Finance,Finance - Asset Management,153270
+66,Vodafone Idea Ltd.,IDEA,Telecom,Telecommunication - Service  Provider,152764
+67,Cummins India Ltd.,CUMMINSIND,Automobile & Ancillaries,Diesel Engines,149800
+68,Varun Beverages Ltd.,VBL,Fast Moving Consumer Goods,Consumer Food,147509
+69,Bharat Heavy Electricals Ltd.,BHEL,Capital Goods,Engineering - Industrial Equipments,146978
+70,Union Bank Of India,UNIONBANK,Banking,Bank - Public,142748
+71,CG Power and Industrial Solutions Ltd.,CGPOWER,Capital Goods,Electric Equipment,140688
+72,BSE Ltd.,BSE,Finance,Finance - Others,140598
+73,LTM Ltd.,LTM,Information Technology,IT - Software,140302
+74,Siemens Ltd.,SIEMENS,Capital Goods,Electric Equipment,139959
+75,Polycab India Ltd.,POLYCAB,Electricals,Cable,139813
+76,Bosch Ltd.,BOSCHLTD,Automobile & Ancillaries,Auto Ancillary,138812
+77,Bharat Petroleum Corporation Ltd.,BPCL,Crude Oil,Refineries,138073
+78,Punjab National Bank,PNB,Banking,Bank - Public,135042
+79,Britannia Industries Ltd.,BRITANNIA,Fast Moving Consumer Goods,Consumer Food,133682
+80,Bank Of Baroda,BANKBARODA,Banking,Bank - Public,128353
+81,Apollo Hospitals Enterprise Ltd.,APOLLOHOSP,Healthcare,Hospital & Healthcare Services,128328
+82,Bajaj Holdings & Investment Ltd.,BAJAJHLDNG,Finance,Finance - NBFC,126953
+83,Siemens Energy India Ltd.,ENRIN,Capital Goods,Electric Equipment,126120
+84,Power Finance Corporation Ltd.,PFC,Finance,Finance Term Lending,124430
+85,Lodha Developers Ltd.,LODHA,Realty,Construction - Real Estate,123898
+86,Tata Motors Passenger Vehicles Ltd.,TMPV,Automobile & Ancillaries,Automobiles - Passenger Cars,123082
+87,Billionbrains Garage Ventures Ltd.,GROWW,Finance,Finance - Stock Broking,123057
+88,Tata Power Company Ltd.,TATAPOWER,Power,Power Generation/Distribution,122445
+89,Indian Bank,INDIANB,Banking,Bank - Public,121227
+90,Canara Bank,CANBK,Banking,Bank - Public,118962
+91,LG Electronics India Ltd.,LGEINDIA,Consumer Durables,Consumer Durables - Electronics,117557
+92,Cipla Ltd.,CIPLA,Healthcare,Pharmaceuticals & Drugs,117139
+93,HDFC Life Insurance Company Ltd.,HDFCLIFE,Finance,Insurance,116771
+94,Hero MotoCorp Ltd.,HEROMOTOCO,Automobile & Ancillaries,Automobile Two & Three Wheelers,115982
+95,Indian Railway Finance Corporation Ltd.,IRFC,Finance,Finance Term Lending,114480
+96,GAIL (India) Ltd.,GAIL,Gas Transmission,Gas Transmission/Marketing,114440
+97,Muthoot Finance Ltd.,MUTHOOTFIN,Finance,Finance - NBFC,114218
+98,Zydus Lifesciences Ltd.,ZYDUSLIFE,Healthcare,Pharmaceuticals & Drugs,113715
+99,Marico Ltd.,MARICO,Fast Moving Consumer Goods,Edible Oil,112440
+100,Jindal Steel Ltd.,JINDALSTEL,Iron & Steel,Steel/Sponge Iron/Pig Iron,112210
+101,GE Vernova T&D India Ltd.,GVT&D,Capital Goods,Electric Equipment,111421
+102,United Spirits Ltd.,UNITDSPR,Alcohol,Breweries & Distilleries,110557
+103,Aditya Birla Capital Ltd.,ABCAPITAL,Finance,Finance - NBFC,109828
+104,Lloyds Metals & Energy Ltd.,LLOYDSME,Iron & Steel,Steel/Sponge Iron/Pig Iron,107974
+105,GMR Airports Ltd.,GMRAIRPORT,Aviation,Airport Management Services,107543
+106,HDFC Asset Management Company Ltd.,HDFCAMC,Finance,Finance - Asset Management,107197
+107,Tata Consumer Products Ltd.,TATACONSUM,Agriculture,Tea/Coffee,106985
+108,Lenskart Solutions Ltd.,LENSKART,Healthcare,Medical Equipment/Supplies/Accessories,106480
+109,Vedanta Ltd.,VEDL,Non - Ferrous Metals,Metal - Non Ferrous,105385
+110,Mazagon Dock Shipbuilders Ltd.,MAZDOCK,Ship Building,Ship Building,104072
+111,Ambuja Cements Ltd.,AMBUJACEM,Construction Materials,Cement & Construction Materials,103741
+112,One97 Communications Ltd.,PAYTM,Information Technology,Fintech,102838
+113,The Indian Hotels Company Ltd.,INDHOTEL,Hospitality,"Hotel, Resort & Restaurants",102686
+114,Oracle Financial Services Software Ltd.,OFSS,Information Technology,IT - Software,102322
+115,JSW Energy Ltd.,JSWENERGY,Power,Power Generation/Distribution,102253
+116,Lupin Ltd.,LUPIN,Healthcare,Pharmaceuticals & Drugs,102192
+117,Indus Towers Ltd.,INDUSTOWER,Telecom,Telecommunication - Service  Provider,101451
+118,Ashok Leyland Ltd.,ASHOKLEY,Automobile & Ancillaries,Automobiles-Trucks/Lcv,100972
+119,Dr. Reddy's Laboratories Ltd.,DRREDDY,Healthcare,Pharmaceuticals & Drugs,100328
+120,Mankind Pharma Ltd.,MANKIND,Healthcare,Pharmaceuticals & Drugs,99945
+121,Bharat Forge Ltd.,BHARATFORG,Automobile & Ancillaries,Forgings,99203
+122,Max Healthcare Institute Ltd.,MAXHEALTH,Healthcare,Hospital & Healthcare Services,98301
+123,Laurus Labs Ltd.,LAURUSLABS,Healthcare,Pharmaceuticals & Drugs,98064
+124,Godrej Consumer Products Ltd.,GODREJCP,Fast Moving Consumer Goods,Household & Personal Products,95781
+125,Aurobindo Pharma Ltd.,AUROPHARMA,Healthcare,Pharmaceuticals & Drugs,95398
+126,FSN E-Commerce Ventures Ltd.,NYKAA,Information Technology,e-Commerce,94802
+127,Shree Cement Ltd.,SHREECEM,Construction Materials,Cement & Construction Materials,89180
+128,IDBI Bank Ltd.,IDBI,Banking,Bank - Private,88600
+129,REC Ltd.,RECLTD,Finance,Finance Term Lending,88450
+130,Meesho Ltd.,MEESHO,Information Technology,e-Commerce,88426
+131,Persistent Systems Ltd.,PERSISTENT,Information Technology,IT - Software,88025
+132,The Federal Bank Ltd.,FEDERALBNK,Banking,Bank - Private,87250
+133,Info Edge (India) Ltd.,NAUKRI,Information Technology,BPO/ITeS,86960
+134,Dixon Technologies (India) Ltd.,DIXON,Consumer Durables,Consumer Durables - Electronics,86449
+135,AU Small Finance Bank Ltd.,AUBANK,Banking,Bank - Private,81570
+136,Havells India Ltd.,HAVELLS,Capital Goods,Electric Equipment,81458
+137,ICICI Lombard General Insurance Company Ltd.,ICICIGI,Finance,Insurance,81273
+138,Bharti Hexacom Ltd.,BHARTIHEXA,Telecom,Telecommunication - Service  Provider,81055
+139,Coforge Ltd.,COFORGE,Information Technology,IT - Software,80612
+140,PB Fintech Ltd.,POLICYBZR,Information Technology,Fintech,80463
+141,IndusInd Bank Ltd.,INDUSINDBK,Banking,Bank - Private,80407
+142,Hindustan Petroleum Corporation Ltd.,HINDPETRO,Crude Oil,Refineries,79368
+143,JSW Infrastructure Ltd.,JSWINFRA,Logistics,Port,79034
+144,NTPC Green Energy Ltd.,NTPCGREEN,Power,Power Generation/Distribution,77548
+145,SRF Ltd.,SRF,Chemicals,Chemicals,77340
+146,NHPC Ltd.,NHPC,Power,Power Generation/Distribution,77246
+147,Waaree Energies Ltd.,WAAREEENER,Capital Goods,Electric Equipment,76975
+148,L&T Finance Ltd.,LTF,Finance,Finance - NBFC,76798
+149,Oil India Ltd.,OIL,Crude Oil,Oil Exploration,76434
+150,Swiggy Ltd.,SWIGGY,Information Technology,e-Commerce,76405
+151,Multi Commodity Exchange Of India Ltd.,MCX,Finance,Finance - Stock Broking,74521
+152,Nippon Life India Asset Management Ltd.,NAM-INDIA,Finance,Finance - Asset Management,74495
+153,NMDC Ltd.,NMDC,Mining,Mining & Minerals,74185
+154,IDFC First Bank Ltd.,IDFCFIRSTB,Banking,Bank - Private,73798
+155,ICICI Prudential Life Insurance Company Ltd.,ICICIPRULI,Finance,Insurance,73411
+156,Dabur India Ltd.,DABUR,Fast Moving Consumer Goods,Household & Personal Products,72306
+157,Adani Total Gas Ltd.,ATGL,Gas Transmission,Gas Transmission/Marketing,71873
+158,Aster DM Quality Care Ltd.,ASTERDM,Healthcare,Hospital & Healthcare Services,71743
+159,UNO Minda Ltd.,UNOMINDA,Automobile & Ancillaries,Auto Ancillary,71606
+160,Yes Bank Ltd.,YESBANK,Banking,Bank - Private,71250
+161,Fortis Healthcare Ltd.,FORTIS,Healthcare,Hospital & Healthcare Services,70589
+162,Bajaj Housing Finance Ltd.,BAJAJHFL,Finance,Finance - Housing,70258
+163,Steel Authority Of India Ltd.,SAIL,Iron & Steel,Steel & Iron Products,70012
+164,Apar Industries Ltd.,APARINDS,Capital Goods,Electric Equipment,69927
+165,National Aluminium Company Ltd.,NATIONALUM,Non - Ferrous Metals,Aluminium & Aluminium Products,69057
+166,The Phoenix Mills Ltd.,PHOENIXLTD,Realty,Construction - Real Estate,68528
+167,Prestige Estates Projects Ltd.,PRESTIGE,Realty,Construction - Real Estate,68383
+168,Biocon Ltd.,BIOCON,Healthcare,Pharmaceuticals & Drugs,67616
+169,Oberoi Realty Ltd.,OBEROIRLTY,Realty,Construction - Real Estate,67019
+170,Glenmark Pharmaceuticals Ltd.,GLENMARK,Healthcare,Pharmaceuticals & Drugs,66041
+171,Torrent Power Ltd.,TORNTPOWER,Power,Power Generation/Distribution,66004
+172,Bank Of India,BANKINDIA,Banking,Bank - Public,65490
+173,Suzlon Energy Ltd.,SUZLON,Capital Goods,Electric Equipment,64756
+174,Indian Overseas Bank,IOB,Banking,Bank - Public,64683
+175,Alkem Laboratories Ltd.,ALKEM,Healthcare,Pharmaceuticals & Drugs,64553
+176,Berger Paints India Ltd.,BERGEPAINT,Chemicals,Paints,63629
+177,Schaeffler India Ltd.,SCHAEFFLER,Automobile & Ancillaries,Bearings,63212
+178,Kalyan Jewellers India Ltd.,KALYANKJIL,Diamond & Jewellery,Diamond  &  Jewellery,62817
+179,Radico Khaitan Ltd.,RADICO,Alcohol,Breweries & Distilleries,62369
+180,General Insurance Corporation of India,GICRE,Finance,Insurance,61808
+181,Bank Of Maharashtra,MAHABANK,Banking,Bank - Public,61709
+182,Coromandel International Ltd.,COROMANDEL,Chemicals,Fertilizers,61704
+183,Jindal Stainless Ltd.,JSL,Iron & Steel,Steel & Iron Products,60772
+184,SBI Cards And Payment Services Ltd.,SBICARD,Finance,Finance - NBFC,60163
+185,Godrej Properties Ltd.,GODREJPROP,Realty,Construction - Real Estate,59986
+186,RBL Bank Ltd.,RBLBANK,Banking,Bank - Private,59757
+187,Ather Energy Ltd.,ATHERENERG,Automobile & Ancillaries,Automobile Two & Three Wheelers,59610
+188,APL Apollo Tubes Ltd.,APLAPOLLO,Iron & Steel,Steel & Iron Products,58142
+189,Abbott India Ltd.,ABBOTINDIA,Healthcare,Pharmaceuticals & Drugs,57537
+190,Linde India Ltd.,LINDEINDIA,Industrials Gases & Fuels,Industrial  Gases & Fuels,57093
+191,HDB Financial Services Ltd.,HDBFS,Finance,Finance - NBFC,57044
+192,MRF Ltd.,MRF,Automobile & Ancillaries,Tyres & Allied,56580
+193,KEI Industries Ltd.,KEI,Electricals,Cable,54492
+194,Mahindra & Mahindra Financial Services Ltd.,M&MFIN,Finance,Finance - NBFC,54188
+195,Motilal Oswal Financial Services Ltd.,MOTILALOFS,Finance,Finance - Stock Broking,53992
+196,Colgate-Palmolive (India) Ltd.,COLPAL,Fast Moving Consumer Goods,Household & Personal Products,53883
+197,Max Financial Services Ltd.,MFSL,Finance,Finance - Others,53320
+198,Tube Investments of India Ltd.,TIINDIA,Automobile & Ancillaries,Auto Ancillary,53078
+199,The Fertilisers And Chemicals Travancore Ltd.,FACT,Chemicals,Fertilizers,52342
+200,Gujarat Fluorochemicals Ltd.,FLUOROCHEM,Chemicals,Chemicals,52060
+201,Bharat Dynamics Ltd.,BDL,Capital Goods,Aerospace & Defense,51282
+202,Hindustan Copper Ltd.,HINDCOPPER,Non - Ferrous Metals,Metal - Non Ferrous,51141
+203,Anthem Biosciences Ltd.,ANTHEM,Healthcare,Pharmaceuticals & Drugs,50157
+204,Sundaram Finance Ltd.,SUNDARMFIN,Finance,Finance - NBFC,49612
+205,Vishal Mega Mart Ltd.,VMM,Retailing,Retailing,49425
+206,Sona BLW Precision Forgings Ltd.,SONACOMS,Automobile & Ancillaries,Auto Ancillary,49412
+207,Welspun Corp Ltd.,WELCORP,Iron & Steel,Steel & Iron Products,49405
+208,Mphasis Ltd.,MPHASIS,Information Technology,IT - Software,49036
+209,Gland Pharma Ltd.,GLAND,Healthcare,Pharmaceuticals & Drugs,48975
+210,Tata Communications Ltd.,TATACOMM,Telecom,Telecommunication - Service  Provider,48967
+211,Thermax Ltd.,THERMAX,Capital Goods,Engineering - Industrial Equipments,48270
+212,Authum Investment & Infrastructure Ltd.,AIIL,Finance,Finance - Investment,47990
+213,UPL Ltd.,UPL,Chemicals,Pesticides & Agrochemicals,47679
+214,360 One Wam Ltd.,360ONE,Finance,Finance - Stock Broking,47443
+215,Rail Vikas Nigam Ltd.,RVNL,Infrastructure,Engineering - Construction,47226
+216,Piramal Finance Ltd.,PIRAMALFIN,Finance,Finance - Housing,46603
+217,Premier Energies Ltd.,PREMIERENE,Trading,Trading,46126
+218,Ajanta Pharma Ltd.,AJANTPHARM,Healthcare,Pharmaceuticals & Drugs,45924
+219,Balkrishna Industries Ltd.,BALKRISIND,Automobile & Ancillaries,Tyres & Allied,45740
+220,Glaxosmithkline Pharmaceuticals Ltd.,GLAXO,Healthcare,Pharmaceuticals & Drugs,45555
+221,Supreme Industries Ltd.,SUPREMEIND,Plastic Products,Plastic Products,45107
+222,Aegis Logistics Ltd.,AEGISLOG,Trading,Trading,44396
+223,Ipca Laboratories Ltd.,IPCALAB,Healthcare,Pharmaceuticals & Drugs,43983
+224,Voltas Ltd.,VOLTAS,Consumer Durables,Air Conditioners,43842
+225,Poonawalla Fincorp Ltd.,POONAWALLA,Finance,Finance - NBFC,43836
+226,Petronet LNG Ltd.,PETRONET,Industrials Gases & Fuels,Industrial  Gases & Fuels,42353
+227,Navin Fluorine International Ltd.,NAVINFLUOR,Chemicals,Chemicals,42237
+228,Godrej Industries Ltd.,GODREJIND,Chemicals,Chemicals,42118
+229,AIA Engineering Ltd.,AIAENG,Automobile & Ancillaries,Castings/Forgings,41912
+230,Astral Ltd.,ASTRAL,Plastic Products,Plastic Products,41775
+231,Aditya Infotech Ltd.,CPPLUS,Trading,Trading,41635
+232,Page Industries Ltd.,PAGEIND,Textile,Textile,41124
+233,JK Cement Ltd.,JKCEMENT,Construction Materials,Cement & Construction Materials,40985
+234,Endurance Technologies Ltd.,ENDURANCE,Automobile & Ancillaries,Auto Ancillary,40757
+235,Exide Industries Ltd.,EXIDEIND,Automobile & Ancillaries,Batteries,40426
+236,Container Corporation Of India Ltd.,CONCOR,Logistics,Logistics,40137
+237,Indian Railway Catering And Tourism Corporation Ltd.,IRCTC,Hospitality,Travel Services,39796
+238,3M India Ltd.,3MINDIA,Diversified,Diversified,39747
+239,Himadri Speciality Chemical Ltd.,HSCL,Chemicals,Carbon Black,39410
+240,Cochin Shipyard Ltd.,COCHINSHIP,Ship Building,Ship Building,39331
+241,Patanjali Foods Ltd.,PATANJALI,Fast Moving Consumer Goods,Edible Oil,38410
+242,Global Health Ltd.,MEDANTA,Healthcare,Hospital & Healthcare Services,38238
+243,NLC India Ltd.,NLCINDIA,Power,Power Generation/Distribution,38181
+244,Housing & Urban Development Corporation Ltd.,HUDCO,Finance,Finance - Housing,38016
+245,PI Industries Ltd.,PIIND,Chemicals,Pesticides & Agrochemicals,37930
+246,K.P.R. Mill Ltd.,KPRMILL,Textile,Textile,37912
+247,Narayana Hrudayalaya Ltd.,NH,Healthcare,Hospital & Healthcare Services,37459
+248,L&T Technology Services Ltd.,LTTS,Information Technology,IT - Software,36895
+249,Emcure Pharmaceuticals Ltd.,EMCURE,Healthcare,Pharmaceuticals & Drugs,36679
+250,United Breweries Ltd.,UBL,Alcohol,Breweries & Distilleries,36385
+251,Anand Rathi Wealth Ltd.,ANANDRATHI,Finance,Finance - Others,36103
+252,Tata Technologies Ltd.,TATATECH,Information Technology,IT - Software,35213
+253,Hexaware Technologies Ltd.,HEXT,Information Technology,IT - Software,34816
+254,Escorts Kubota Ltd.,ESCORTS,Automobile & Ancillaries,Automobiles-Tractors,34807
+255,Dalmia Bharat Ltd.,DALBHARAT,Construction Materials,Cement & Construction Materials,34555
+256,Star Health and Allied Insurance Company Ltd.,STARHEALTH,Finance,Insurance,34408
+257,Delhivery Ltd.,DELHIVERY,Logistics,Logistics,34387
+258,ITC Hotels Ltd.,ITCHOTELS,Hospitality,"Hotel, Resort & Restaurants",34359
+259,HFCL Ltd.,HFCL,Telecom,Telecom-Infrastructure,34163
+260,Physicswallah Ltd.,PWL,Other,Educational Institutions,33998
+261,Krishna Institute of Medical Sciences Ltd,KIMS,Healthcare,Hospital & Healthcare Services,33983
+262,Tata Investment Corporation Ltd.,TATAINVEST,Finance,Finance - NBFC,33757
+263,Godfrey Phillips India Ltd.,GODFRYPHLP,Fast Moving Consumer Goods,Cigarettes/Tobacco,33491
+264,Jubilant FoodWorks Ltd.,JUBLFOOD,Fast Moving Consumer Goods,Consumer Food,33137
+265,Honeywell Automation India Ltd.,HONAUT,Consumer Durables,Consumer Durables - Electronics,32916
+266,CRISIL Ltd.,CRISIL,Ratings,Ratings,32759
+267,Manappuram Finance Ltd.,MANAPPURAM,Finance,Finance - NBFC,32736
+268,Indian Renewable Energy Development Agency Ltd.,IREDA,Finance,Finance - NBFC,32728
+269,Schneider Electric Infrastructure Ltd.,SCHNEIDER,Capital Goods,Electric Equipment,32719
+270,UCO Bank,UCOBANK,Banking,Bank - Public,32590
+271,Dr. Lal Pathlabs Ltd.,LALPATHLAB,Healthcare,Hospital & Healthcare Services,32174
+272,Karur Vysya Bank Ltd.,KARURVYSYA,Banking,Bank - Private,32061
+273,Inventurus Knowledge Solutions Ltd.,IKS,Information Technology,IT - Software,31542
+274,RR Kabel Ltd.,RRKABEL,Electricals,Cable,31493
+275,Wockhardt Ltd.,WOCKPHARMA,Healthcare,Pharmaceuticals & Drugs,31398
+276,Blue Star Ltd.,BLUESTARCO,Consumer Durables,Air Conditioners,30979
+277,Sai Life Sciences Ltd.,SAILIFE,Healthcare,Pharmaceuticals & Drugs,30794
+278,Nuvama Wealth Management Ltd.,NUVAMA,Finance,Finance - Stock Broking,30599
+279,Kirloskar Oil Engines Ltd.,KIRLOSENG,Capital Goods,Engineering - Industrial Equipments,30558
+280,Garden Reach Shipbuilders & Engineers Ltd.,GRSE,Ship Building,Ship Building,30002
+281,Cholamandalam Financial Holdings Ltd.,CHOLAHLDNG,Finance,Finance - Investment,29999
+282,PNB Housing Finance Ltd.,PNBHOUSING,Finance,Finance - Housing,29970
+283,ZF Commercial Vehicle Control Systems India Ltd.,ZFCVINDIA,Automobile & Ancillaries,Auto Ancillary,29943
+284,Neuland Laboratories Ltd.,NEULANDLAB,Healthcare,Pharmaceuticals & Drugs,29908
+285,Mangalore Refinery And Petrochemicals Ltd.,MRPL,Crude Oil,Refineries,29891
+286,Aegis Vopak Terminals Ltd.,AEGISVOPAK,Miscellaneous,Miscellaneous,29833
+287,The New India Assurance Company Ltd.,NIACL,Finance,Insurance,29507
+288,Aditya Birla Sun Life AMC Ltd.,ABSLAMC,Finance,Finance - Asset Management,29256
+289,PTC Industries Ltd.,PTCIL,Automobile & Ancillaries,Castings/Forgings,28560
+290,Netweb Technologies India Ltd.,NETWEB,Consumer Durables,IT - Hardware,28503
+291,Central Bank Of India,CENTRALBK,Banking,Bank - Public,28412
+292,Apollo Tyres Ltd.,APOLLOTYRE,Automobile & Ancillaries,Tyres & Allied,28198
+293,Sumitomo Chemical India Ltd.,SUMICHEM,Chemicals,Pesticides & Agrochemicals,28184
+294,Syrma SGS Technology Ltd.,SYRMA,Electricals,Electronics - Components,28182
+295,Bandhan Bank Ltd.,BANDHANBNK,Banking,Bank - Private,28146
+296,Central Depository Services (India) Ltd.,CDSL,Finance,Depository Services,28098
+297,Shyam Metalics And Energy Ltd.,SHYAMMETL,Iron & Steel,Steel & Iron Products,27898
+298,LIC Housing Finance Ltd.,LICHSGFIN,Finance,Finance - Housing,27509
+299,Piramal Pharma Ltd.,PPLPHARMA,Healthcare,Pharmaceuticals & Drugs,27452
+300,IIFL Finance Ltd.,IIFL,Finance,Finance - NBFC,26873
+301,Craftsman Automation Ltd.,CRAFTSMAN,Automobile & Ancillaries,Auto Ancillary,26803
+302,Motherson Sumi Wiring India Ltd.,MSUMI,Automobile & Ancillaries,Auto Ancillary,26759
+303,ITI Ltd.,ITI,Telecom,Telecommunication - Equipment,26583
+304,Acutaas Chemicals Ltd.,ACUTAAS,Healthcare,Pharmaceuticals & Drugs,26473
+305,Acme Solar Holdings Ltd.,ACMESOLAR,Power,Power Generation/Distribution,26458
+306,SJVN Ltd.,SJVN,Power,Power Generation/Distribution,26408
+307,Angel One Ltd.,ANGELONE,Finance,Finance - Stock Broking,26223
+308,Redington Ltd.,REDINGTON,Trading,Trading,26076
+309,Gabriel India Ltd.,GABRIEL,Automobile & Ancillaries,Auto Ancillary,25898
+310,Amber Enterprises India Ltd.,AMBER,Consumer Durables,Air Conditioners,25470
+311,AWL Agri Business Ltd.,AWL,Fast Moving Consumer Goods,Edible Oil,24986
+312,Data Patterns (India) Ltd.,DATAPATTNS,Capital Goods,Aerospace & Defense,24931
+313,CreditAccess Grameen Ltd.,CREDITACC,Finance,Finance - NBFC,24873
+314,ACC Ltd.,ACC,Construction Materials,Cement & Construction Materials,24802
+315,Gillette India Ltd.,GILLETTE,Fast Moving Consumer Goods,Household & Personal Products,24762
+316,Belrise Industries Ltd.,BELRISE,Automobile & Ancillaries,Auto Ancillary,24701
+317,Timken India Ltd.,TIMKEN,Automobile & Ancillaries,Bearings,24616
+318,Kaynes Technology India Ltd.,KAYNES,Electricals,Electronics - Components,24535
+319,Force Motors Ltd.,FORCEMOT,Automobile & Ancillaries,Automobiles-Trucks/Lcv,24205
+320,NBCC (India) Ltd.,NBCC,Other,Engineering Consultancy,24098
+321,Go Digit General Insurance Ltd.,GODIGIT,Finance,Insurance,24080
+322,Asahi India Glass Ltd.,ASAHIINDIA,Construction Materials,Glass,23935
+323,Affle 3i Ltd.,AFFLE,Information Technology,BPO/ITeS,23526
+324,Deepak Nitrite Ltd.,DEEPAKNTR,Chemicals,Chemicals,23503
+325,Tata Elxsi Ltd.,TATAELXSI,Information Technology,IT - Software,23481
+326,IRB Infrastructure Developers Ltd.,IRB,Infrastructure,Engineering - Construction,23262
+327,Kalpataru Projects International Ltd.,KPIL,Infrastructure,Engineering - Construction,23090
+328,Anant Raj Ltd.,ANANTRAJ,Realty,Construction - Real Estate,22663
+329,Pfizer Ltd.,PFIZER,Healthcare,Pharmaceuticals & Drugs,22321
+330,Cemindia Projects Ltd.,CEMPRO,Infrastructure,Engineering - Construction,22318
+331,Emmvee Photovoltaic Power Ltd.,EMMVEE,Capital Goods,Electric Equipment,22269
+332,Urban Company Ltd.,URBANCO,Other,Professional Services,22261
+333,CESC Ltd.,CESC,Power,Power Generation/Distribution,22256
+334,Carborundum Universal Ltd.,CARBORUNIV,Abrasives,Abrasives,21943
+335,Aadhar Housing Finance Ltd.,AADHARHFC,Finance,Finance - Housing,21843
+336,Capri Global Capital Ltd.,CGCL,Finance,Finance - Investment,21798
+337,Tenneco Clean Air India Ltd.,TENNIND,Automobile & Ancillaries,Auto Ancillary,21748
+338,The Ramco Cements Ltd.,RAMCOCEM,Construction Materials,Cement & Construction Materials,21428
+339,Granules India Ltd.,GRANULES,Healthcare,Pharmaceuticals & Drugs,21263
+340,Indraprastha Gas Ltd.,IGL,Gas Transmission,Gas Transmission/Marketing,21245
+341,Prime Focus Ltd.,PFOCUS,Other,Business Support,20930
+342,IFCI Ltd.,IFCI,Finance,Finance Term Lending,20735
+343,City Union Bank Ltd.,CUB,Banking,Bank - Private,20678
+344,Atul Ltd.,ATUL,Chemicals,Chemicals,19824
+345,Sagility Ltd.,SAGILITY,Other,Business Support,19779
+346,Chennai Petroleum Corporation Ltd.,CHENNPETRO,Crude Oil,Refineries,19691
+347,Kajaria Ceramics Ltd.,KAJARIACER,Construction Materials,Ceramics/Marble/Granite/Sanitaryware,19688
+348,Aarti Industries Ltd.,AARTIIND,Chemicals,Chemicals,19359
+349,Brigade Enterprises Ltd.,BRIGADE,Realty,Construction - Real Estate,19318
+350,Elgi Equipments Ltd.,ELGIEQUIP,Capital Goods,Compressors / Pumps,19301
+351,Sun TV Network Ltd.,SUNTV,Media & Entertainment,TV Broadcasting & Software Production,19097
+352,Finolex Cables Ltd.,FINCABLES,Electricals,Cable,19031
+353,Pine Labs Ltd.,PINELABS,Information Technology,Fintech,19021
+354,Deepak Fertilisers And Petrochemicals Corporation Ltd.,DEEPAKFERT,Chemicals,Chemicals,18970
+355,Computer Age Management Services Ltd.,CAMS,Finance,Depository Services,18945
+356,Firstsource Solutions Ltd.,FSL,Information Technology,BPO/ITeS,18933
+357,Caplin Point Laboratories Ltd.,CAPLIPOINT,Healthcare,Pharmaceuticals & Drugs,18855
+358,Triveni Turbine Ltd.,TRITURBINE,Capital Goods,Engineering - Industrial Equipments,18829
+359,Eris Lifesciences Ltd.,ERIS,Healthcare,Pharmaceuticals & Drugs,18828
+360,HBL Engineering Ltd.,HBLENGINE,Automobile & Ancillaries,Batteries,18812
+361,Jyoti CNC Automation Ltd.,JYOTICNC,Capital Goods,Engineering - Industrial Equipments,18781
+362,EIH Ltd.,EIHOTEL,Hospitality,"Hotel, Resort & Restaurants",18773
+363,Sarda Energy & Minerals Ltd.,SARDAEN,Iron & Steel,Steel & Iron Products,18701
+364,Gujarat Mineral Development Corporation Ltd.,GMDCLTD,Mining,Mining & Minerals,18474
+365,Castrol India Ltd.,CASTROLIND,Automobile & Ancillaries,Lubricants,18457
+366,The Great Eastern Shipping Company Ltd.,GESHIP,Logistics,Shipping,18327
+367,Bayer CropScience Ltd.,BAYERCROP,Chemicals,Pesticides & Agrochemicals,18193
+368,Poly Medicure Ltd.,POLYMED,Healthcare,Medical Equipment/Supplies/Accessories,18126
+369,Chalet Hotels Ltd.,CHALET,Hospitality,"Hotel, Resort & Restaurants",18092
+370,Travel Food Services Ltd.,TRAVELFOOD,Hospitality,Restaurants,17993
+371,OLA Electric Mobility Ltd.,OLAELEC,Automobile & Ancillaries,Automobile Two & Three Wheelers,17921
+372,Choice International Ltd.,CHOICEIN,Finance,Finance - Stock Broking,17909
+373,eClerx Services Ltd.,ECLERX,Information Technology,BPO/ITeS,17834
+374,Onesource Specialty Pharma Ltd.,ONESOURCE,Healthcare,Pharmaceuticals & Drugs,17794
+375,Devyani International Ltd.,DEVYANI,Fast Moving Consumer Goods,Consumer Food,17767
+376,Sammaan Capital Ltd.,SAMMAANCAP,Finance,Finance - Housing,17754
+377,Chambal Fertilisers and Chemicals Ltd.,CHAMBLFERT,Chemicals,Fertilizers,17743
+378,JSW Cement Ltd.,JSWCEMENT,Construction Materials,Cement & Construction Materials,17731
+379,TBO Tek Ltd.,TBOTEK,Hospitality,Travel Services,17706
+380,Emami Ltd.,EMAMILTD,Fast Moving Consumer Goods,Household & Personal Products,17589
+381,Amara Raja Energy & Mobility Ltd.,ARE&M,Automobile & Ancillaries,Batteries,17321
+382,PG Electroplast Ltd.,PGEL,Consumer Durables,Consumer Durables - Domestic Appliances,17234
+383,Minda Corporation Ltd.,MINDACORP,Automobile & Ancillaries,Auto Ancillary,17208
+384,The Jammu & Kashmir Bank Ltd.,J&KBANK,Banking,Bank - Private,17145
+385,Vardhman Textiles Ltd.,VTL,Textile,Textile,17105
+386,Tata Chemicals Ltd.,TATACHEM,Chemicals,Chemicals,17079
+387,Jindal Saw Ltd.,JINDALSAW,Iron & Steel,Steel & Iron Products,17040
+388,Leela Palaces Hotels & Resorts Ltd.,THELEELA,Hospitality,"Hotel, Resort & Restaurants",17032
+389,Cohance Lifesciences Ltd.,COHANCE,Healthcare,Pharmaceuticals & Drugs,16873
+390,KPIT Technologies Ltd.,KPITTECH,Information Technology,IT - Software,16805
+391,Zen Technologies Ltd.,ZENTEC,Capital Goods,Aerospace & Defense,16780
+392,Allied Blenders And Distillers Ltd.,ABDL,Alcohol,Breweries & Distilleries,16780
+393,Honasa Consumer Ltd.,HONASA,Trading,Trading,16391
+394,KFin Technologies Ltd.,KFINTECH,Finance,Depository Services,16267
+395,Five-Star Business Finance Ltd.,FIVESTAR,Finance,Finance - NBFC,16263
+396,Nava Ltd.,NAVA,Ferro Manganese,Ferro & Silica Manganese,16259
+397,Zydus Wellness Ltd.,ZYDUSWELL,Fast Moving Consumer Goods,Consumer Food,16236
+398,Syngene International Ltd.,SYNGENE,Healthcare,Pharmaceuticals & Drugs,16201
+399,Natco Pharma Ltd.,NATCOPHARM,Healthcare,Pharmaceuticals & Drugs,16163
+400,DCM Shriram Ltd.,DCMSHRIRAM,Diversified,Diversified,15950
+401,Godawari Power And Ispat Ltd.,GPIL,Iron & Steel,Steel & Iron Products,15858
+402,Crompton Greaves Consumer Electricals Ltd.,CROMPTON,Consumer Durables,Consumer Durables - Domestic Appliances,15840
+403,Aditya Birla Real Estate Ltd.,ABREL,Realty,Construction - Real Estate,15651
+404,BEML Ltd.,BEML,Capital Goods,Construction Vehicles,15597
+405,Welspun Living Ltd.,WELSPUNLIV,Textile,Textile,15503
+406,CIE Automotive India Ltd.,CIEINDIA,Automobile & Ancillaries,Auto Ancillary,15470
+407,Bikaji Foods International Ltd.,BIKAJI,Fast Moving Consumer Goods,Consumer Food,15376
+408,Paradeep Phosphates Ltd.,PARADEEP,Chemicals,Fertilizers,15349
+409,Niva Bupa Health Insurance Company Ltd.,NIVABUPA,Finance,Insurance,15310
+410,Vijaya Diagnostic Centre Ltd.,VIJAYA,Healthcare,Hospital & Healthcare Services,15191
+411,CCL Products (India) Ltd.,CCL,Agriculture,Tea/Coffee,15164
+412,Concord Biotech Ltd.,CONCORDBIO,Healthcare,Pharmaceuticals & Drugs,15129
+413,International Gemological Institute Ltd.,IGIL,Other,Business Support,14953
+414,Ceat Ltd.,CEATLTD,Automobile & Ancillaries,Tyres & Allied,14919
+415,Usha Martin Ltd.,USHAMART,Iron & Steel,Steel & Iron Products,14873
+416,Rainbow Children's Medicare Ltd.,RAINBOW,Healthcare,Hospital & Healthcare Services,14871
+417,JBM Auto Ltd.,JBMA,Automobile & Ancillaries,Auto Ancillary,14738
+418,LT Foods Ltd.,LTFOODS,Fast Moving Consumer Goods,Consumer Food,14571
+419,JSW Dulux Ltd.,JSWDULUX,Chemicals,Paints,14430
+420,Sobha Ltd.,SOBHA,Realty,Construction - Real Estate,14211
+421,Canara HSBC Life Insurance Company Ltd.,CANHLIFE,Finance,Insurance,14112
+422,Graphite India Ltd.,GRAPHITE,Capital Goods,Electrodes & Welding Equipment,14100
+423,Gallantt Ispat Ltd.,GALLANTT,Iron & Steel,Steel & Iron Products,14005
+424,E.I.D. - Parry (India) Ltd.,EIDPARRY,Agriculture,Sugar,13794
+425,Jubilant Pharmova Ltd.,JUBLPHARMA,Healthcare,Pharmaceuticals & Drugs,13769
+426,Anupam Rasayan India Ltd.,ANURAS,Chemicals,Chemicals,13764
+427,Engineers India Ltd.,ENGINERSIN,Infrastructure,Engineering - Construction,13700
+428,Supreme Petrochem Ltd.,SPLPETRO,Crude Oil,Petrochemicals,13660
+429,Shipping Corporation Of India Ltd.,SCI,Logistics,Shipping,13611
+430,HEG Ltd.,HEG,Capital Goods,Electrodes & Welding Equipment,13522
+431,CarTrade Tech Ltd.,CARTRADE,Information Technology,e-Commerce,13517
+432,DOMS Industries Ltd.,DOMS,Fast Moving Consumer Goods,Printing & Stationery,13445
+433,Indegene Ltd.,INDGN,Other,Business Support,13364
+434,Ramkrishna Forgings Ltd.,RKFORGE,Automobile & Ancillaries,Forgings,13341
+435,Gravita India Ltd.,GRAVITA,Non - Ferrous Metals,Metal - Non Ferrous,13238
+436,Balrampur Chini Mills Ltd.,BALRAMCHIN,Agriculture,Sugar,13215
+437,NMDC Steel Ltd.,NSLNISP,Iron & Steel,Steel & Iron Products,13038
+438,Action Construction Equipment Ltd.,ACE,Capital Goods,Construction Vehicles,12930
+439,Tega Industries Ltd.,TEGA,Capital Goods,Engineering - Industrial Equipments,12804
+440,Inox Wind Ltd.,INOXWIND,Capital Goods,Electric Equipment,12737
+441,Aptus Value Housing Finance India Ltd.,APTUS,Finance,Finance - Housing,12540
+442,Trident Ltd.,TRIDENT,Textile,Textile - Spinning,12398
+443,Home First Finance Company India Ltd.,HOMEFIRST,Finance,Finance - Housing,12287
+444,Blue Dart Express Ltd.,BLUEDART,Logistics,Courier  Services,12209
+445,PCBL Chemical Ltd.,PCBL,Chemicals,Carbon Black,12193
+446,JM Financial Ltd.,JMFINANCIL,Finance,Finance - Investment,12101
+447,Jaiprakash Power Ventures Ltd.,JPPOWER,Power,Power Generation/Distribution,11911
+448,Nuvoco Vistas Corporation Ltd.,NUVOCO,Construction Materials,Cement & Construction Materials,11834
+449,Jubilant Ingrevia Ltd.,JUBLINGREA,Chemicals,Chemicals,11755
+450,Ircon International Ltd.,IRCON,Infrastructure,Engineering - Construction,11742
+451,KEC International Ltd.,KEC,Infrastructure,Engineering - Construction,11710
+452,UTI Asset Management Company Ltd.,UTIAMC,Finance,Finance - Asset Management,11671
+453,The India Cements Ltd.,INDIACEM,Construction Materials,Cement & Construction Materials,11627
+454,PVR Inox Ltd.,PVRINOX,Media & Entertainment,"Film Production, Distribution & Entertainment",11523
+455,BLS International Services Ltd.,BLS,Hospitality,Travel Services,11451
+456,Signatureglobal (India) Ltd.,SIGNATURE,Realty,Construction - Real Estate,11408
+457,Techno Electric & Engineering Company Ltd.,TECHNOE,Infrastructure,Engineering - Construction,11270
+458,Mahanagar Gas Ltd.,MGL,Gas Transmission,Gas Transmission/Marketing,11261
+459,Titagarh Rail Systems Ltd.,TITAGARH,Automobile & Ancillaries,Railways Wagons/Coaches,11211
+460,Zensar Technologies Ltd.,ZENSARTECH,Information Technology,IT - Software,11172
+461,Indian Energy Exchange Ltd.,IEX,Power,Power Generation/Distribution,11079
+462,JK Tyre & Industries Ltd.,JKTYRE,Automobile & Ancillaries,Tyres & Allied,11078
+463,Aavas Financiers Ltd.,AAVAS,Finance,Finance - Housing,11068
+464,Blue Jet Healthcare Ltd.,BLUEJET,Healthcare,Pharmaceuticals & Drugs,11056
+465,Jupiter Wagons Ltd.,JWL,Automobile & Ancillaries,Railways Wagons/Coaches,10960
+466,Can Fin Homes Ltd.,CANFINHOME,Finance,Finance - Housing,10911
+467,Aditya Birla Lifestyle Brands Ltd.,ABLBL,Retailing,Retailing,10838
+468,Olectra Greentech Ltd.,OLECTRA,Automobile & Ancillaries,Automobiles-Trucks/Lcv,10818
+469,Indiamart Intermesh Ltd.,INDIAMART,Information Technology,e-Commerce,10761
+470,Brainbees Solutions Ltd.,FIRSTCRY,Information Technology,e-Commerce,10760
+471,Rites Ltd.,RITES,Other,Engineering Consultancy,10631
+472,SBFC Finance Ltd.,SBFC,Finance,Finance - NBFC,10414
+473,Bombay Burmah Trading Corporation Ltd.,BBTC,Automobile & Ancillaries,Auto Ancillary,10241
+474,Saregama India Ltd.,SAREGAMA,Media & Entertainment,"Film Production, Distribution & Entertainment",10161
+475,Jain Resource Recycling Ltd.,JAINREC,Non - Ferrous Metals,Metal - Non Ferrous,10135
+476,Whirlpool Of India Ltd.,WHIRLPOOL,Consumer Durables,Consumer Durables - Domestic Appliances,9885
+477,Afcons Infrastructure Ltd.,AFCONS,Infrastructure,Engineering - Construction,9884
+478,Zee Entertainment Enterprises Ltd.,ZEEL,Media & Entertainment,TV Broadcasting & Software Production,9817
+479,Intellect Design Arena Ltd.,INTELLECT,Information Technology,IT - Software,9815
+480,Bata India Ltd.,BATAINDIA,Retailing,Footwear,9710
+481,Elecon Engineering Company Ltd.,ELECON,Capital Goods,Engineering - Industrial Equipments,9705
+482,MMTC Ltd.,MMTC,Trading,Trading,9648
+483,Tejas Networks Ltd.,TEJASNET,Telecom,Telecommunication - Equipment,9568
+484,Swan Corp Ltd.,SWANCORP,Textile,Textile,9535
+485,Reliance Power Ltd.,RPOWER,Power,Power Generation/Distribution,9508
+486,Sonata Software Ltd.,SONATSOFTW,Information Technology,IT - Software,9140
+487,Cyient Ltd.,CYIENT,Information Technology,IT - Software,9076
+488,Railtel Corporation Of India Ltd.,RAILTEL,Telecom,Telecommunication - Service  Provider,9054
+489,Transformers & Rectifiers (India) Ltd.,TARIL,Capital Goods,Electric Equipment,8940
+490,NCC Ltd.,NCC,Infrastructure,Engineering - Construction,8834
+491,Clean Science And Technology Ltd.,CLEAN,Chemicals,Chemicals,8728
+492,Birlasoft Ltd.,BSOFT,Information Technology,IT - Software,8718
+493,Lemon Tree Hotels Ltd.,LEMONTREE,Hospitality,"Hotel, Resort & Restaurants",8628
+494,RHI Magnesita India Ltd.,RHIM,Capital Goods,Refractories,7848
+495,Newgen Software Technologies Ltd.,NEWGEN,Information Technology,IT - Software,7626
+496,Tata Teleservices (Maharashtra) Ltd.,TTML,Telecom,Telecommunication - Service  Provider,7546
+497,Sapphire Foods India Ltd.,SAPPHIRE,Fast Moving Consumer Goods,Consumer Food,7544
+498,Aditya Birla Fashion and Retail Ltd.,ABFRL,Retailing,Retailing,6834
+499,Latent View Analytics Ltd.,LATENTVIEW,Other,Business Support,5891
+500,CE Info Systems Ltd.,MAPMYINDIA,Information Technology,IT - Software,5419

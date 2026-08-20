@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # import pytest
-import utils
+from helpers import instrument_helper
 import time
 import warnings
 # import kiteconnect.exceptions as ex
@@ -35,7 +35,7 @@ def setup_order_place(kiteconnect,
                       tag="itest"):
     """Place an order with custom fields enabled. Prices are calculated from live ltp and offset based
     on `price_diff` and `diff_constant.`"""
-    updated_params = utils.merge_dicts(params, {
+    updated_params = instrument_helper.merge_dicts(params, {
         "product": product,
         "variety": variety,
         "order_type": order_type
@@ -206,7 +206,7 @@ def test_place_order_slm_regular(kiteconnect):
 def test_place_order_tag(kiteconnect):
     """Send custom tag and get it in orders."""
     tag = "mytag"
-    updated_params = utils.merge_dicts(params, {
+    updated_params = instrument_helper.merge_dicts(params, {
         "product": kiteconnect.PRODUCT_MIS,
         "variety": kiteconnect.VARIETY_REGULAR,
         "order_type": kiteconnect.ORDER_TYPE_MARKET,
@@ -268,7 +268,7 @@ def setup_order_modify_cancel(kiteconnect, variety):
     symbol = params["exchange"] + ":" + params["tradingsymbol"]
     ltp = kiteconnect.ltp(symbol)
 
-    updated_params = utils.merge_dicts(params, {
+    updated_params = instrument_helper.merge_dicts(params, {
         "product": kiteconnect.PRODUCT_MIS,
         "variety": variety,
         "order_type": kiteconnect.ORDER_TYPE_LIMIT

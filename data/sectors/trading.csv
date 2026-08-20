@@ -1,0 +1,491 @@
+Rank,Stock_Name,Symbol,Sector,Industry,Market_Cap_Cr
+1,Adani Enterprises Ltd.,ADANIENT,Trading,Trading,411531.67
+2,Premier Energies Ltd.,PREMIERENE,Trading,Trading,46126.01
+3,Aegis Logistics Ltd.,AEGISLOG,Trading,Trading,44396.23
+4,Aditya Infotech Ltd.,CPPLUS,Trading,Trading,41634.66
+5,Redington Ltd.,REDINGTON,Trading,Trading,26076.09
+6,Honasa Consumer Ltd.,HONASA,Trading,Trading,16390.87
+7,RRP Semiconductor Ltd.,RRP,Trading,Trading,11758.19
+8,Lloyds Enterprises Ltd.,LLOYDSENT,Trading,Trading,11685.76
+9,MMTC Ltd.,MMTC,Trading,Trading,9648.0
+10,SG Mart Ltd.,SGMART,Trading,Trading,9288.16
+11,Cello World Ltd.,CELLO,Trading,Trading,8341.72
+12,Jeena Sikho Lifecare Ltd.,JSLL,Trading,Trading,6512.74
+13,GNG Electronics Ltd.,EBGNG,Trading,Trading,6440.51
+14,Entero Healthcare Solutions Ltd.,ENTERO,Trading,Trading,6168.74
+15,Rashi Peripherals Ltd.,RPTECH,Trading,Trading,5538.9
+16,PDS Ltd.,PDSL,Trading,Trading,5253.13
+17,Optiemus Infracom Ltd.,OPTIEMUS,Trading,Trading,5059.24
+18,Symphony Ltd.,SYMPHONY,Trading,Trading,4268.61
+19,Zota Health Care Ltd.,ZOTA,Trading,Trading,3917.98
+20,Caliber Mining and Logistics Ltd.,CMLL,Trading,Trading,3453.8
+21,Elitecon International Ltd.,ELITECON,Trading,Trading,2738.23
+22,Fischer Medical Ventures Ltd.,FISCHER,Trading,Trading,2609.24
+23,SIRCA Paints India Ltd.,SIRCA,Trading,Trading,2432.15
+24,Confidence Petroleum India Ltd.,CONFIPET,Trading,Trading,2390.81
+25,Vintage Coffee & Beverages Ltd.,VINCOFE,Trading,Trading,2172.42
+26,Aayush Art And Bullion Ltd.,AAYUSHBULL,Trading,Trading,1907.74
+27,Hindware Home Innovation Ltd.,HINDWAREAP,Trading,Trading,1640.31
+28,Rajesh Power Services Ltd.,RAJESH,Trading,Trading,1506.32
+29,Tembo Global Industries Ltd.,TEMBO,Trading,Trading,1425.51
+30,India Motor Parts & Accessories Ltd.,IMPAL,Trading,Trading,1323.82
+31,Sobhagya Mercantile Ltd.,SOBME,Trading,Trading,1252.46
+32,TCC Concept Ltd.,TCC,Trading,Trading,1239.77
+33,Macfos Ltd.,ROBU,Trading,Trading,1185.01
+34,Orient Technologies Ltd.,ORIENTTECH,Trading,Trading,1184.54
+35,Arisinfra Solutions Ltd.,ARIS,Trading,Trading,1096.86
+36,Asgard Alcobev Ltd.,ASGARD,Trading,Trading,945.19
+37,Dhunseri Ventures Ltd.,DVL,Trading,Trading,940.41
+38,The Yamuna Syndicate Ltd.,YSL,Trading,Trading,928.85
+39,Prizor Viztech Ltd.,PRIZOR,Trading,Trading,918.76
+40,Laxmi Goldorna House Ltd.,LGHL,Trading,Trading,911.68
+41,RRP Defense Ltd.,RRPDEFENSE,Trading,Trading,904.55
+42,Bharat Global Developers Ltd.,BGDL,Trading,Trading,880.35
+43,Hexa Tradex Ltd.,HEXATRADEX,Trading,Trading,867.89
+44,Shah Foods Ltd.,SHAHFOOD,Trading,Trading,816.02
+45,Nupur Recyclers Ltd.,NRL,Trading,Trading,808.11
+46,Hardwyn India Ltd.,HARDWYN,Trading,Trading,775.42
+47,Vision Infra Equipment Solutions Ltd.,VIESL,Trading,Trading,772.72
+48,Manoj Vaibhav Gems 'N' Jewellers Ltd.,MVGJL,Trading,Trading,766.42
+49,SMT Engineering Ltd.,SMTEL,Trading,Trading,729.03
+50,Vasa Denticity Ltd.,DENTALKART,Trading,Trading,705.88
+51,The State Trading Corporation Of India Ltd.,STCINDIA,Trading,Trading,702.9
+52,Cellecor Gadgets Ltd.,CELLECOR,Trading,Trading,691.44
+53,Bizotic Commercial Ltd.,BIZOTIC,Trading,Trading,661.3
+54,Uniphos Enterprises Ltd.,UNIENTER,Trading,Trading,661.03
+55,Fabtech Technologies Ltd.,FABTECH,Trading,Trading,656.76
+56,Shiv Aum Steels Ltd.,SHIVAUM,Trading,Trading,608.07
+57,Blue Pearl Agriventures Ltd.,BPAGRI,Trading,Trading,551.34
+58,Riddhi Siddhi Gluco Biols Ltd.,RIDDHI,Trading,Trading,546.11
+59,KD Green Industries Ltd.,MANBRO,Trading,Trading,545.42
+60,Arvaya Healthcare Ltd.,ARVAYA,Trading,Trading,518.88
+61,SK Minerals & Additives Ltd.,SKM,Trading,Trading,512.86
+62,Credo Brands Marketing Ltd.,MUFTI,Trading,Trading,512.3
+63,Aerpace Industries Ltd.,AERPACE,Trading,Trading,509.58
+64,Oswal Agro Mills Ltd.,OSWALAGRO,Trading,Trading,506.74
+65,BMW Ventures Ltd.,BMWVENTLTD,Trading,Trading,495.84
+66,GP Eco Solutions India Ltd.,GPECO,Trading,Trading,488.51
+67,Gretex Industries Ltd.,GRETEX,Trading,Trading,465.18
+68,Balgopal Commercial Ltd.,BALGOPAL,Trading,Trading,453.22
+69,Veritas (India) Ltd.,VERITAS,Trading,Trading,452.69
+70,Aptus Pharma Ltd.,APPL,Trading,Trading,451.65
+71,Fratelli Vineyards Ltd.,FRATELLI,Trading,Trading,451.03
+72,Vinyl Chemicals (India) Ltd.,VINYLINDIA,Trading,Trading,444.77
+73,Divine Hira Jewellers Ltd.,DIVINEHIRA,Trading,Trading,430.55
+74,Kothari Products Ltd.,KOTHARIPRO,Trading,Trading,411.85
+75,Polo Queen Industrial & Fintech Ltd.,PQIF,Trading,Trading,404.91
+76,Tejassvi Aaharam Ltd.,TEJASSVI,Trading,Trading,396.96
+77,Manaksia Ltd.,MANAKSIA,Trading,Trading,392.42
+78,Transchem Ltd.,TRANSCHEM,Trading,Trading,390.46
+79,Maxgrow India Ltd.,MAXGROW,Trading,Trading,388.03
+80,Jinkushal Industries Ltd.,JKIPL,Trading,Trading,384.05
+81,True Colors Ltd.,TRUECOLORS,Trading,Trading,378.08
+82,Starlineps Enterprises Ltd.,STARLENT,Trading,Trading,369.34
+83,HP Telecom India Ltd.,HPTL,Trading,Trading,369.06
+84,Rotographics (India) Ltd.,RGIL,Trading,Trading,368.24
+85,Agribio Spirits Ltd.,AGRIBIO,Trading,Trading,347.53
+86,Swiss Military Consumer Goods Ltd.,SWISSMLTRY,Trading,Trading,338.15
+87,Encompass Design India Ltd.,ENCOMPAS,Trading,Trading,334.59
+88,Monika Alcobev Ltd.,MONIKA,Trading,Trading,331.29
+89,Omnitex Industries (India) Ltd.,OMNITEX,Trading,Trading,326.66
+90,Pipan Oils Ltd.,PIPAN,Trading,Trading,321.38
+91,Dynamic Services & Security Ltd.,DYNAMIC,Trading,Trading,319.85
+92,Vega Jewellers Ltd.,VEGA,Trading,Trading,315.21
+93,Soma Textiles & Industries Ltd.,SOMATEX,Trading,Trading,301.03
+94,Gujjubhai Industries Ltd.,GUJJUBHAI,Trading,Trading,294.57
+95,Tierra Agrotech Ltd.,TIERRA,Trading,Trading,291.1
+96,Le Merite Exports Ltd.,LEMERITE,Trading,Trading,290.01
+97,Aelea Commodities Ltd.,ACLD,Trading,Trading,289.95
+98,Esconet Technologies Ltd.,ESCONET,Trading,Trading,281.48
+99,Khemani Distributors & Marketing Ltd.,KDML,Trading,Trading,274.77
+100,Evexia Lifecare Ltd.,EVEXIA,Trading,Trading,270.34
+101,Wardwizard Foods and Beverages Ltd.,WARDWIZFBL,Trading,Trading,267.68
+102,Aprameya Engineering Ltd.,APRAMEYA,Trading,Trading,266.27
+103,Shankar Lal Rampal Dye-Chem Ltd.,SRD,Trading,Trading,259.96
+104,Shiv Texchem Ltd.,SHIVTEXCHEM,Trading,Trading,259.53
+105,Saraswati Saree Depot Ltd.,SSDL,Trading,Trading,256.49
+106,Suraj Industries Ltd.,SURJIND,Trading,Trading,255.91
+107,Sakuma Exports Ltd.,SAKUMA,Trading,Trading,255.54
+108,QMS Medical Allied Services Ltd.,QMSMEDI,Trading,Trading,255.1
+109,Integra Essentia Ltd.,ESSENTIA,Trading,Trading,247.49
+110,EPW India Ltd.,EPWINDIA,Trading,Trading,246.81
+111,Silkflex Polymers (India) Ltd.,SILKFLEX,Trading,Trading,240.26
+112,Sicagen India Ltd.,SICAGEN,Trading,Trading,234.38
+113,Vikas Lifecare Ltd.,VIKASLIFE,Trading,Trading,232.91
+114,Chemkart India Ltd.,CHEMKART,Trading,Trading,231.09
+115,Visaman Global Sales Ltd.,VISAMAN,Trading,Trading,228.88
+116,Novelix Pharmaceuticals Ltd.,NOVELIX,Trading,Trading,218.93
+117,ABans Enterprises Ltd.,ABANSENT,Trading,Trading,216.01
+118,A-1 Ltd.,A1L,Trading,Trading,215.28
+119,Chandrima Mercantiles Ltd.,CHANDRIMA,Trading,Trading,214.89
+120,Comfort Intech Ltd.,COMFINTE,Trading,Trading,211.8
+121,Northern Spirits Ltd.,NSL,Trading,Trading,207.38
+122,Swadeshi Industries & Leasing Ltd.,SWADEIN,Trading,Trading,205.05
+123,Spacenet Enterprises India Ltd.,SPCENET,Trading,Trading,204.38
+124,Ausom Enterprise Ltd.,AUSOMENT,Trading,Trading,201.63
+125,Exim Routes Ltd.,EXIMROUTES,Trading,Trading,200.83
+126,Jullundur Motor Agency (Delhi) Ltd.,JMA,Trading,Trading,200.64
+127,Aviva Industries Ltd.,AVIVA,Trading,Trading,197.92
+128,Adon Agro Commodities Ltd.,ADON,Trading,Trading,195.42
+129,DE Neers Tools Ltd.,DENEERS,Trading,Trading,194.3
+130,Maximus International Ltd.,MAXIMUS,Trading,Trading,193.31
+131,Signet Industries Ltd.,SIGIND,Trading,Trading,193.2
+132,Gourmet Gateway India Ltd.,GOURMET,Trading,Trading,192.61
+133,Amrapali Industries Ltd.,AMRAPLIN,Trading,Trading,188.42
+134,Metroglobal Ltd.,METROGLOBL,Trading,Trading,179.71
+135,Stratmont Industries Ltd.,STRATMONT,Trading,Trading,175.58
+136,Dhoot Industrial Finance Ltd.,DHOOTIN,Trading,Trading,175.55
+137,Parshva Enterprises Ltd.,PARSHVA,Trading,Trading,173.89
+138,Dhariwalcorp Ltd.,DHARIWAL,Trading,Trading,171.58
+139,Rama Vision Ltd.,RAMAVISION,Trading,Trading,170.57
+140,Achyut Healthcare Ltd.,ACHYUT,Trading,Trading,168.95
+141,AVI Polymers Ltd.,AVI,Trading,Trading,165.5
+142,Vaxfab Enterprises Ltd.,VEL,Trading,Trading,163.37
+143,Nanta Tech Ltd.,NANTA,Trading,Trading,160.96
+144,Callista Industries Ltd.,CALLISTA,Trading,Trading,160.33
+145,Emergent Industrial Solutions Ltd.,EMERGENT,Trading,Trading,153.86
+146,Shradha AI Technologies Ltd.,SHRAAITECH,Trading,Trading,153.05
+147,ACE Men Engg Works Ltd.,ACEMEN,Trading,Trading,148.78
+148,Kamdhenu Ventures Ltd.,KAMOPAINTS,Trading,Trading,148.05
+149,Eyantra Ventures Ltd.,EY,Trading,Trading,144.29
+150,Speciality Medicines Ltd.,SPML,Trading,Trading,142.77
+151,Abate AS Industries Ltd.,ABATEAS,Trading,Trading,141.85
+152,Amba Enterprises Ltd.,AEL,Trading,Trading,139.84
+153,RRP Electronics India Ltd.,INLCM,Trading,Trading,139.72
+154,AG Ventures Ltd.,AGVENTURES,Trading,Trading,134.12
+155,Siddhika Coatings Ltd.,SIDDHIKA,Trading,Trading,132.88
+156,Apollo Ingredients Ltd.,APOLLOIN,Trading,Trading,132.03
+157,Nagarjuna Agri Tech Ltd.,NAGTECH,Trading,Trading,129.64
+158,WH Brady & Company Ltd.,WHBRADY,Trading,Trading,129.27
+159,Positron Energy Ltd.,POSITRON,Trading,Trading,128.07
+160,Standard Industries Ltd.,SIL,Trading,Trading,125.38
+161,Manoj Ceramic Ltd.,MCPL,Trading,Trading,122.88
+162,Lahoti Overseas Ltd.,LAHOTIOV,Trading,Trading,119.52
+163,Kemp & Company Ltd.,KEMP,Trading,Trading,118.82
+164,Anik Industries Ltd.,ANIKINDS,Trading,Trading,118.06
+165,Bhilwara Spinners Ltd.,BHILSPIN,Trading,Trading,117.7
+166,Aayush Wellness Ltd.,AAYUSH,Trading,Trading,116.18
+167,Striders Impex Ltd.,STRIDERS,Trading,Trading,116.17
+168,Thacker & Company Ltd.,THACKER,Trading,Trading,115.62
+169,Vaishali Pharma Ltd.,VAISHALI,Trading,Trading,114.88
+170,Vijaypd Ceutical Ltd.,VIJAYPD,Trading,Trading,114.34
+171,Variman Global Enterprises Ltd.,VARIMAN,Trading,Trading,111.2
+172,Purv Flexipack Ltd.,PURVFLEXI,Trading,Trading,109.95
+173,Kabra Jewels Ltd.,KKJEWELS,Trading,Trading,109.04
+174,Landsmill Green Ltd.,LANDSMILL,Trading,Trading,107.21
+175,MRP Agro Ltd.,MRP,Trading,Trading,105.8
+176,Rishiroop Ltd.,RISHIROOP,Trading,Trading,105.43
+177,Surat Trade and Mercantile Ltd.,SURATRAML,Trading,Trading,104.8
+178,MRC Agrotech Ltd.,MRCAGRO,Trading,Trading,103.07
+179,Digjam Ltd.,DIGJAMLMTD,Trading,Trading,101.0
+180,Marushika Technology Ltd.,MARUSHIKA,Trading,Trading,99.37
+181,Ashnisha Industries Ltd.,ASHNI,Trading,Trading,97.57
+182,Kck Industries Ltd.,KCK,Trading,Trading,95.72
+183,Krowniq Ltd.,LYKISLTD,Trading,Trading,94.74
+184,Veerhealth Care Ltd.,VEERHEALTH,Trading,Trading,93.37
+185,Anand Rayons Ltd.,ARL,Trading,Trading,93.37
+186,Goyal Aluminiums Ltd.,GOYALALUM,Trading,Trading,92.21
+187,Sarda Proteins Ltd.,SRDAPRT,Trading,Trading,92.15
+188,Cravatex Ltd.,CRAVATEX,Trading,Trading,89.93
+189,Sharika Enterprises Ltd.,SHARIKA,Trading,Trading,81.62
+190,Cosco (India) Ltd.,COSCO,Trading,Trading,79.48
+191,Ravelcare Ltd.,RAVEL,Trading,Trading,78.91
+192,Eforu Entertainment Ltd.,EFORU,Trading,Trading,77.71
+193,Sanmit Infra Ltd.,SANINFRA,Trading,Trading,77.64
+194,Fervent Synergies Ltd.,FERVENTSYN,Trading,Trading,77.6
+195,Uma Exports Ltd.,UMAEXPORTS,Trading,Trading,74.82
+196,Slone Infosystems Ltd.,SLONE,Trading,Trading,74.66
+197,Saptarishi Agro Industries Ltd.,SPTRSHI,Trading,Trading,72.9
+198,Aakaar Medical Technologies Ltd.,AAKAAR,Trading,Trading,71.86
+199,Consecutive Commodities Ltd.,CCDL,Trading,Trading,71.75
+200,Mysore Petro Chemicals Ltd.,MYSORPETRO,Trading,Trading,69.96
+201,Shantai Industries Ltd.,SHANTAI,Trading,Trading,69.89
+202,Shine Fashion (India) Ltd.,SHINEFASH,Trading,Trading,69.85
+203,Gautam Exim Ltd.,GEL,Trading,Trading,68.89
+204,Filtra Consultants and Engineers Ltd.,FILTRA,Trading,Trading,65.78
+205,Sunrise Efficient Marketing Ltd.,SEML,Trading,Trading,64.49
+206,Newjaisa Technologies Ltd.,NEWJAISA,Trading,Trading,63.32
+207,Danube Industries Ltd.,DANUBE,Trading,Trading,62.78
+208,Mishka Exim Ltd.,MISHKA,Trading,Trading,61.51
+209,Artemis ADR Marketplace Ltd.,ARTEMISADR,Trading,Trading,60.86
+210,Arman Holdings Ltd.,ARMAN,Trading,Trading,60.36
+211,Ganesha Ecoverse Ltd.,GANVERSE,Trading,Trading,60.01
+212,RR Metalmakers India Ltd.,RRMETAL,Trading,Trading,59.87
+213,Dhanalaxmi Roto Spinners Ltd.,DHANROTO,Trading,Trading,59.28
+214,ABM International Ltd.,ABMINTLLTD,Trading,Trading,58.74
+215,Lamosaic India Ltd.,LAMOSAIC,Trading,Trading,58.41
+216,Anmol India Ltd.,ANMOL,Trading,Trading,58.05
+217,Synoptics Technologies Ltd.,SYNOPTICS,Trading,Trading,56.9
+218,Genpharmasec Ltd.,GENPHARMA,Trading,Trading,56.48
+219,Fortune International Ltd.,FORINTL,Trading,Trading,56.04
+220,Panth Infinity Ltd.,PANTH,Trading,Trading,55.21
+221,Ramgopal Polytex Ltd.,RAMGOPOLY,Trading,Trading,54.75
+222,SSMD Agrotech India Ltd.,SSMD,Trading,Trading,53.73
+223,Hira Automobiles Ltd.,HIRAUTO,Trading,Trading,53.14
+224,Biofil Chemicals & Pharmaceuticals Ltd.,BIOFILCHEM,Trading,Trading,53.12
+225,Acrow India Ltd.,ACROW,Trading,Trading,53.11
+226,Kemistar Corporation Ltd.,KEMISTAR,Trading,Trading,52.71
+227,City Crops Agro Ltd.,CCAL,Trading,Trading,52.54
+228,Aeonx Digital Technology Ltd.,AEONXDIGI,Trading,Trading,52.35
+229,Luxury Time Ltd.,LUXURY,Trading,Trading,51.18
+230,Royal Sense Ltd.,ROYAL,Trading,Trading,50.83
+231,Safa Systems & Technologies Ltd.,SSTL,Trading,Trading,50.2
+232,Yash Chemex Ltd.,YASHCHEM,Trading,Trading,49.01
+233,Ecofinity Atomix Ltd.,ECOFINITY,Trading,Trading,48.66
+234,Aureate Tradde Ltd.,AUREATE,Trading,Trading,47.01
+235,Simandhar Impex Ltd.,SIMANDHAR,Trading,Trading,46.66
+236,Rose Merc. Ltd.,ROSEMER,Trading,Trading,46.2
+237,IFL Enterprises Ltd.,IFL,Trading,Trading,44.82
+238,Vivaa Tradecom Ltd.,VIVAA,Trading,Trading,44.53
+239,Prudential Sugar Corporation Ltd.,PRUDMOULI,Trading,Trading,43.86
+240,Annvrridhhi Ventures Ltd.,ANVRDHI,Trading,Trading,43.81
+241,Avax Apparels And Ornaments Ltd.,AVAX,Trading,Trading,42.36
+242,Rekvina Laboratories Ltd.,VINRKLB,Trading,Trading,41.44
+243,Atma Industries Ltd.,ATMAIND,Trading,Trading,41.0
+244,Mittal Life Style Ltd.,MITTAL,Trading,Trading,40.4
+245,Roni Households Ltd.,RONI,Trading,Trading,40.23
+246,Guru Krupa Gems And Jewellery Ltd.,GKL,Trading,Trading,39.91
+247,Minal Industries Ltd.,MINALIND,Trading,Trading,39.72
+248,Nanavati Ventures Ltd.,NVENTURES,Trading,Trading,38.35
+249,Krishna Ventures Ltd.,KRISHNA,Trading,Trading,38.23
+250,Stanbik Agro Ltd.,STANBIK,Trading,Trading,37.18
+251,Prism Medico and Pharmacy Ltd.,PRISMMEDI,Trading,Trading,37.01
+252,Kabsons Industries Ltd.,KABSON,Trading,Trading,36.99
+253,Rajnish Retail Ltd.,RRETAIL,Trading,Trading,36.21
+254,Khyati Global Ventures Ltd.,KGVL,Trading,Trading,35.98
+255,Shoora Designs Ltd.,SHOORA,Trading,Trading,35.93
+256,Yuranus Infrastructure Ltd.,YURANUS,Trading,Trading,35.68
+257,Ashoka Metcast Ltd.,ASHOKAMET,Trading,Trading,34.62
+258,Tusaldah Ltd.,TUSALDAH,Trading,Trading,34.61
+259,Sunrest Lifescience Ltd.,SUNREST,Trading,Trading,34.24
+260,RSC International Ltd.,RSCINT,Trading,Trading,34.18
+261,Jaihind Industries Ltd.,JAIHIND,Trading,Trading,33.09
+262,Chambal Breweries & Distilleries Ltd.,CHMBBRW,Trading,Trading,33.0
+263,Amit Securities Ltd.,AMITSEC,Trading,Trading,32.59
+264,Chandra Prabhu International Ltd.,CHANDRAP,Trading,Trading,31.67
+265,Cell Point (India) Ltd.,CELLPOINT,Trading,Trading,31.2
+266,Vaxtex Cotfab Ltd.,VCL,Trading,Trading,31.05
+267,Contil India Ltd.,CONTILI,Trading,Trading,31.01
+268,Katare Spinning Mills Ltd.,KATRSPG,Trading,Trading,30.73
+269,UH Zaveri Ltd.,UHZAVERI,Trading,Trading,30.7
+270,Phoenix Overseas Ltd.,PHOGLOBAL,Trading,Trading,30.57
+271,Sameera Agro & Infra Ltd.,SAIFL,Trading,Trading,30.37
+272,Pearl Green Clubs And Resorts Ltd.,PGCRL,Trading,Trading,30.2
+273,AA Plus Tradelink Ltd.,AAPLUSTRAD,Trading,Trading,29.92
+274,Welcure Drugs & Pharmaceuticals Ltd.,WELCURE,Trading,Trading,29.66
+275,Gujarat Cotex Ltd.,GUJCOTEX,Trading,Trading,29.43
+276,AG Universal Ltd.,AGUL,Trading,Trading,29.42
+277,Yarn Syndicate Ltd.,YARNSYN,Trading,Trading,29.19
+278,Chennai Ferrous Industries Ltd.,CHENFERRO,Trading,Trading,29.18
+279,Sattva Sukun Lifecare Ltd.,SATTVASUKU,Trading,Trading,29.15
+280,Cerebra Integrated Technologies Ltd.,CEREBRAINT,Trading,Trading,29.0
+281,Kkalpana Plastick Ltd.,KKPLASTICK,Trading,Trading,28.64
+282,Medistep Healthcare Ltd.,MEDISTEP,Trading,Trading,28.42
+283,Medico Intercontinental Ltd.,MIL,Trading,Trading,28.21
+284,KKV Agro Powers Ltd.,KKVAPOW,Trading,Trading,28.15
+285,Jay Kailash Namkeen Ltd.,JAYKAILASH,Trading,Trading,27.84
+286,AKG Exim Ltd.,AKG,Trading,Trading,27.71
+287,Supha Pharmachem Ltd.,SUPHA,Trading,Trading,27.34
+288,QVC Exports Ltd.,QVCEL,Trading,Trading,26.02
+289,Johnson Pharmacare Ltd.,JOHNPHARMA,Trading,Trading,25.85
+290,Prabhhans Industries Ltd.,PRABHHANS,Trading,Trading,25.62
+291,Franklin Industries Ltd.,FRANKLININD,Trading,Trading,25.45
+292,Agarwal Float Glass India Ltd.,AGARWALFT,Trading,Trading,25.32
+293,Healthy Life Agritec Ltd.,HEALTHYLIFE,Trading,Trading,25.31
+294,Centuple Global Ltd.,CENTUPLE,Trading,Trading,24.9
+295,AMS Polymers Ltd.,AMS,Trading,Trading,24.71
+296,Innovative Ideals And Services (India) Ltd.,INNOVATIVE,Trading,Trading,24.65
+297,Neeraj Paper Marketing Ltd.,NEERAJ,Trading,Trading,24.25
+298,Salora International Ltd.,SALORAINTL,Trading,Trading,24.03
+299,Sarthak Industries Ltd.,SARTHAKIND,Trading,Trading,23.69
+300,Standard Batteries Ltd.,STDBAT,Trading,Trading,23.6
+301,Marc Loire Fashions Ltd.,MARCLOIRE,Trading,Trading,23.57
+302,Pentokey Organy (India) Ltd.,PNTKYOR,Trading,Trading,23.04
+303,Aspire & Innovative Advertising Ltd.,ASPIRE,Trading,Trading,22.92
+304,Prospect Consumer Products Ltd.,PCL,Trading,Trading,22.7
+305,Asian Tea & Exports Ltd.,ASIANTNE,Trading,Trading,22.62
+306,NAPS Global India Ltd.,NAPSGLOBAL,Trading,Trading,22.15
+307,Glaam Up Jwel Ltd.,GLAAMUP,Trading,Trading,22.04
+308,LWS Knitwear Ltd.,LWSKNIT,Trading,Trading,21.99
+309,Lesha Industries Ltd.,LESHAIND,Trading,Trading,21.91
+310,Darshan Orna Ltd.,DARSHANORNA,Trading,Trading,21.71
+311,Laffans Petrochemicals Ltd.,LAFFANSQ,Trading,Trading,21.41
+312,Hamps Bio Ltd.,HAMPS,Trading,Trading,21.34
+313,Utique Enterprises Ltd.,UTIQUE,Trading,Trading,21.27
+314,Ind-Agiv Commerce Ltd.,INDAGIV,Trading,Trading,21.23
+315,Rama Petrochemicals Ltd.,RAMAPETRO,Trading,Trading,21.05
+316,Disha Resources Ltd.,DRL,Trading,Trading,20.74
+317,Containerway International Ltd.,CONTAINER,Trading,Trading,20.47
+318,OP Chains Ltd.,OPCHAINS,Trading,Trading,20.38
+319,Rishabh Digha Steel & Allied Products Ltd.,RISHDIGA,Trading,Trading,20.28
+320,Shree Metalloys Ltd.,SHREMETAL,Trading,Trading,20.08
+321,Paramount Cosmetics (India) Ltd.,PARMCOS-B,Trading,Trading,20.0
+322,Trio Mercantile & Trading Ltd.,TRIOMERC,Trading,Trading,19.97
+323,Dalmia Industrial Development Ltd.,DIDL,Trading,Trading,19.84
+324,Maitri Enterprises Ltd.,MAITRI,Trading,Trading,19.8
+325,7NR Retail Ltd.,7NR,Trading,Trading,19.6
+326,Maharashtra Corporation Ltd.,MAHACORP,Trading,Trading,19.25
+327,Shrenik Ltd.,SHRENIK,Trading,Trading,18.97
+328,Add-Shop E-Retail Ltd.,ASRL,Trading,Trading,18.94
+329,Venlon Enterprises Ltd.,VENLONENT,Trading,Trading,18.76
+330,Madhusudan Industries Ltd.,MADHUDIN,Trading,Trading,18.62
+331,Bloom Industries Ltd.,BLOIN,Trading,Trading,18.05
+332,Regent Enterprises Ltd.,REGENTRP,Trading,Trading,17.46
+333,Le Lavoir Ltd.,LELAVOIR,Trading,Trading,17.38
+334,AVI Products India Ltd.,APIL,Trading,Trading,17.33
+335,Alchemist Corporation Ltd.,ALCHCORP,Trading,Trading,17.3
+336,Sawaca Enterprises Ltd.,SAWACA,Trading,Trading,17.16
+337,Hemang Resources Ltd.,HEMANG,Trading,Trading,17.16
+338,Zenlabs Ethica Ltd.,ZENLABS,Trading,Trading,17.08
+339,South Asian Enterprises Ltd.,SAENTER,Trading,Trading,16.97
+340,Equilateral Enterprises Ltd.,EQUILATERA,Trading,Trading,16.28
+341,Manglam Global Corporations Ltd.,MANGLAM,Trading,Trading,16.23
+342,Continental Seeds and Chemicals Ltd.,CONTI,Trading,Trading,16.17
+343,Shree Marutinandan Tubes Ltd.,SHREE,Trading,Trading,16.14
+344,Piotex Industries Ltd.,PIOTEX,Trading,Trading,16.08
+345,Neelkanth Ltd.,NEELKANTH,Trading,Trading,15.81
+346,Getalong Enterprise Ltd.,GETALONG,Trading,Trading,15.76
+347,Pressure Sensitive Systems (India) Ltd.,PRESSURS,Trading,Trading,15.73
+348,SM Gold Ltd.,SMGOLD,Trading,Trading,15.32
+349,Tai Industries Ltd.,TAIIND,Trading,Trading,15.24
+350,Simplex Mills Company Ltd.,SIMPLXMIL,Trading,Trading,15.24
+351,Brisk Technovision Ltd.,BRISK,Trading,Trading,15.2
+352,Gajanand International Ltd.,GAJANAND,Trading,Trading,15.16
+353,Dipna Pharmachem Ltd.,DPL,Trading,Trading,15.14
+354,PALM Jewels Ltd.,PALMJEWELS,Trading,Trading,15.11
+355,Rajkamal Synthetics Ltd.,RAJKSYN,Trading,Trading,15.03
+356,Tirupati Innovar Ltd.,TIRUPATIIN,Trading,Trading,15.03
+357,PM Telelinks Ltd.,PMTELELIN,Trading,Trading,14.93
+358,NMS Global Ltd.,NMSGLOBAL,Trading,Trading,14.87
+359,Kiran Print-Pack Ltd.,KIRANPR,Trading,Trading,14.51
+360,Asia Pack Ltd.,ASIAPAK,Trading,Trading,14.51
+361,Mono Pharmacare Ltd.,MONOPHARMA,Trading,Trading,14.49
+362,Gautam Gems Ltd.,GGL,Trading,Trading,14.25
+363,UR Sugar Industries Ltd.,URSUGAR,Trading,Trading,14.18
+364,Aurus Gem Corporation Ltd.,AURUS,Trading,Trading,14.15
+365,Samyak International Ltd.,SAMYAKINT,Trading,Trading,14.02
+366,Sanblue Corporation Ltd.,SANBLUE,Trading,Trading,14.0
+367,Frontline Financial Services Ltd.,FRONTFN,Trading,Trading,13.89
+368,Shivamshree Business Ltd.,SBL,Trading,Trading,13.84
+369,Epuja Spiritech Ltd.,EPUJA,Trading,Trading,13.68
+370,Muller & Phipps (India) Ltd.,MULLER,Trading,Trading,13.63
+371,Bothra Metals & Alloys Ltd.,BMAL,Trading,Trading,13.52
+372,Shukra Jewellery Ltd.,SHUKJEW,Trading,Trading,13.44
+373,Diggi Multitrade Ltd.,DML,Trading,Trading,13.16
+374,JMG Corporation Ltd.,JMGCORP,Trading,Trading,13.15
+375,White Organic Agro Ltd.,WHITEORG,Trading,Trading,12.46
+376,Panabyte Technologies Ltd.,PANABYTE,Trading,Trading,12.46
+377,Shanthala FMCG Products Ltd.,SHANTHALA,Trading,Trading,12.19
+378,Sarthak Global Ltd.,SARTHAKGL,Trading,Trading,11.97
+379,Asian Warehousing Ltd.,ASIAN,Trading,Trading,11.94
+380,Elegant Floriculture & Agrotech (India) Ltd.,ELEFLOR,Trading,Trading,11.78
+381,Parampara Dairy Delights Ltd.,PARAMPARA,Trading,Trading,11.71
+382,Citichem India Ltd.,CITICHEM,Trading,Trading,11.56
+383,Scarnose International Ltd.,SCARNOSE,Trading,Trading,11.31
+384,Mitshi India Ltd.,MITSHI,Trading,Trading,11.22
+385,Jonjua Overseas Ltd.,JONJUA,Trading,Trading,11.18
+386,Goblin India Ltd.,GOBLIN,Trading,Trading,11.1
+387,Dhyaani Tradeventtures Ltd.,DHYAANITR,Trading,Trading,10.93
+388,Adhata Global Ltd.,ADHHATA,Trading,Trading,10.89
+389,Globe Commercials Ltd.,GLCL,Trading,Trading,10.82
+390,Patrona Risk Solutions Ltd.,CRPRISK,Trading,Trading,10.81
+391,Nexus Surgical And Medicare Ltd.,NEXUSSURGL,Trading,Trading,10.69
+392,Dolphin Kitchen Utensils And Appliances Ltd.,DKUAL,Trading,Trading,10.61
+393,Shashank Traders Ltd.,SHASHANK,Trading,Trading,10.53
+394,Mid India Industries Ltd.,MIDINDIA,Trading,Trading,10.38
+395,Mihika Industries Ltd.,MIHIKA,Trading,Trading,10.34
+396,Natural Biocon (India) Ltd.,NATURAL,Trading,Trading,9.82
+397,Shree Ganesh Elastoplast Ltd.,SHGANEL,Trading,Trading,9.35
+398,Scan Projects Ltd.,SCANPRO,Trading,Trading,9.34
+399,SRU Steels Ltd.,SRUSteels,Trading,Trading,8.93
+400,VK Global Industries Ltd.,VKGLOBAL,Trading,Trading,8.9
+401,Shivansh Finserve Ltd.,SHIVA,Trading,Trading,8.74
+402,KCD Industries India Ltd.,KCDGROUP,Trading,Trading,8.6
+403,Afloat Enterprises Ltd.,ADISHAKTI,Trading,Trading,8.59
+404,Devine Impex Ltd.,DEVINE,Trading,Trading,8.58
+405,Photoquip (India) Ltd.,PHOTOQUP,Trading,Trading,8.58
+406,Standard Shoe Sole & Mould (India) Ltd.,STDSHOE,Trading,Trading,8.58
+407,Haria Exports Ltd.,HARIAEXPO,Trading,Trading,8.3
+408,Ambassador Intra Holdings Ltd.,AIHL,Trading,Trading,7.98
+409,RO Jewels Ltd.,ROJL,Trading,Trading,7.97
+410,Konndor Industries Ltd.,KONNDOR,Trading,Trading,7.84
+411,Shiva Suitings Ltd.,SHVSUIT,Trading,Trading,7.67
+412,Vivanza Biosciences Ltd.,VIVANZA,Trading,Trading,7.6
+413,Peeti Securities Ltd.,PEETISEC,Trading,Trading,7.48
+414,Sirohia & Sons Ltd.,SIROHIA,Trading,Trading,7.42
+415,Fraser and Co Ltd.,FRASER,Trading,Trading,7.4
+416,IGC Industries Ltd.,IGCIL,Trading,Trading,7.36
+417,Hemo Organic Ltd.,HEMORGANIC,Trading,Trading,7.26
+418,Parker Agrochem Exports Ltd.,PARKERAC,Trading,Trading,7.26
+419,Karnawati Innovation Ltd.,KARNAWATI,Trading,Trading,7.24
+420,Ganon Products Ltd.,GANONPRO,Trading,Trading,7.18
+421,Mystic Electronics Ltd.,MYSTICELE,Trading,Trading,7.08
+422,Sunraj Diamond Exports Ltd.,SUNRAJDI,Trading,Trading,7.05
+423,Olympic Oil Industries Ltd.,OLYOI,Trading,Trading,6.91
+424,Nyssa Corporation Ltd.,NYSSACORP,Trading,Trading,6.84
+425,RISA International Ltd.,RISAINTL,Trading,Trading,6.7
+426,Newtrac Foods & Beverages Ltd.,NEWTRAC,Trading,Trading,6.7
+427,Flora Corporation Ltd.,FLORACORP,Trading,Trading,6.64
+428,Amraworld Agrico Ltd.,AMRAAGRI,Trading,Trading,6.62
+429,Priya Ltd.,PRIYALT,Trading,Trading,6.56
+430,Worldwide Aluminium Ltd.,WWALUM,Trading,Trading,6.54
+431,Ambitious Plastomac Company Ltd.,AMBIT,Trading,Trading,6.51
+432,Lexoraa Industries Ltd.,LEXORAA,Trading,Trading,6.5
+433,Reetech International Ltd.,REETECH,Trading,Trading,6.34
+434,Veerkrupa Jewellers Ltd.,VEERKRUPA,Trading,Trading,6.29
+435,Symbiox Investment & Trading Co Ltd.,SYMBIOX,Trading,Trading,6.26
+436,Modella Woollens Ltd.,MODWOOL,Trading,Trading,6.09
+437,Padmanabh Industries Ltd.,PADMAIND,Trading,Trading,5.99
+438,Delta Industrial Resources Ltd.,DELTA,Trading,Trading,5.72
+439,Mukta Agriculture Ltd.,MUKTA,Trading,Trading,5.66
+440,Triveni Enterprises Ltd.,TRIVENIENT,Trading,Trading,5.61
+441,Amanaya Ventures Ltd.,AMANAYA,Trading,Trading,5.44
+442,Ashiana Agro Industries Ltd.,ASHAI,Trading,Trading,5.41
+443,Omkar Overseas Ltd.,OMKAR,Trading,Trading,5.34
+444,Grandma Trading & Agencies Ltd.,GRANDMA,Trading,Trading,5.22
+445,Castora Agri Commodities Ltd.,CASTORA,Trading,Trading,5.11
+446,Sword-Edge Commercials Ltd.,SWORDEDGE,Trading,Trading,5.0
+447,Naturo Agrotech India Ltd.,NATURO,Trading,Trading,4.92
+448,Goldcoin Health Foods Ltd.,GOLDCOINHF,Trading,Trading,4.88
+449,CHD Chemicals Ltd.,CHDCHEM,Trading,Trading,4.85
+450,Dhruv Wellness Ltd.,DWL,Trading,Trading,4.83
+451,Munoth Communication Ltd.,MCLTD,Trading,Trading,4.79
+452,Patron Exim Ltd.,PATRON,Trading,Trading,4.64
+453,EVOQ Remedies Ltd.,EVOQ,Trading,Trading,4.53
+454,Longview Tea Company Ltd.,LONTE,Trading,Trading,4.44
+455,Sun Retail Ltd.,SUNRETAIL,Trading,Trading,4.34
+456,Fabino Enterprises Ltd.,FABINO,Trading,Trading,4.27
+457,Vasudhagama Enterprises Ltd.,VASUDHAGAM,Trading,Trading,3.95
+458,Simplex Papers Ltd.,SIMPLXPAP,Trading,Trading,3.93
+459,Naksh Precious Metals Ltd.,NAKSH,Trading,Trading,3.79
+460,Unitech International Ltd.,UNITINT,Trading,Trading,3.33
+461,Radhagobind Commercial Ltd.,RCL,Trading,Trading,2.88
+462,Ramasigns Industries Ltd.,RAMASIGNS,Trading,Trading,2.77
+463,Svarnim Trade Udyog Ltd.,SNIM,Trading,Trading,2.74
+464,Suumaya Corporation Ltd.,SUUMAYA,Trading,Trading,2.5
+465,Aurique Ltd.,AURIQUE,Trading,Trading,1.48
+466,Omnipotent Industries Ltd.,OMNIPOTENT,Trading,Trading,1.4
+467,Wardwizard Healthcare Ltd.,WARDHEALTH,Trading,Trading,1.11
+468,Diksha Greens Ltd.,DGL,Trading,Trading,0.96
+469,Antariksh Industries Ltd.,ANTARIKSH,Trading,Trading,0.25
+470,Pradhin Ltd. - (Rights Entitlements (REs)),PRADH-RE,Trading,Trading,0.0
+471,Sharanam Infraproject And Trading Ltd. - (Rights Entitlements (REs)),SIPTL-RE2,Trading,Trading,0.0
+472,Annvrridhhi Ventures Ltd. - (Rights Entitlements (REs)),ANVRDH-RE,Trading,Trading,0.0
+473,Tirupati Tyres Ltd. - (Rights Entitlements (REs)),TTIL-RE,Trading,Trading,0.0
+474,Remedium Lifecare Ltd. - (Rights Entitlements (REs)),REMLIF-RE,Trading,Trading,0.0
+475,Franklin Industries Ltd. - (Rights Entitlements (REs)),FRANKI-RE1,Trading,Trading,0.0
+476,Lloyds Enterprises Ltd. - (Rights Entitlements (REs)),LLOYDSE-RE,Trading,Trading,0.0
+477,Healthy Life Agritec Ltd. (Rights Entitlements (REs),751040,Trading,Trading,0.0
+478,Ashnisha Industries Ltd. - (Rights Entitlements (REs)),ASHNI-RE,Trading,Trading,0.0
+479,Suraj Industries Ltd. - (Rights Entitlements (REs)),SURAJ-RE,Trading,Trading,0.0
+480,Suraj Industries Ltd.- Partly Paid-up Equity Shares (Rights Issue),SURAJINDPP,Trading,Trading,0.0
+481,Annvrridhhi Ventures Ltd. - (Rights Entitlements (REs)),751056,Trading,Trading,0.0
+482,Adani Enterprises Ltd. - (Rights Entitlements (REs)),ADANI-RE,Trading,Trading,0.0
+483,Annvrridhhi Ventures Ltd. - (partly paid-up),ANNVRPP,Trading,Trading,0.0
+484,AVI Polymers Ltd. - (Rights Entitlements (REs)),AVI-RE,Trading,Trading,0.0
+485,Dhariwalcorp Ltd. - (Rights Entitlements (REs)),DHARI-RE,Trading,Trading,0.0
+486,Sunrest Lifescience Ltd. - (Rights Entitlements),SUNREST-RE,Trading,Trading,0.0
+487,Gujarat Cotex Ltd. - (Rights Entitlements (REs)),GUJCOT-RE,Trading,Trading,0.0
+488,Tirupati Innovar Ltd. - (Rights Entitlements (REs)),TIRUIN-RE,Trading,Trading,0.0
+489,Integra Essentia Ltd. - (Rights Entitlements (REs1)),ESSEN-RE3,Trading,Trading,0.0
+490,Consecutive Commodities Ltd. - (Rights Entitlements (REs)),CCDL-RE,Trading,Trading,0.0

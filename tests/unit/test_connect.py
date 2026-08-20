@@ -2,8 +2,7 @@
 import pytest
 import responses
 import kiteconnect.exceptions as ex
-
-import utils
+from helpers import instrument_helper
 
 
 def test_set_access_token(kiteconnect):
@@ -20,7 +19,7 @@ def test_positions(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["portfolio.positions"]),
-        body=utils.get_response("portfolio.positions"),
+        body=instrument_helper.get_response("portfolio.positions"),
         content_type="application/json"
     )
     positions = kiteconnect.positions()
@@ -35,7 +34,7 @@ def test_holdings(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["portfolio.holdings"]),
-        body=utils.get_response("portfolio.holdings"),
+        body=instrument_helper.get_response("portfolio.holdings"),
         content_type="application/json"
     )
     holdings = kiteconnect.holdings()
@@ -48,7 +47,7 @@ def test_auction_instruments(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["portfolio.holdings.auction"]),
-        body=utils.get_response("portfolio.holdings.auction"),
+        body=instrument_helper.get_response("portfolio.holdings.auction"),
         content_type="application/json"
     )
     auction_inst = kiteconnect.get_auction_instruments()
@@ -61,7 +60,7 @@ def test_margins(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["user.margins"]),
-        body=utils.get_response("user.margins"),
+        body=instrument_helper.get_response("user.margins"),
         content_type="application/json"
     )
     margins = kiteconnect.margins()
@@ -76,7 +75,7 @@ def test_profile(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["user.profile"]),
-        body=utils.get_response("user.profile"),
+        body=instrument_helper.get_response("user.profile"),
         content_type="application/json"
     )
     profile = kiteconnect.profile()
@@ -94,7 +93,7 @@ def test_margins_segmentwise(kiteconnect):
                 segment=kiteconnect.MARGIN_COMMODITY
             )
         ),
-        body=utils.get_response("user.margins.segment"),
+        body=instrument_helper.get_response("user.margins.segment"),
         content_type="application/json"
     )
     commodity = kiteconnect.margins(segment=kiteconnect.MARGIN_COMMODITY)
@@ -107,7 +106,7 @@ def test_orders(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["orders"]),
-        body=utils.get_response("orders"),
+        body=instrument_helper.get_response("orders"),
         content_type="application/json"
     )
     orders = kiteconnect.orders()
@@ -121,7 +120,7 @@ def test_order_history(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, url),
-        body=utils.get_response("order.info"),
+        body=instrument_helper.get_response("order.info"),
         content_type="application/json"
     )
     trades = kiteconnect.order_history(order_id="abc123")
@@ -134,7 +133,7 @@ def test_market_protection(kiteconnect):
     responses.add(
         responses.POST,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["order.place"].format(variety="regular")),
-        body=utils.get_response("order.place"),
+        body=instrument_helper.get_response("order.place"),
         content_type="application/json"
     )
 
@@ -157,7 +156,7 @@ def test_place_order_algo_id(kiteconnect):
     responses.add(
         responses.POST,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["order.place"].format(variety="regular")),
-        body=utils.get_response("order.place"),
+        body=instrument_helper.get_response("order.place"),
         content_type="application/json"
     )
 
@@ -188,7 +187,7 @@ def test_place_autoslice_order(kiteconnect):
     responses.add(
         responses.POST,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["order.place"].format(variety="regular")),
-        body=utils.get_response("order.place.autoslice"),
+        body=instrument_helper.get_response("order.place.autoslice"),
         content_type="application/json"
     )
 
@@ -224,7 +223,7 @@ def test_modify_order_market_protection(kiteconnect):
     responses.add(
         responses.PUT,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["order.modify"].format(variety="regular", order_id="151220000000000")),
-        body=utils.get_response("order.modify"),
+        body=instrument_helper.get_response("order.modify"),
         content_type="application/json"
     )
 
@@ -243,7 +242,7 @@ def test_trades(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["trades"]),
-        body=utils.get_response("trades"),
+        body=instrument_helper.get_response("trades"),
         content_type="application/json"
     )
     trades = kiteconnect.trades()
@@ -257,7 +256,7 @@ def test_order_trades(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, url),
-        body=utils.get_response("trades"),
+        body=instrument_helper.get_response("trades"),
         content_type="application/json"
     )
     trades = kiteconnect.order_trades(order_id="abc123")
@@ -270,7 +269,7 @@ def test_instruments(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["market.instruments.all"]),
-        body=utils.get_response("market.instruments.all"),
+        body=instrument_helper.get_response("market.instruments.all"),
         content_type="text/csv"
     )
     trades = kiteconnect.instruments()
@@ -284,7 +283,7 @@ def test_instruments_exchangewise(kiteconnect):
         responses.GET,
         "{0}{1}".format(kiteconnect.root,
                         kiteconnect._routes["market.instruments"].format(exchange=kiteconnect.EXCHANGE_NSE)),
-        body=utils.get_response("market.instruments"),
+        body=instrument_helper.get_response("market.instruments"),
         content_type="text/csv"
     )
     trades = kiteconnect.instruments(exchange=kiteconnect.EXCHANGE_NSE)
@@ -297,7 +296,7 @@ def test_mf_orders(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["mf.orders"]),
-        body=utils.get_response("mf.orders"),
+        body=instrument_helper.get_response("mf.orders"),
         content_type="application/json"
     )
     trades = kiteconnect.mf_orders()
@@ -311,7 +310,7 @@ def test_mf_individual_order(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, url),
-        body=utils.get_response("mf.order.info"),
+        body=instrument_helper.get_response("mf.order.info"),
         content_type="application/json"
     )
     trades = kiteconnect.mf_orders(order_id="abc123")
@@ -324,7 +323,7 @@ def test_mf_sips(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["mf.sips"]),
-        body=utils.get_response("mf.sips"),
+        body=instrument_helper.get_response("mf.sips"),
         content_type="application/json"
     )
     trades = kiteconnect.mf_sips()
@@ -338,7 +337,7 @@ def test_mf_individual_sip(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, url),
-        body=utils.get_response("mf.sip.info"),
+        body=instrument_helper.get_response("mf.sip.info"),
         content_type="application/json"
     )
     trades = kiteconnect.mf_sips(sip_id="abc123")
@@ -351,7 +350,7 @@ def test_mf_holdings(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["mf.holdings"]),
-        body=utils.get_response("mf.holdings"),
+        body=instrument_helper.get_response("mf.holdings"),
         content_type="application/json"
     )
     trades = kiteconnect.mf_holdings()
@@ -364,7 +363,7 @@ def test_mf_instruments(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["mf.instruments"]),
-        body=utils.get_response("mf.instruments"),
+        body=instrument_helper.get_response("mf.instruments"),
         content_type="text/csv"
     )
     trades = kiteconnect.mf_instruments()
@@ -377,7 +376,7 @@ def test_get_gtts(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["gtt"]),
-        body=utils.get_response("gtt"),
+        body=instrument_helper.get_response("gtt"),
         content_type="application/json"
     )
     gtts = kiteconnect.get_gtts()
@@ -390,7 +389,7 @@ def test_get_gtt(kiteconnect):
     responses.add(
         responses.GET,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["gtt.info"].format(trigger_id=123)),
-        body=utils.get_response("gtt.info"),
+        body=instrument_helper.get_response("gtt.info"),
         content_type="application/json"
     )
     gtts = kiteconnect.get_gtt(123)
@@ -404,7 +403,7 @@ def test_place_gtt(kiteconnect):
     responses.add(
         responses.POST,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["gtt.place"]),
-        body=utils.get_response("gtt.place"),
+        body=instrument_helper.get_response("gtt.place"),
         content_type="application/json"
     )
     gtts = kiteconnect.place_gtt(
@@ -430,7 +429,7 @@ def test_modify_gtt(kiteconnect):
     responses.add(
         responses.PUT,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["gtt.modify"].format(trigger_id=123)),
-        body=utils.get_response("gtt.modify"),
+        body=instrument_helper.get_response("gtt.modify"),
         content_type="application/json"
     )
     gtts = kiteconnect.modify_gtt(
@@ -457,7 +456,7 @@ def test_delete_gtt(kiteconnect):
     responses.add(
         responses.DELETE,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["gtt.delete"].format(trigger_id=123)),
-        body=utils.get_response("gtt.delete"),
+        body=instrument_helper.get_response("gtt.delete"),
         content_type="application/json"
     )
     gtts = kiteconnect.delete_gtt(123)
@@ -470,7 +469,7 @@ def test_order_margins(kiteconnect):
     responses.add(
         responses.POST,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["order.margins"]),
-        body=utils.get_response("order.margins"),
+        body=instrument_helper.get_response("order.margins"),
         content_type="application/json"
     )
     order_param_single = [{
@@ -498,7 +497,7 @@ def test_basket_order_margins(kiteconnect):
     responses.add(
         responses.POST,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["order.margins.basket"]),
-        body=utils.get_response("order.margins.basket"),
+        body=instrument_helper.get_response("order.margins.basket"),
         content_type="application/json"
     )
     order_param_multi = [{
@@ -533,7 +532,7 @@ def test_virtual_contract_note(kiteconnect):
     responses.add(
         responses.POST,
         "{0}{1}".format(kiteconnect.root, kiteconnect._routes["order.contract_note"]),
-        body=utils.get_response("order.contract_note"),
+        body=instrument_helper.get_response("order.contract_note"),
         content_type="application/json"
     )
 

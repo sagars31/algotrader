@@ -1,0 +1,744 @@
+Rank,Stock_Name,Symbol,Sector,Industry,Market_Cap_Cr
+1,Bajaj Finance Ltd.,BAJFINANCE,Finance,Finance - NBFC,677197.05
+2,Life Insurance Corporation of India,LICI,Finance,Insurance,523330.31
+3,Bajaj Finserv Ltd.,BAJAJFINSV,Finance,Finance - Investment,325218.45
+4,Shriram Finance Ltd.,SHRIRAMFIN,Finance,Finance - NBFC,264498.88
+5,SBI Life Insurance Company Ltd.,SBILIFE,Finance,Insurance,181289.27
+6,JIO Financial Services Ltd.,JIOFIN,Finance,Finance - NBFC,165078.54
+7,Cholamandalam Investment and Finance Company Ltd.,CHOLAFIN,Finance,Finance - NBFC,162699.57
+8,Tata Capital Ltd.,TATACAP,Finance,Finance - NBFC,154640.58
+9,ICICI Prudential Asset Management Company Ltd.,ICICIAMC,Finance,Finance - Asset Management,153269.57
+10,BSE Ltd.,BSE,Finance,Finance - Others,140597.64
+11,Bajaj Holdings & Investment Ltd.,BAJAJHLDNG,Finance,Finance - NBFC,126953.06
+12,Power Finance Corporation Ltd.,PFC,Finance,Finance Term Lending,124430.34
+13,Billionbrains Garage Ventures Ltd.,GROWW,Finance,Finance - Stock Broking,123056.6
+14,HDFC Life Insurance Company Ltd.,HDFCLIFE,Finance,Insurance,116770.53
+15,Indian Railway Finance Corporation Ltd.,IRFC,Finance,Finance Term Lending,114480.11
+16,Muthoot Finance Ltd.,MUTHOOTFIN,Finance,Finance - NBFC,114217.78
+17,SBI Funds Management Ltd.,SBIFUNDS,Finance,Finance - Asset Management,113919.77
+18,Aditya Birla Capital Ltd.,ABCAPITAL,Finance,Finance - NBFC,109828.02
+19,HDFC Asset Management Company Ltd.,HDFCAMC,Finance,Finance - Asset Management,107196.7
+20,REC Ltd.,RECLTD,Finance,Finance Term Lending,88449.99
+21,ICICI Lombard General Insurance Company Ltd.,ICICIGI,Finance,Insurance,81273.09
+22,L&T Finance Ltd.,LTF,Finance,Finance - NBFC,76797.77
+23,Multi Commodity Exchange Of India Ltd.,MCX,Finance,Finance - Stock Broking,74521.37
+24,Nippon Life India Asset Management Ltd.,NAM-INDIA,Finance,Finance - Asset Management,74495.17
+25,ICICI Prudential Life Insurance Company Ltd.,ICICIPRULI,Finance,Insurance,73411.07
+26,Bajaj Housing Finance Ltd.,BAJAJHFL,Finance,Finance - Housing,70258.25
+27,General Insurance Corporation of India,GICRE,Finance,Insurance,61807.51
+28,SBI Cards And Payment Services Ltd.,SBICARD,Finance,Finance - NBFC,60162.84
+29,HDB Financial Services Ltd.,HDBFS,Finance,Finance - NBFC,57044.47
+30,Mahindra & Mahindra Financial Services Ltd.,M&MFIN,Finance,Finance - NBFC,54188.03
+31,Motilal Oswal Financial Services Ltd.,MOTILALOFS,Finance,Finance - Stock Broking,53992.25
+32,Max Financial Services Ltd.,MFSL,Finance,Finance - Others,53320.23
+33,Sundaram Finance Ltd.,SUNDARMFIN,Finance,Finance - NBFC,49611.76
+34,Authum Investment & Infrastructure Ltd.,AIIL,Finance,Finance - Investment,47989.73
+35,360 One Wam Ltd.,360ONE,Finance,Finance - Stock Broking,47443.28
+36,Piramal Finance Ltd.,PIRAMALFIN,Finance,Finance - Housing,46602.67
+37,Poonawalla Fincorp Ltd.,POONAWALLA,Finance,Finance - NBFC,43836.3
+38,Housing & Urban Development Corporation Ltd.,HUDCO,Finance,Finance - Housing,38016.08
+39,Anand Rathi Wealth Ltd.,ANANDRATHI,Finance,Finance - Others,36103.18
+40,Star Health and Allied Insurance Company Ltd.,STARHEALTH,Finance,Insurance,34408.21
+41,Tata Investment Corporation Ltd.,TATAINVEST,Finance,Finance - NBFC,33757.18
+42,Manappuram Finance Ltd.,MANAPPURAM,Finance,Finance - NBFC,32735.86
+43,Indian Renewable Energy Development Agency Ltd.,IREDA,Finance,Finance - NBFC,32727.54
+44,Nuvama Wealth Management Ltd.,NUVAMA,Finance,Finance - Stock Broking,30598.61
+45,Cholamandalam Financial Holdings Ltd.,CHOLAHLDNG,Finance,Finance - Investment,29999.33
+46,PNB Housing Finance Ltd.,PNBHOUSING,Finance,Finance - Housing,29970.45
+47,The New India Assurance Company Ltd.,NIACL,Finance,Insurance,29507.44
+48,Aditya Birla Sun Life AMC Ltd.,ABSLAMC,Finance,Finance - Asset Management,29256.14
+49,TVS Holdings Ltd.,TVSHLTD,Finance,Finance - Investment,28293.69
+50,Central Depository Services (India) Ltd.,CDSL,Finance,Depository Services,28097.96
+51,LIC Housing Finance Ltd.,LICHSGFIN,Finance,Finance - Housing,27508.65
+52,IIFL Finance Ltd.,IIFL,Finance,Finance - NBFC,26873.45
+53,Angel One Ltd.,ANGELONE,Finance,Finance - Stock Broking,26222.83
+54,CreditAccess Grameen Ltd.,CREDITACC,Finance,Finance - NBFC,24873.38
+55,Go Digit General Insurance Ltd.,GODIGIT,Finance,Insurance,24080.17
+56,Aadhar Housing Finance Ltd.,AADHARHFC,Finance,Finance - Housing,21843.1
+57,Capri Global Capital Ltd.,CGCL,Finance,Finance - Investment,21797.6
+58,IFCI Ltd.,IFCI,Finance,Finance Term Lending,20735.44
+59,Computer Age Management Services Ltd.,CAMS,Finance,Depository Services,18945.1
+60,Choice International Ltd.,CHOICEIN,Finance,Finance - Stock Broking,17909.0
+61,Sammaan Capital Ltd.,SAMMAANCAP,Finance,Finance - Housing,17753.67
+62,KFin Technologies Ltd.,KFINTECH,Finance,Depository Services,16267.26
+63,Five-Star Business Finance Ltd.,FIVESTAR,Finance,Finance - NBFC,16263.42
+64,National Securities Depository Ltd.,NSDL,Finance,Depository Services,16248.0
+65,Niva Bupa Health Insurance Company Ltd.,NIVABUPA,Finance,Insurance,15309.81
+66,Maharashtra Scooters Ltd.,MAHSCOOTER,Finance,Finance - Investment,15247.31
+67,Canara HSBC Life Insurance Company Ltd.,CANHLIFE,Finance,Insurance,14112.25
+68,Prudent Corporate Advisory Services Ltd.,PRUDENT,Finance,Finance - Others,13479.32
+69,JSW Holdings Ltd.,JSWHL,Finance,Finance - Investment,13142.62
+70,Aptus Value Housing Finance India Ltd.,APTUS,Finance,Finance - Housing,12540.48
+71,Home First Finance Company India Ltd.,HOMEFIRST,Finance,Finance - Housing,12286.9
+72,JM Financial Ltd.,JMFINANCIL,Finance,Finance - Investment,12100.76
+73,UTI Asset Management Company Ltd.,UTIAMC,Finance,Finance - Asset Management,11671.33
+74,Edelweiss Financial Services Ltd.,EDELWEISS,Finance,Finance - NBFC,11547.69
+75,Aavas Financiers Ltd.,AAVAS,Finance,Finance - Housing,11067.7
+76,Can Fin Homes Ltd.,CANFINHOME,Finance,Finance - Housing,10910.69
+77,IIFL Capital Services Ltd.,IIFLCAPS,Finance,Finance - Stock Broking,10539.72
+78,SBFC Finance Ltd.,SBFC,Finance,Finance - NBFC,10413.82
+79,TSF Investments Ltd.,TSFINV,Finance,Finance - Investment,9227.3
+80,Religare Enterprises Ltd.,RELIGARE,Finance,Finance - Investment,8087.45
+81,Kama Holdings Ltd.,KAMAHOLD,Finance,Finance - Investment,7886.9
+82,India Shelter Finance Corporation Ltd.,INDIASHLTR,Finance,Finance - Housing,7299.14
+83,Bengal & Assam Company Ltd.,BENGALASM,Finance,Finance - NBFC,7071.39
+84,Mrugesh Trading Ltd.,MRUTR,Finance,Finance - Investment,6552.62
+85,Paisalo Digital Ltd.,PAISALO,Finance,Finance - NBFC,6252.05
+86,Fedbank Financial Services Ltd,FEDFINA,Finance,Finance - NBFC,5659.0
+87,MAS Financial Services Ltd.,MASFIN,Finance,Finance - NBFC,5472.63
+88,Tourism Finance Corporation Of India Ltd.,TFCILTD,Finance,Finance Term Lending,5435.35
+89,OnEMI Technology Solutions Ltd.,KISSHT,Finance,Finance - NBFC,5212.86
+90,Canara Robeco Asset Management Co Ltd.,CRAMC,Finance,Finance - Asset Management,5108.08
+91,Pilani Investment And Industries Corporation Ltd.,PILANIINVS,Finance,Finance - Investment,5047.34
+92,Dhenu Buildcon Infra Ltd.,DHENUBUILD,Finance,Finance - NBFC,4681.76
+93,Northern ARC Capital Ltd.,NORTHARC,Finance,Finance - NBFC,4548.87
+94,SG Finserve Ltd.,SGFIN,Finance,Finance - NBFC,4351.38
+95,AYE Finance Ltd.,AYE,Finance,Finance - NBFC,4263.22
+96,RattanIndia Enterprises Ltd.,RTNINDIA,Finance,Finance - Investment,4157.87
+97,Indostar Capital Finance Ltd.,INDOSTAR,Finance,Finance - NBFC,3847.4
+98,Share India Securities Ltd.,SHAREINDIA,Finance,Finance - Stock Broking,3826.16
+99,Ashika Global Securities Ltd.,ASHIKAG,Finance,Finance - NBFC,3781.21
+100,Lords Mark Industries Ltd.,LORDSMARK,Finance,Finance - NBFC,3760.03
+101,Muthoot Microfin Ltd.,MUTHOOTMF,Finance,Finance - NBFC,3566.7
+102,Fusion Finance Ltd.,FUSION,Finance,Finance - NBFC,3235.55
+103,Anand Rathi Share & Stock Brokers Ltd.,ARSSBL,Finance,Finance - Stock Broking,3205.03
+104,Monarch Networth Capital Ltd.,MONARCH,Finance,Finance - Stock Broking,3092.63
+105,Nalwa Sons Investments Ltd.,NSIL,Finance,Finance - Investment,2826.46
+106,Colab Platforms Ltd.,COLAB,Finance,Finance - Investment,2810.1
+107,Mufin Green Finance Ltd.,MUFIN,Finance,Finance - NBFC,2683.12
+108,Satin Creditcare Network Ltd.,SATIN,Finance,Finance Term Lending,2482.83
+109,Rane Holdings Ltd.,RANEHOLDIN,Finance,Finance - Investment,2385.18
+110,Kalyani Investment Company Ltd.,KICL,Finance,Finance - Investment,2326.38
+111,Repco Home Finance Ltd.,REPCOHOME,Finance,Finance - Housing,2236.57
+112,Geojit Financial Services Ltd.,GEOJITFSL,Finance,Finance - Stock Broking,2231.58
+113,Elcid Investments Ltd.,ELCIDIN,Finance,Finance - Investment,2207.8
+114,Spandana Sphoorty Financial Ltd.,SPANDANA,Finance,Finance - NBFC,2176.1
+115,Arman Financial Services Ltd.,ARMANFIN,Finance,Finance - NBFC,2069.94
+116,Spice Lounge Food Works Ltd.,SPICELOUNG,Finance,Finance - Investment,1926.85
+117,Algoquant Fintech Ltd.,ALGOQUANT,Finance,Finance - Stock Broking,1849.89
+118,PTC India Financial Services Ltd.,PFS,Finance,Finance - NBFC,1822.16
+119,5Paisa Capital Ltd.,5PAISA,Finance,Finance - Stock Broking,1808.48
+120,BF Investment Ltd.,BFINVEST,Finance,Finance - Investment,1749.85
+121,SMC Global Securities Ltd.,SMCGLOBAL,Finance,Finance - Stock Broking,1659.08
+122,Balmer Lawrie Investments Ltd.,BLIL,Finance,Finance - NBFC,1571.57
+123,Summit Securities Ltd.,SUMMITSEC,Finance,Finance - NBFC,1566.91
+124,Meghna Infracon Infrastructure Ltd.,MIIL,Finance,Finance - Stock Broking,1480.26
+125,Aeroflex Enterprises Ltd.,AEROENTER,Finance,Finance - Others,1449.07
+126,Ugro Capital Ltd.,UGROCAP,Finance,Finance - NBFC,1442.47
+127,PNB Gilts Ltd.,PNBGILTS,Finance,Finance - NBFC,1430.9
+128,Haryana Financial Corporation Ltd.,HARAFIN,Finance,Finance Term Lending,1360.16
+129,Saraswati Commercial (India) Ltd.,ZSARACOM,Finance,Finance - NBFC,1338.17
+130,Innovassynth Technologies (India) Ltd.,INOVSYNTH,Finance,Finance - NBFC,1274.05
+131,Centrum Capital Ltd.,CENTRUM,Finance,Finance - Others,1258.45
+132,Gyftr Ltd.,GYFTR,Finance,Finance - Investment,1249.29
+133,Dolat Algotech Ltd.,DOLATALGO,Finance,Finance - Stock Broking,1220.74
+134,AK Capital Services Ltd.,AKCAPIT,Finance,Finance - Investment,1143.62
+135,Vardhman Holdings Ltd.,VHL,Finance,Finance - NBFC,1101.4
+136,Jindal Photo Ltd.,JINDALPHOT,Finance,Finance - Investment,1084.0
+137,STEL Holdings Ltd.,STEL,Finance,Finance - Investment,1066.35
+138,Industrial & Prudential Investment Company Ltd.,INDPRUD,Finance,Finance - NBFC,1060.71
+139,Jindal Poly Investment and Finance Company Ltd.,JPOLYINVST,Finance,Finance - Investment,1059.81
+140,Abans Financial Services Ltd.,AFSL,Finance,Finance - NBFC,1053.4
+141,Indo Thai Securities Ltd.,INDOTHAI,Finance,Finance - Investment,1029.85
+142,DAM Capital Advisors Ltd.,DAMCAPITAL,Finance,Finance - Investment,1029.19
+143,Finkurve Financial Services Ltd.,FINKURVE,Finance,Finance - NBFC,1022.07
+144,Crest Ventures Ltd.,CREST,Finance,Finance - NBFC,1021.92
+145,Master Trust Ltd.,MASTERTR,Finance,Finance - NBFC,964.57
+146,Prime Securities Ltd.,PRIMESECU,Finance,Finance - Stock Broking,962.44
+147,GKW Ltd.,GKWLIMITED,Finance,Finance - Investment,960.07
+148,Wealth First Portfolio Managers Ltd.,WEALTH,Finance,Finance - Investment,958.95
+149,Health X Platform Ltd.,HEALTHX,Finance,Finance - NBFC,924.73
+150,Consolidated Finvest & Holdings Ltd.,CONSOFINVT,Finance,Finance - NBFC,872.81
+151,Max India Ltd.,MAXIND,Finance,Finance - Investment,849.88
+152,Fedders Holding Ltd.,FEDDERSHOL,Finance,Finance - Investment,846.15
+153,Capital India Finance Ltd.,CIFL,Finance,Finance - NBFC,822.0
+154,Systematix Corporate Services Ltd.,SYSTMTXC,Finance,Finance - Investment,818.82
+155,Arihant Capital Markets Ltd.,ARIHANTCAP,Finance,Finance - Stock Broking,814.09
+156,VLS Finance Ltd.,VLSFINANCE,Finance,Finance - Investment,812.55
+157,GIC Housing Finance Ltd.,GICHSGFIN,Finance,Finance - Housing,763.07
+158,Aditya Birla Money Ltd.,BIRLAMONEY,Finance,Finance - Stock Broking,743.94
+159,Aryaman Financial Services Ltd.,ARYAMAN,Finance,Finance - Investment,713.76
+160,Welspun Investments and Commercials Ltd.,WELINV,Finance,Finance - Investment,676.97
+161,Emkay Global Financial Services Ltd.,EMKAY,Finance,Finance - Stock Broking,659.15
+162,Tandhan Industries Ltd.,TANDHANIN,Finance,Finance - Investment,657.0
+163,Manba Finance Ltd.,MANBA,Finance,Finance - NBFC,653.61
+164,Laxmi India Finance Ltd.,LAXMIINDIA,Finance,Finance - NBFC,646.01
+165,Dhunseri Investments Ltd.,DHUNINV,Finance,Finance - Investment,638.83
+166,India Finsec Ltd.,IFINSEC,Finance,Finance - NBFC,636.38
+167,N.B.I. Industrial Finance Co. Ltd.,NBIFIN,Finance,Finance - NBFC,618.3
+168,Niyogin Fintech Ltd.,NIYOGIN,Finance,Finance - NBFC,582.05
+169,Kalind Ltd.,KALIND,Finance,Finance - Investment,573.19
+170,GFL Ltd.,GFLLIMITED,Finance,Finance - Investment,559.36
+171,Stellant Securities (India) Ltd.,STELLANT,Finance,Finance - NBFC,547.33
+172,Kiran Vyapar Ltd.,KIRANVYPAR,Finance,Finance - NBFC,540.91
+173,Oswal Greentech Ltd.,OSWALGREEN,Finance,Finance - Investment,539.3
+174,The Investment Trust of India Ltd.,THEINVEST,Finance,Finance - NBFC,514.06
+175,Mangal Credit and Fincorp Ltd.,MANCREDIT,Finance,Finance - NBFC,502.09
+176,CSL Finance Ltd.,CSLFINANCE,Finance,Finance - NBFC,500.65
+177,Shriram Asset Management Company Ltd.,SRAMSET,Finance,Finance - Asset Management,495.33
+178,Aryaman Capital Markets Ltd.,ARYACAPM,Finance,Finance - Investment,479.56
+179,SIL Investments Ltd.,SILINV,Finance,Finance - NBFC,466.22
+180,Pune E - Stock Broking Ltd.,PESB,Finance,Finance - Stock Broking,461.14
+181,Unifinz Capital India Ltd.,UCIL,Finance,Finance - NBFC,446.22
+182,Shardul Securities Ltd.,SHARDUL,Finance,Finance - Investment,445.69
+183,Nahar Capital And Financial Services Ltd.,NAHARCAP,Finance,Finance - NBFC,432.05
+184,Purple Finance Ltd.,PURPLEFIN,Finance,Finance - NBFC,431.43
+185,Akme Fintrade (India) Ltd.,AFIL,Finance,Finance - NBFC,430.03
+186,Muthoot Capital Services Ltd.,MUTHOOTCAP,Finance,Finance - NBFC,423.52
+187,Nisus Finance Services Co Ltd.,NISUS,Finance,Finance - Asset Management,415.36
+188,MKVentures Capital Ltd.,MKVENTURES,Finance,Finance - NBFC,411.98
+189,SRG Housing Finance Ltd.,SRGHFL,Finance,Finance - Housing,411.62
+190,Moneyboxx Finance Ltd.,MONEYBOXX,Finance,Finance - NBFC,404.89
+191,UY Fincorp Ltd.,UYFINCORP,Finance,Finance - NBFC,399.5
+192,Regency Fincorp Ltd.,REGENCY,Finance,Finance - Investment,397.94
+193,Capital Trade Links Ltd.,CTL,Finance,Finance - NBFC,376.76
+194,Swastika Investmart Ltd.,SWASTIKA,Finance,Finance - Stock Broking,351.32
+195,Avonmore Capital & Management Services Ltd.,AVONMORE,Finance,Finance - NBFC,349.06
+196,Industrial Investment Trust Ltd.,IITL,Finance,Finance - NBFC,332.24
+197,Fundviser Capital (India) Ltd.,FUNDVISER,Finance,Finance - Investment,328.64
+198,PH Capital Ltd.,PHCAP,Finance,Finance - Investment,296.53
+199,Corporate Merchant Bankers Ltd.,CMBL,Finance,Finance - Investment,294.83
+200,Sera Investments & Finance India Ltd.,SERA,Finance,Finance - Investment,294.39
+201,Bombay Oxygen Investments Ltd.,BOMOXY-B1,Finance,Finance - Investment,292.9
+202,Naga Dhunseri Group Ltd.,NDGL,Finance,Finance - Investment,292.79
+203,Alacrity Securities Ltd.,ALSL,Finance,Finance - Stock Broking,283.65
+204,Viji Finance Ltd.,VIJIFIN,Finance,Finance - NBFC,275.81
+205,Ascom Leasing & Investments Ltd.,ASCOM,Finance,Finance - NBFC,273.64
+206,Quest Capital Markets Ltd.,QUESTCAP,Finance,Finance - NBFC,268.5
+207,Finbud Financial Services Ltd.,FINBUD,Finance,Finance Term Lending,265.74
+208,Hi-Klass Trading And Investment Ltd.,HIKLASS,Finance,Finance - Investment,264.43
+209,Shree Salasar Investments Ltd.,SALSAIN,Finance,Finance - Investment,262.15
+210,Gamco Ltd.,GAMCO,Finance,Finance - NBFC,261.13
+211,IL&FS Investment Managers Ltd.,IVC,Finance,Finance - Asset Management,259.71
+212,Starteck Finance Ltd.,STARTECK,Finance,Finance - NBFC,253.8
+213,Almondz Global Securities Ltd.,ALMONDZ,Finance,Finance - Stock Broking,243.99
+214,Tamboli Industries Ltd.,TAMBOLIIN,Finance,Finance - Investment,238.08
+215,Nidhi Granites Ltd.,NIDHGRN,Finance,Finance - Others,237.6
+216,Alfred Herbert (India) Ltd.,ALFREDHE,Finance,Finance - NBFC,231.41
+217,Shalibhadra Finance Ltd.,SAHLIBHFI,Finance,Finance - NBFC,226.41
+218,Alankit Ltd.,ALANKIT,Finance,Finance - Stock Broking,226.15
+219,Team India Guaranty Ltd.,TEAMGTY,Finance,Finance - NBFC,207.74
+220,Kartik Investments Trust Ltd.,KARTKIN,Finance,Finance - Investment,206.38
+221,Lexora Global Ltd.,LEXGLOBAL,Finance,Finance - Investment,205.0
+222,Sangam Finserv Ltd.,SANGAMFIN,Finance,Finance - NBFC,199.74
+223,Jhaveri Credits & Capital Ltd.,JHACC,Finance,Finance - Stock Broking,196.56
+224,Usha Financial Services Ltd.,USHAFIN,Finance,Finance - NBFC,186.94
+225,AMPL Capital Ltd.,AMPL,Finance,Finance - NBFC,186.53
+226,Crescentis Capital Ltd.,CRESCENTIS,Finance,Finance - Investment,184.43
+227,Indus Finance Ltd.,INDUSFINL,Finance,Finance - NBFC,180.21
+228,Sakthi Finance Ltd.,SAKTHIFIN,Finance,Finance - NBFC,178.65
+229,Emerald Finance Ltd.,EMERALD,Finance,Finance - NBFC,176.05
+230,Kreon Finnancial Services Ltd.,KREONFIN,Finance,Finance - NBFC,175.93
+231,Rikhav Securities Ltd.,RIKHAV,Finance,Finance - Stock Broking,174.42
+232,Tilak Ventures Ltd.,TILAK,Finance,Finance - Investment,173.82
+233,Delphi World Money Ltd.,DELPHIFX,Finance,Finance - Others,167.52
+234,Supra Pacific Financial Services Ltd.,SUPRAPFSL,Finance,Finance - NBFC,166.29
+235,Pro Fin Capital Services Ltd.,PROFINC,Finance,Finance - NBFC,162.96
+236,Beacon Trusteeship Ltd.,BEACON,Finance,Finance - Investment,158.97
+237,Mena Mani Industries Ltd.,MENAMANI,Finance,Finance - Investment,154.32
+238,Raama Finance Ltd.,RAAMA,Finance,Finance - NBFC,154.13
+239,RSD Finance Ltd.,RSDFIN,Finance,Finance - NBFC,152.83
+240,Baid Finserv Ltd.,BAIDFIN,Finance,Finance - NBFC,152.56
+241,Paul Merchants Ltd.,PML,Finance,Finance - Investment,151.21
+242,IBL Finance Ltd.,IBLFL,Finance,Finance - NBFC,150.86
+243,Keynote Financial Services Ltd.,KEYFINSERV,Finance,Finance - Investment,150.3
+244,Upsurge Investment & Finance Ltd.,UPSURGE,Finance,Finance - NBFC,149.57
+245,Maha Rashtra Apex Corporation Ltd.,MAHAPEXLTD,Finance,Finance - Investment,145.71
+246,Virat Leasing Ltd.,VLL,Finance,Finance - NBFC,145.38
+247,Indbank Merchant Banking Services Ltd.,INDBANK,Finance,Finance - Stock Broking,144.32
+248,Available Finance Ltd.,AVAILFC,Finance,Finance - NBFC,140.4
+249,Sonal Mercantile Ltd.,SONAL,Finance,Finance - NBFC,138.53
+250,Vibrant Global Capital Ltd.,VGCL,Finance,Finance - Investment,137.38
+251,Coral India Finance & Housing Ltd.,CORALFINAC,Finance,Finance - NBFC,133.8
+252,JA Finance Ltd.,JAFINANCE,Finance,Finance - Investment,132.95
+253,Iconik Sports And Events Ltd.,ICONIKSPEV,Finance,Finance - Investment,131.41
+254,Onelife Capital Advisors Ltd.,ONELIFECAP,Finance,Finance - Investment,131.27
+255,Apollo Finvest (India) Ltd.,APOLLOFI,Finance,Finance - NBFC,130.85
+256,Fynx Capital Ltd.,FYNX,Finance,Finance - NBFC,130.4
+257,Worth Investment & Trading Co Ltd.,WORTH,Finance,Finance - NBFC,128.64
+258,Nexome Capital Markets Ltd.,NEXOME,Finance,Finance - Investment,128.24
+259,LKP Securities Ltd.,LKPSEC,Finance,Finance - Stock Broking,127.25
+260,Steel City Securities Ltd.,STEELCITY,Finance,Finance - Stock Broking,126.19
+261,Marg Techno Projects Ltd.,MTPL,Finance,Finance - NBFC,124.96
+262,Harmony Capital Services Ltd.,HRMNYCP,Finance,Finance - Investment,124.58
+263,KIFS Financial Services Ltd.,KIFS,Finance,Finance - NBFC,124.41
+264,PMC Fincorp Ltd.,PMCFIN,Finance,Finance - NBFC,123.9
+265,Escorp Asset Management Ltd.,ESCORP,Finance,Finance - Asset Management,122.28
+266,Garnet International Ltd.,GARNETINT,Finance,Finance - Investment,121.21
+267,VJTF Eduservices Ltd.,VJTFEDU,Finance,Finance - NBFC,119.68
+268,Ganges Securities Ltd.,GANGESSECU,Finance,Finance - Investment,118.55
+269,Trustedge Capital Ltd.,TRUSTEDGE,Finance,Finance - Investment,117.98
+270,Assam Entrade Ltd.,ASSAMENT,Finance,Finance - Investment,116.62
+271,DB (International) Stock Brokers Ltd.,DBSTOCKBRO,Finance,Finance - Stock Broking,113.75
+272,Dharni Capital Services Ltd.,DHARNI,Finance,Finance - Asset Management,112.03
+273,Panafic Industrials Ltd.,PANAFIC,Finance,Finance - NBFC,108.41
+274,Jolly Plastic Industries Ltd.,JOLYPLS,Finance,Finance - Investment,108.26
+275,Milgrey Finance & Investments Ltd.,ZMILGFIN,Finance,Finance - Investment,107.64
+276,Jagsonpal Services Ltd.,JAGSONSER,Finance,Finance - NBFC,105.59
+277,Titan Securities Ltd.,TITANSEC,Finance,Finance - NBFC,102.37
+278,Indian Infotech & Software Ltd.,INDINFO,Finance,Finance - Investment,102.14
+279,Pioneer Investcorp Ltd.,PIONRINV,Finance,Finance - Investment,100.96
+280,The Motor & General Finance Ltd.,MOTOGENFIN,Finance,Finance - NBFC,100.96
+281,Mukesh Babu Financial Services Ltd.,MUKESHB,Finance,Finance - NBFC,97.7
+282,Viram Suvarn Ltd.,VSL,Finance,Finance - Others,97.35
+283,Inventure Growth & Securities Ltd.,INVENTURE,Finance,Finance - Stock Broking,96.6
+284,Arunjyoti Bio Ventures Ltd.,ABVL,Finance,Finance - Investment,95.99
+285,Gujarat State Financial Corporation Ltd.,GUJSTATFIN,Finance,Finance Term Lending,95.17
+286,Standard Capital Markets Ltd.,STANCAP,Finance,Finance - NBFC,93.27
+287,Photon Capital Advisors Ltd.,PHOTON,Finance,Finance - Investment,91.93
+288,Tomorrow Technologies Global Innovations Ltd.,TTGIL,Finance,Finance - Investment,91.73
+289,Munoth Capital Markets Ltd.,MUNCAPM,Finance,Finance - Stock Broking,91.66
+290,Palash Securities Ltd.,PALASHSECU,Finance,Finance - Investment,89.03
+291,Asit C Mehta Financial Services Ltd.,ASITCFIN,Finance,Finance - Investment,88.69
+292,Optimus Finance Ltd.,OPTIFIN,Finance,Finance - NBFC,88.55
+293,My Mudra Fincorp Ltd.,MYMUDRA,Finance,Finance - Housing,86.41
+294,GACM Technologies Ltd.,GATECH,Finance,Finance - Stock Broking,86.01
+295,Reliance Home Finance Ltd.,RHFL,Finance,Finance - Housing,85.86
+296,BLB Ltd.,BLBLIMITED,Finance,Finance - Stock Broking,85.85
+297,Inter Globe Finance Ltd.,INTRGLB,Finance,Finance - NBFC,85.66
+298,Mangalam Industrial Finance Ltd.,MANGIND,Finance,Finance - NBFC,85.51
+299,BN Rathi Securities Ltd.,BNRSEC,Finance,Finance - Stock Broking,84.67
+300,WSFX Global Pay Ltd.,WSFX,Finance,Finance - NBFC,83.83
+301,Chartered Capital & Investment Ltd.,CHRTEDCA,Finance,Finance - Investment,83.72
+302,RR Financial Consultants Ltd.,RRFIN,Finance,Finance - Investment,82.84
+303,Prithvi Exchange (India) Ltd.,PRITHVIEXCH,Finance,Finance - Others,81.29
+304,Wallfort Financial Services Ltd.,WALLFORT,Finance,Finance - Stock Broking,79.55
+305,Saumya Consultants Ltd.,SAUMYA,Finance,Finance - NBFC,79.53
+306,Haryana Capfin Ltd.,HARYNACAP,Finance,Finance - Investment,77.19
+307,NCL Research & Financial Services Ltd.,NCLRESE,Finance,Finance - NBFC,77.06
+308,Advik Capital Ltd.,ADVIKCA,Finance,Finance - NBFC,74.24
+309,Comfort Fincap Ltd.,COMFINCAP,Finance,Finance - NBFC,73.74
+310,ACME Resources Ltd.,ACME,Finance,Finance - NBFC,73.4
+311,Capital Trust Ltd.,CAPTRUST,Finance,Finance - NBFC,72.97
+312,Gemstone Investments Ltd.,GEMSI,Finance,Finance - NBFC,72.59
+313,Amrapali Capital & Finance Services Ltd.,ACFSL,Finance,Finance - Stock Broking,72.46
+314,Gowra Leasing & Finance Ltd.,GOWRALE,Finance,Finance - NBFC,72.44
+315,SKP Securities Ltd.,SKPSEC,Finance,Finance - Stock Broking,70.81
+316,Abhinav Capital Services Ltd.,ABHICAP,Finance,Finance - NBFC,70.67
+317,Dhanlaxmi Cotex Ltd.,DHANCOT,Finance,Finance - Investment,69.9
+318,Classic Leasing & Finance Ltd.,CLFL,Finance,Finance - NBFC,69.34
+319,Joindre Capital Services Ltd.,JOINDRE,Finance,Finance - Stock Broking,68.75
+320,Softrak Venture Investment Ltd.,SOFTRAKV,Finance,Finance - Investment,67.62
+321,DAR Credit & Capital Ltd.,DCCL,Finance,Finance - NBFC,66.24
+322,HB Portfolio Ltd.,HBPOR,Finance,Finance - Investment,65.44
+323,SPA Capital Services Ltd.,SPACAPS,Finance,Finance - Investment,64.87
+324,Banas Finance Ltd.,BANASFN,Finance,Finance - NBFC,64.68
+325,Bampsl Securities Ltd.,BAMPSL,Finance,Finance - NBFC,64.63
+326,Leading Leasing Finance And Investment Co Ltd.,LLFICL,Finance,Finance - NBFC,64.25
+327,Capfin India Ltd.,CAPFIN,Finance,Finance - Investment,63.7
+328,Real Touch Finance Ltd.,RTFL,Finance,Finance - Investment,63.46
+329,Ceejay Finance Ltd.,CEEJAY,Finance,Finance - NBFC,62.1
+330,Transwarranty Finance Ltd.,TFL,Finance,Finance - NBFC,61.84
+331,Minolta Finance Ltd.,MINOLTAF,Finance,Finance - NBFC,61.5
+332,Odyssey Corporation Ltd.,ODYCORP,Finance,Finance - Investment,60.86
+333,Dhruva Capital Services Ltd.,DHRUVCA,Finance,Finance - NBFC,60.65
+334,Elixir Capital Ltd.,ELIXIR,Finance,Finance - Investment,60.54
+335,F Mec International Financial Services Ltd.,FMEC,Finance,Finance - NBFC,60.54
+336,My Money Securities Ltd.,MYMONEY,Finance,Finance - Stock Broking,60.03
+337,Swati Projects Ltd.,SWATIPRO,Finance,Finance - NBFC,58.23
+338,3P Land Holdings Ltd.,3PLAND,Finance,Finance - Investment,57.92
+339,Regis Industries Ltd.,REGIS,Finance,Finance - NBFC,56.01
+340,Ladderup Finance Ltd.,LADDERUP,Finance,Finance - NBFC,55.98
+341,Apoorva Leasing Finance And Investment Company Ltd,APOORVA,Finance,Finance - Investment,54.93
+342,Mantra Capital Ltd.,MANTRA,Finance,Finance - NBFC,54.73
+343,India Cements Capital Ltd.,INDCEMCAP,Finance,Finance - NBFC,54.63
+344,Mega Corporation Ltd.,MEGACOR,Finance,Finance - NBFC,54.4
+345,Hybrid Financial Services Ltd.,HYBRIDFIN,Finance,Finance - NBFC,53.72
+346,DhanSafal Finserve Ltd.,DHANSAFAL,Finance,Finance - NBFC,53.38
+347,Srestha Finvest Ltd.,SRESTHA,Finance,Finance - Investment,52.73
+348,Oasis Securities Ltd.,OASISEC,Finance,Finance - NBFC,52.45
+349,ICDS Ltd.,ICDSLTD,Finance,Finance - NBFC,52.43
+350,Aastamangalam Finance Ltd.,AASTAFIN,Finance,Finance - NBFC,51.91
+351,Sodhani Capital Ltd.,SODHACAP,Finance,Finance - Others,51.64
+352,Mefcom Capital Markets Ltd.,MEFCOMCAP,Finance,Finance - Investment,50.73
+353,Futuristic Solutions Ltd.,FUTSOL,Finance,Finance - NBFC,50.03
+354,Ind Bank Housing Ltd.,INDBNK,Finance,Finance - Housing,49.56
+355,Vertex Securities Ltd.,VERTEX,Finance,Finance - Stock Broking,49.0
+356,TruCap Finance Ltd.,TRU,Finance,Finance Term Lending,48.73
+357,Amrapali Fincap Ltd.,AMRAFIN,Finance,Finance - NBFC,48.41
+358,NAM Securities Ltd.,NAM,Finance,Finance - Stock Broking,47.88
+359,Shri Niwas Leasing And Finance Ltd.,SHRINIWAS,Finance,Finance - Investment,47.53
+360,Continental Securities Ltd.,CSL,Finance,Finance - NBFC,47.25
+361,Sanchay Finvest Ltd.,SANCF,Finance,Finance - Investment,46.0
+362,21st Century Management Services Ltd.,21STCENMGM,Finance,Finance - Investment,45.71
+363,India Home Loan Ltd.,INDIAHOME,Finance,Finance - Housing,45.27
+364,Mask Investments Ltd.,MASKINVEST,Finance,Finance - Investment,45.2
+365,Key Corp Ltd.,KEYCORP,Finance,Finance - NBFC,44.39
+366,Caspian Corporate Services Ltd.,CASPIAN,Finance,Finance - Others,43.94
+367,ARC Finance Ltd.,ARCFIN,Finance,Finance - NBFC,43.58
+368,Morgan Ventures Ltd.,MORGAN,Finance,Finance - NBFC,43.57
+369,Sai Capital Ltd.,SAICAPI,Finance,Finance - Investment,43.18
+370,Ruparel Food Products Ltd.,RFL,Finance,Finance - Housing,43.15
+371,Kiduja India Ltd.,KIDUJA,Finance,Finance - NBFC,43.06
+372,Lakshmi Finance & Industrial Corporation Ltd.,LFIC,Finance,Finance - NBFC,42.06
+373,Sita Enterprises Ltd.,SITAENT,Finance,Finance - NBFC,41.7
+374,Ad-Manum Finance Ltd.,ADMANUM,Finance,Finance - NBFC,41.5
+375,Salem Erode Investments Ltd.,SALEM,Finance,Finance - NBFC,41.22
+376,HB Stockholdings Ltd.,HBSL,Finance,Finance - NBFC,40.94
+377,Walchand Peoplefirst Ltd.,WALCHPF,Finance,Finance - Investment,40.68
+378,Sugal & Damani Share Brokers Ltd.,SUGALDAM,Finance,Finance - Stock Broking,40.31
+379,Star Housing Finance Ltd.,STARHFL,Finance,Finance - Housing,39.64
+380,Sainik Finance & Industries Ltd.,SAINIK,Finance,Finance - NBFC,38.57
+381,CFSL Ltd.,CUBIFIN,Finance,Finance - NBFC,37.86
+382,Ajcon Global Services Ltd.,AJCON,Finance,Finance - Investment,36.39
+383,Glance Finance Ltd.,GLANCE,Finance,Finance - NBFC,36.06
+384,Galactico Corporate Services Ltd.,GALACTICO,Finance,Finance - Investment,35.56
+385,Kalyan Capitals Ltd.,KALYANCAP,Finance,Finance - NBFC,35.5
+386,Anupam Finserv Ltd.,ANUPAM,Finance,Finance - NBFC,35.49
+387,Supra Trends Ltd.,SUPRATRE,Finance,Finance - NBFC,35.49
+388,JMJ Fintech Ltd.,JMJFIN,Finance,Finance - NBFC,35.31
+389,Relic Technologies Ltd.,RELICTEC,Finance,Finance - Stock Broking,35.11
+390,Bridge Securities Ltd.,BRIDGESE,Finance,Finance - Investment,34.99
+391,Jindal Leasefin Ltd.,JLL,Finance,Finance - Investment,34.45
+392,MSL Global Ltd.,MSLGLOBAL,Finance,Finance - Investment,34.14
+393,Pan India Corporation Ltd.,PANINDIAC,Finance,Finance - Investment,34.07
+394,GDL Leasing & Finance Ltd.,GDLLEAS,Finance,Finance - NBFC,33.07
+395,Yamini Investments Ltd.,YAMNINV,Finance,Finance - Investment,32.6
+396,Arnold Holdings Ltd.,ARNOLD,Finance,Finance - NBFC,32.5
+397,KK Fincorp Ltd.,KKFIN,Finance,Finance - NBFC,32.27
+398,SP Capital Financing Ltd.,SPCAPIT,Finance,Finance - NBFC,31.97
+399,ISL Consulting Ltd.,ISLCONSUL,Finance,Finance - Investment,31.82
+400,Shyamkamal Investments Ltd.,SHYMINV,Finance,Finance - NBFC,31.8
+401,Gogia Capital Growth Ltd.,GOGIACAPGL,Finance,Finance - Stock Broking,31.67
+402,Asia Capital Ltd.,ASIACAP,Finance,Finance - NBFC,31.54
+403,Margo Finance Ltd.,MARGOFIN,Finance,Finance - NBFC,31.46
+404,Sumedha Fiscal Services Ltd.,SUMEDHA,Finance,Finance - Investment,31.35
+405,RGF Capital Markets Ltd.,RGF,Finance,Finance - NBFC,31.05
+406,Biogen Pharmachem Industries Ltd.,BIOGEN,Finance,Finance - Others,30.54
+407,BYLD Capital Finance Ltd.,BYLD,Finance,Finance - NBFC,29.71
+408,Challani Capital Ltd.,CHALLANI,Finance,Finance - NBFC,29.7
+409,Nagreeka Capital & Infrastructure Ltd.,NAGREEKCAP,Finance,Finance - NBFC,29.46
+410,TCFC Finance Ltd.,TCFCFINQ,Finance,Finance - NBFC,28.17
+411,Intec Capital Ltd.,INTECCAP,Finance,Finance - NBFC,27.73
+412,Stanrose Mafatlal Investments & Finance Ltd.,STANROS,Finance,Finance - Investment,27.58
+413,Sulabh Engineers & Services Ltd.,SULABEN,Finance,Finance - NBFC,27.53
+414,CMX Holdings Ltd.,CMXLTD,Finance,Finance - Investment,27.52
+415,Williamson Magor & Company Ltd.,WILLAMAGOR,Finance,Finance - NBFC,27.51
+416,GSB Finance Ltd.,GSBFIN,Finance,Finance - NBFC,27.48
+417,Khandwala Securities Ltd.,KHANDSE,Finance,Finance - Stock Broking,27.44
+418,Sahara Housingfina Corporation Ltd.,SAHARAHOUS,Finance,Finance - Housing,27.43
+419,KJMC Financial Services Ltd.,KJMCFIN,Finance,Finance - NBFC,27.28
+420,Qgo Finance Ltd.,QGO,Finance,Finance - Investment,27.23
+421,Morarka Finance Ltd.,MORARKFI,Finance,Finance - NBFC,27.18
+422,Libord Finance Ltd.,LIBORDFIN,Finance,Finance - NBFC,27.11
+423,Suvifin Credit Solutions Ltd.,PURSHOTTAM,Finance,Finance - NBFC,27.1
+424,Indianivesh Ltd.,INDIANVSH,Finance,Finance - NBFC,26.92
+425,Invigorated Business Consulting Ltd.,INVIGO,Finance,Finance - NBFC,26.73
+426,Swarna Securities Ltd.,SWRNASE,Finance,Finance - NBFC,26.4
+427,Abhishek Finlease Ltd.,ABHIFIN,Finance,Finance - NBFC,25.83
+428,Longspur International Ventures Ltd.,LONGSPUR,Finance,Finance - Others,25.8
+429,Nalin Lease Finance Ltd.,NLFL,Finance,Finance - NBFC,25.58
+430,Esaar (India) Ltd.,ESARIND,Finance,Finance - NBFC,25.49
+431,Prismx Global Ventures Ltd.,PRISMX,Finance,Finance - Investment,25.47
+432,Munoth Financial Services Ltd.,MUNOTHFI,Finance,Finance - Stock Broking,25.36
+433,Greencrest Financial Services Ltd.,GREENCREST,Finance,Finance - NBFC,25.22
+434,Enbee Trade & Finance Ltd.,ENBETRD,Finance,Finance - NBFC,25.1
+435,Smart Finsec Ltd.,SMARTFIN,Finance,Finance - NBFC,25.05
+436,Dynamic Archistructures Ltd.,DAL,Finance,Finance - NBFC,24.99
+437,Bervin Investment & Leasing Ltd.,BERVINL,Finance,Finance - Investment,24.77
+438,Ramsons Projects Ltd.,RAMSONS,Finance,Finance - NBFC,24.72
+439,Ashirwad Capital Ltd.,ASHCAP,Finance,Finance - Investment,24.66
+440,RKD Agri & Retail Ltd.,RKDAGRRTL,Finance,Finance - Investment,24.49
+441,Easy Fincorp Ltd.,EASYFIN,Finance,Finance - Investment,24.25
+442,Monotype India Ltd.,MONOT,Finance,Finance - Stock Broking,23.91
+443,Vani Commercials Ltd.,VANICOM,Finance,Finance - NBFC,23.91
+444,Shreevatsa Finance & Leasing Ltd.,SHVFL,Finance,Finance - NBFC,23.73
+445,MPIL Corporation Ltd.,MPILCORPL,Finance,Finance - Others,23.71
+446,KJMC Corporate Advisors (India) Ltd.,KJMCCORP,Finance,Finance - Stock Broking,23.5
+447,Khoobsurat Ltd.,KHOOBSURAT,Finance,Finance - Investment,23.04
+448,Navigant Corporate Advisors Ltd.,NAVIGANT,Finance,Finance - Others,22.99
+449,Parshwanath Corporation Ltd.,PARSHWANA,Finance,Finance - Housing,22.85
+450,Jindal Capital Ltd.,JINDCAP,Finance,Finance - Investment,22.52
+451,Pulsar International Ltd.,PULSRIN,Finance,Finance - NBFC,21.85
+452,Richfield Financial Services Ltd.,RFSL,Finance,Finance - NBFC,21.72
+453,Helpage Finlease Ltd.,HELPAGE,Finance,Finance - NBFC,21.64
+454,SI Capital & Financial Services Ltd.,SICAPIT,Finance,Finance - Investment,21.32
+455,DJS Stock & Shares Ltd.,DJSSS,Finance,Finance - Stock Broking,21.28
+456,Paragon Finance Ltd.,PARAGONF,Finance,Finance - NBFC,21.16
+457,TTI Enterprise Ltd.,TTIENT,Finance,Finance - NBFC,21.09
+458,Mansi Finance (Chennai) Ltd.,MANSIFIN,Finance,Finance - NBFC,20.82
+459,Fruition Venture Ltd.,FRUTION,Finance,Finance - Stock Broking,20.26
+460,Roselabs Finance Ltd.,ROSELABS,Finance,Finance - NBFC,19.78
+461,TCI Finance Ltd.,TCIFINANCE,Finance,Finance - NBFC,19.57
+462,Visagar Financial Services Ltd.,VISAGAR,Finance,Finance - NBFC,19.27
+463,Bazel International Ltd.,BAZELINTER,Finance,Finance - NBFC,18.41
+464,Dynamic Portfolio Management & Services Ltd.,DYNAMICP,Finance,Finance - NBFC,18.39
+465,Gallops Enterprises Ltd.,GALLOPENT,Finance,Finance - NBFC,18.27
+466,Rapid Investments Ltd.,RAPIDIN,Finance,Finance - NBFC,18.17
+467,Cil Securities Ltd.,CILSEC,Finance,Finance - NBFC,18.0
+468,Abirami Financial Services (India) Ltd.,ABIRAFN,Finance,Finance - NBFC,17.98
+469,Premier Capital Services Ltd.,PREMCAP,Finance,Finance - NBFC,17.97
+470,Global Capital Markets Ltd.,GLOBALCA,Finance,Finance - NBFC,17.92
+471,Onesource Industries And Ventures Ltd.,OIVL        ,Finance,Finance - Others,17.84
+472,Step Two Corporation Ltd.,STEP2COR,Finance,Finance - NBFC,17.7
+473,Gilada Finance & Investments Ltd.,GILADAFINS,Finance,Finance - NBFC,17.58
+474,Vedant Asset Ltd.,VEDANTASSET,Finance,Finance - Asset Management,17.57
+475,Prism Finance Ltd.,PRISMFN,Finance,Finance - NBFC,17.55
+476,Darjeeling Industriies Ltd.,DARJEELING,Finance,Finance - Investment,17.34
+477,Pro CLB Global Ltd.,PROCLB,Finance,Finance - Investment,17.3
+478,Easun Capital Markets Ltd.,EASUN,Finance,Finance - NBFC,17.15
+479,Ranjit Securities Ltd.,RANJITSE,Finance,Finance - NBFC,17.13
+480,Maruti Global Industries Ltd.,MGIL,Finance,Finance - Investment,17.05
+481,Ontic Finserve Ltd.,ONTIC,Finance,Finance - Others,17.01
+482,Manraj Housing Finance Ltd.,MANRAJH,Finance,Finance - Housing,17.0
+483,Kapil Raj Finance Ltd.,KAPILRAJ,Finance,Finance - NBFC,16.96
+484,Frontier Capital Ltd.,FRONTCAP,Finance,Finance - NBFC,16.39
+485,Gujarat Lease Financing Ltd.,GLFL,Finance,Finance - NBFC,16.28
+486,Bombay Talkies Ltd.,BOMTALKIES,Finance,Finance - NBFC,16.2
+487,Beryl Securities Ltd.,BERYLSE,Finance,Finance - NBFC,16.11
+488,Comfort Commotrade Ltd.,COMCL,Finance,Finance - Stock Broking,16.1
+489,Yash Management & Satellite Ltd.,YASHMGM,Finance,Finance - Investment,15.95
+490,Bharat Bhushan Finance & Commodity Brokers Ltd.,BHARAT,Finance,Finance - Investment,15.76
+491,Gajanan Securities Services Ltd.,GAJANANSEC,Finance,Finance - Stock Broking,15.68
+492,GSL Securities Ltd.,GSLSEC,Finance,Finance - NBFC,15.64
+493,Mid East Portfolio Management Ltd.,MIDEASTP,Finance,Finance - Investment,15.56
+494,NDA Securities Ltd.,NDASEC,Finance,Finance - Stock Broking,15.53
+495,Kinetic Trust Ltd.,KINETRU,Finance,Finance - NBFC,15.43
+496,Shree Securities Ltd.,SHREESEC,Finance,Finance - Investment,15.16
+497,Golechha Global Finance Ltd.,GOLECHA,Finance,Finance - NBFC,15.15
+498,KBS India Ltd.,KBSINDIA,Finance,Finance - Stock Broking,14.83
+499,Market Creators Ltd.,MKTCREAT,Finance,Finance - Investment,14.74
+500,Moongipa Capital Finance Ltd.,MONGIPA,Finance,Finance - NBFC,14.65
+501,Indergiri Finance Ltd.,INDERGR,Finance,Finance - NBFC,14.63
+502,NEIL Industries Ltd.,NEIL,Finance,Finance - NBFC,14.63
+503,Sarvottam Finvest Ltd.,SARVOTTAM,Finance,Finance - NBFC,14.62
+504,Citi Port Financial Services Ltd.,CITIPOR,Finance,Finance - NBFC,14.57
+505,Daulat Securities Ltd.,DAULAT,Finance,Finance - Stock Broking,14.5
+506,Stellar Capital Services Ltd.,STELLAR,Finance,Finance - NBFC,14.23
+507,Shrydus Industries Ltd.,SHRYDUS,Finance,Finance - Investment,14.18
+508,Mehta Integrated Finance Ltd.,MEHIF,Finance,Finance - Investment,14.12
+509,Franklin Leasing And Finance Ltd.,FRANKLIN,Finance,Finance - NBFC,14.06
+510,SRG Fingrow Finance Ltd.,SRGFFL,Finance,Finance - NBFC,13.98
+511,Karnavati Finance Ltd.,KARNAVATI,Finance,Finance - NBFC,13.97
+512,FGP Ltd.,FGP,Finance,Finance - NBFC,13.81
+513,Clio Infotech Ltd.,CLIOINFO,Finance,Finance - Investment,13.77
+514,Zodiac Ventures Ltd.,ZODIACVEN,Finance,Finance - Investment,13.73
+515,Regal Entertainment & Consultants Ltd.,REGAL,Finance,Finance - NBFC,13.68
+516,HCKK Ventures Ltd.,HCKKVENTURE,Finance,Finance - Investment,13.56
+517,JJ Finance Corporation Ltd.,JJFINCOR,Finance,Finance - NBFC,13.55
+518,Indo-City Infotech Ltd.,INDOCITY,Finance,Finance - NBFC,13.52
+519,GCM Securities Ltd.,GCMSECU,Finance,Finance - Stock Broking,13.3
+520,Krishna Capital And Securities Ltd.,KRISHNACAP,Finance,Finance - NBFC,13.27
+521,Ashtasidhhi Industries Ltd.,GUJINV,Finance,Finance - NBFC,13.22
+522,SV Trading & Agencies Ltd.,ZSVTRADI,Finance,Finance - Stock Broking,13.18
+523,Triumph International Finance India Ltd.,TRIUMPIN,Finance,Finance - Investment,13.08
+524,Northlink Fiscal and Capital Services Ltd.,NORTHLINK,Finance,Finance - NBFC,13.07
+525,HB Leasing & Finance Company Ltd.,HBLEAS,Finance,Finance - NBFC,13.06
+526,Decillion Finance Ltd.,DFL,Finance,Finance - Investment,13.05
+527,GK Consultants Ltd.,GKCONS,Finance,Finance - NBFC,13.01
+528,Galada Finance Ltd.,GALADAFIN,Finance,Finance - NBFC,13.01
+529,Tradewell Holdings Ltd.,TRADEWELL,Finance,Finance - Investment,12.92
+530,Tokyo Finance Ltd.,TOKYOFIN,Finance,Finance - NBFC,12.89
+531,United Credit Ltd.,UNITDCR,Finance,Finance - NBFC,12.87
+532,Kairosoft Ai Solutions Ltd.,VOLKAI,Finance,Finance - Investment,12.84
+533,Manipal Finance Corporation Ltd.,MNPLFIN,Finance,Finance - NBFC,12.78
+534,SW Investments Ltd.,SW1,Finance,Finance - Investment,12.6
+535,NPR Finance Ltd.,NPRFIN,Finance,Finance - NBFC,12.58
+536,DCM Financial Services Ltd.,DCMFINSERV,Finance,Finance - NBFC,12.57
+537,Inani Securities Ltd.,INANISEC,Finance,Finance - Stock Broking,12.43
+538,Ladam Affordable Housing Ltd.,LAHL,Finance,Finance - Investment,12.43
+539,Goenka Business & Finance Ltd.,GBFL,Finance,Finance - NBFC,12.25
+540,Integrated Capital Services Ltd.,ICSL,Finance,Finance - NBFC,12.17
+541,Econo Trade (India) Ltd.,ETIL,Finance,Finance - NBFC,12.14
+542,Golden Legand Leasing & Finance Ltd.,GOLDLEG,Finance,Finance - NBFC,11.79
+543,Dalal Street Investments Ltd.,DSINVEST,Finance,Finance - Investment,11.63
+544,Jackson Investments Ltd.,JACKSON,Finance,Finance - Investment,11.63
+545,Svaraj Trading & Agencies Ltd.,ZSVARAJT,Finance,Finance - Investment,11.58
+546,Rita Finance and Leasing Ltd.,RFLL,Finance,Finance - NBFC,11.53
+547,N2N Technologies Ltd.,NNTL,Finance,Finance - Investment,11.51
+548,Kuber Udyog Ltd.,KUBERJI,Finance,Finance - NBFC,11.3
+549,Lyons Corporate Market Ltd.,LYONSCO,Finance,Finance - NBFC,11.23
+550,India Lease Development Ltd.,INDLEASE,Finance,Finance - NBFC,11.17
+551,Blue Chip India Ltd.,BLUECHIP,Finance,Finance - Investment,11.17
+552,Sashwat Technocrats Ltd.,SASHWAT,Finance,Finance - Investment,10.88
+553,Sumeru Industries Ltd.,SUMERUIND,Finance,Finance - Investment,10.8
+554,VB Industries Ltd.,VBIND,Finance,Finance - Investment,10.74
+555,Scintilla Commercial & Credit Ltd.,SCC,Finance,Finance - NBFC,10.72
+556,Modern Shares & Stockbrokers Ltd.,MODRNSH,Finance,Finance - Stock Broking,10.46
+557,Garbi Finvest Ltd.,GARBIFIN,Finance,Finance - NBFC,10.26
+558,Yunik Managing Advisors Ltd.,YunikM,Finance,Finance - Investment,10.23
+559,Ganesh Holdings Ltd.,GANHOLD,Finance,Finance - NBFC,10.22
+560,Kumbhat Financial Services Ltd.,KUMPFIN,Finance,Finance - NBFC,10.12
+561,Adcon Capital Services Ltd.,ADCON,Finance,Finance - NBFC,10.12
+562,Octal Credit Capital Ltd.,OCTAL,Finance,Finance - NBFC,9.94
+563,Libord Securities Ltd.,LIBORD,Finance,Finance - Investment,9.86
+564,Typhoon Financial Services Ltd.,TFSL,Finance,Finance - NBFC,9.57
+565,Global Infratech & Finance Ltd.,GBLINFRA,Finance,Finance - Investment,9.53
+566,ArihantS Securities Ltd.,ARISE,Finance,Finance - Investment,9.49
+567,GACM Technologies Ltd. - (DVR),GATECHDVR,Finance,Finance - Stock Broking,9.48
+568,Mathew Easow Research Securities Ltd.,MATHEWE,Finance,Finance - NBFC,9.42
+569,Interactive Financial Services Ltd.,IFINSER,Finance,Finance - Others,9.24
+570,Sharp Investments Ltd.,SHARPINV,Finance,Finance - Investment,9.2
+571,Sujala Trading & Holdings Ltd.,SUJALA,Finance,Finance - Investment,9.09
+572,ACE Engitech Ltd.,ACEENGITEC,Finance,Finance - NBFC,8.99
+573,BCL Enterprises Ltd.,BCLENTERPR,Finance,Finance - NBFC,8.86
+574,Anjani Finance Ltd.,ANJANIFIN,Finance,Finance - NBFC,8.81
+575,Mahamaya Investments Ltd.,MILLENNIUM,Finance,Finance - Investment,8.7
+576,First Custodian Fund (India) Ltd.,1STCUS,Finance,Finance - Stock Broking,8.66
+577,Rajputana Investment & Finance Ltd.,RAJPUTANA,Finance,Finance - Investment,8.43
+578,BFL Asset Finvest Ltd.,BFLAFL,Finance,Finance - NBFC,8.37
+579,Trinity League India Ltd.,TRINITYLEA,Finance,Finance - Others,8.35
+580,PS IT Infrastructure & Services Ltd.,PSITINFRA,Finance,Finance - Investment,8.06
+581,VB Desai Financial Services Ltd.,VBDESAI,Finance,Finance - Investment,8.03
+582,ISF Ltd.,ISFL,Finance,Finance - NBFC,7.7
+583,Rich Universe Network Ltd.,RICHUNV,Finance,Finance - Investment,7.54
+584,Explicit Finance Ltd.,EXPLICITFIN,Finance,Finance - NBFC,7.41
+585,Aravali Securities & Finance Ltd.,ARAVALIS,Finance,Finance - Investment,7.23
+586,Thirani Projects Ltd.,TPROJECT,Finance,Finance - NBFC,7.22
+587,Mehta Securities Ltd.,MEHSECU,Finance,Finance - Investment,7.19
+588,Jayabharat Credit Ltd.,JAYBHCR,Finance,Finance - NBFC,7.17
+589,Alexander Stamps And Coin Ltd.,ALEXANDER,Finance,Finance - Investment,7.03
+590,Nikki Global Finance Ltd.,NIKKIGL,Finance,Finance - NBFC,6.99
+591,Indo Credit Capital Ltd.,INDOCRED,Finance,Finance - NBFC,6.98
+592,Agarwal Fortune India Ltd.,AGARWAL,Finance,Finance - NBFC,6.87
+593,Systematix Securities Ltd.,SYTIXSE,Finance,Finance - Investment,6.83
+594,Dharani Finance Ltd.,DHARFIN,Finance,Finance - NBFC,6.82
+595,AF Enterprises Ltd.,AFEL,Finance,Finance - Investment,6.81
+596,Atharv Enterprises Ltd.,ATHARVENT,Finance,Finance - Others,6.8
+597,Ushakiran Finance Ltd.,USHAKIRA,Finance,Finance - NBFC,6.79
+598,Gujarat Credit Corporation Ltd.,GUJCRED,Finance,Finance - NBFC,6.67
+599,Money Masters Leasing & Finance Ltd.,MMLF,Finance,Finance - NBFC,6.63
+600,M Lakhamsi Industries Ltd.,MLINDLTD,Finance,Finance - NBFC,6.6
+601,Premium Capital Market & Investment Ltd.,PREMCAPM,Finance,Finance - Investment,6.57
+602,Inditrade Capital Ltd.,INDICAP,Finance,Finance - Investment,6.54
+603,Hasti Finance Ltd.,HASTIFIN,Finance,Finance - NBFC,6.54
+604,KLG Capital Services Ltd.,KLGCAP,Finance,Finance - Investment,6.49
+605,Voltaire Leasing & Finance Ltd.,VOLLF,Finance,Finance - NBFC,6.35
+606,Prime Capital Market Ltd.,PRIMECAPM,Finance,Finance - NBFC,6.33
+607,Integra Capital Ltd.,INTCAPL,Finance,Finance - NBFC,6.32
+608,KZ Leasing & Finance Ltd.,KZLFIN,Finance,Finance - NBFC,6.31
+609,GCM Capital Advisors Ltd.,GCMCAPI,Finance,Finance - Investment,6.23
+610,Kanungo Financiers Ltd.,KANUNGO,Finance,Finance - Investment,6.23
+611,Mercury Trade Links Ltd.,MERCTRD,Finance,Finance - Investment,6.22
+612,Amarnath Securities Ltd.,AMARSEC,Finance,Finance - NBFC,5.9
+613,Abhinav Leasing & Finance Ltd.,ALFL,Finance,Finance - NBFC,5.9
+614,Aryan Share And Stock Brokers Ltd.,ARYAN,Finance,Finance - Stock Broking,5.85
+615,JPT Securities Ltd.,JPTSEC,Finance,Finance - NBFC,5.84
+616,Brijlaxmi Leasing & Finance Ltd.,BRIJLEAS,Finance,Finance - Investment,5.82
+617,Pasupati Fincap Ltd.,PASUFIN,Finance,Finance - Investment,5.68
+618,Wagend Infra Venture Ltd.,WAGEND,Finance,Finance - Investment,5.66
+619,BP Capital Ltd.,BPCAP,Finance,Finance - NBFC,5.65
+620,Shikhar Consultants Ltd.,SHIKHAR,Finance,Finance - NBFC,5.65
+621,Goyal Associates Ltd.,GOYALASS,Finance,Finance - NBFC,5.56
+622,Mahan Industries Ltd.,MAHANIN,Finance,Finance - NBFC,5.49
+623,Amerise Biosciences Ltd.,AMERISE,Finance,Finance - Investment,5.42
+624,Superior Finlease Ltd.,SUPERIOR,Finance,Finance - NBFC,5.37
+625,Polytex India Ltd.,POLYTEX,Finance,Finance - NBFC,5.35
+626,Vintage Securities Ltd.,VINTAGES,Finance,Finance - NBFC,5.32
+627,Vikalp Securities Ltd.,VIKALPS,Finance,Finance - Investment,5.22
+628,Williamson Financial Services Ltd.,WILLIMFI,Finance,Finance - NBFC,5.17
+629,Sungold Capital Ltd.,SUNGOLD,Finance,Finance - NBFC,5.01
+630,RR Securities Ltd.,RRSECUR,Finance,Finance - Investment,4.75
+631,Peoples Investments Ltd.,PEOPLIN,Finance,Finance - Investment,4.72
+632,Lead Financial Services Ltd.,LEADFIN,Finance,Finance - NBFC,4.7
+633,Siddha Ventures Ltd.,SIDDHA,Finance,Finance - Investment,4.67
+634,AAR Shyam India Investment Co Ltd.,AARSHYAM,Finance,Finance - Investment,4.49
+635,Rajkot Investment Trust Ltd.,RAJKOTINV,Finance,Finance - NBFC,4.44
+636,Cindrella Financial Services Ltd.,CINDRELL,Finance,Finance - NBFC,4.37
+637,Futuristic Securities Ltd.,FUTURSEC,Finance,Finance - Investment,4.08
+638,Oswal Leasing Ltd.,OSWALEA,Finance,Finance - NBFC,3.93
+639,Befound Movement Ltd.,BEFOUNDMOL,Finance,Finance - NBFC,3.8
+640,Ken Financial Services Ltd.,KENFIN,Finance,Finance - NBFC,3.79
+641,Ekam Leasing & Finance Company Ltd.,EKAMLEA,Finance,Finance - NBFC,3.58
+642,Geetanjali Credit and Capital Ltd.,GEETANJ,Finance,Finance - NBFC,3.58
+643,Olympic Management & Financial Services Ltd.,OLYMTFI,Finance,Finance - Investment,3.19
+644,Brilliant Portfolios Ltd.,BRIPORT,Finance,Finance - NBFC,3.18
+645,GCM Commodity & Derivatives Ltd.,GCMCOMM,Finance,Finance - Investment,3.01
+646,Charms Industries Ltd.,CHARMS,Finance,Finance - Others,2.82
+647,SSPN Finance Ltd.,SSPNFIN,Finance,Finance - Investment,2.81
+648,Swadha Nature Ltd.,SWADHATURE,Finance,Finance - Investment,2.68
+649,HEM Holdings & Trading Ltd.,ZHEMHOLD,Finance,Finance - Investment,2.55
+650,Gold Rock Investments Ltd.,ZGOLDINV,Finance,Finance - Investment,0.95
+651,Trustwave Securities Ltd.,TRUSTWAVE,Finance,Finance - NBFC,0.74
+652,E & E Enterprises Ltd.,EENTER,Finance,Finance - NBFC,0.59
+653,Magnanimous Trade & Finance Ltd.,MAGANTR,Finance,Finance - Investment,0.54
+654,Jupiter Industries & Leasing Ltd.,JPTRLES,Finance,Finance - Investment,0.4
+655,Silicon Valley Infotech Ltd.,SILICON,Finance,Finance - Investment,0.39
+656,Arco Leasing Ltd.,ZARCOLEA,Finance,Finance - NBFC,0.09
+657,IRB InvIT Fund,IRBINVIT,Finance,Finance - Investment,0.0
+658,IndiGrid Infrastructure Trust,INDIGRID,Finance,Finance - Investment,0.0
+659,Interise Trust,INTERISE,Finance,Finance - Investment,0.0
+660,Embassy Office Parks REIT,EMBASSY,Finance,Finance - Investment,0.0
+661,Energy Infrastructure Trust,ENERGYINF,Finance,Finance - Investment,0.0
+662,Mindspace Business Parks REIT,MINDSPACE,Finance,Finance - Investment,0.0
+663,Altius Telecom Infrastructure Trust,ALTIUSINVIT,Finance,Finance - Investment,0.0
+664,Brookfield India Real Estate Trust REIT,BIRET,Finance,Finance - Investment,0.0
+665,POWERGRID Infrastructure Investment Trust.,PGINVIT,Finance,Finance - Investment,0.0
+666,Shrem InvIT,SHREMINVIT,Finance,Finance - Investment,0.0
+667,National Highways Infra Trust,NHIT,Finance,Finance Term Lending,0.0
+668,Vertis Infrastructure Trust,VERTIS,Finance,Finance Term Lending,0.0
+669,Anzen India Energy Yield Plus Trust.,ANZEN,Finance,Finance - Investment,0.0
+670,Nexus Select Trust,NXST,Finance,Finance - Investment,0.0
+671,IRB Infrastructure Trust - (IRBIT),IRBIT,Finance,Finance - Investment,0.0
+672,Cube Highways Trust - (CUBEINVIT),CUBEINVIT,Finance,Finance - Investment,0.0
+673,Maple Infrastructure Trust,MIT,Finance,Finance - Investment,0.0
+674,Intelligent Supply Chain Infrastructure Trust,ISCITRUST,Finance,Finance - Investment,0.0
+675,Indus Infra Trust,INDUSINVIT,Finance,Finance - Investment,0.0
+676,Nxt-Infra Trust - (NXT-INFRA),NXT-INFRA,Finance,Finance - Investment,0.0
+677,Property Share Investment Trust - Propshare Platina,PSPLATINA,Finance,Finance - Investment,0.0
+678,Enbee Trade And Finance Ltd. - (Rights Entitlements (REs)),750929,Finance,Finance - NBFC,0.0
+679,Moongipa Capital Finance Ltd. - (Rights Entitlements (REs)),MOONGI-RE,Finance,Finance - NBFC,0.0
+680,Aastamangalam Finance Ltd. - (Rights Entitlements (REs)),AASTA-RE,Finance,Finance - NBFC,0.0
+681,Capital Infra Trust,CAPINVIT,Finance,Finance - Investment,0.0
+682,Pro Fin Capital Services Ltd. - (Rights Entitlements (REs)),PROFIN-RE,Finance,Finance - NBFC,0.0
+683,Anupam Finserv Ltd. - (Rights Entitlements (REs)),ANUFIN-RE,Finance,Finance - NBFC,0.0
+684,Ganesh Holdings Ltd. - (Rights Entitlements (REs)),750953,Finance,Finance - NBFC,0.0
+685,Kairosoft Ai Solutions Ltd. - (Rights Entitlements (REs)),750956,Finance,Finance - Investment,0.0
+686,NDR INVIT Trust,NDRINVIT,Finance,Finance - Investment,0.0
+687,Sustainable Energy Infra Trust,SEITINVIT,Finance,Finance - Investment,0.0
+688,Rajath Finance Ltd. - (Rights Entitlements (REs)),750959,Finance,Finance - NBFC,0.0
+689,Shri Niwas Leasing And Finance Ltd. - (Rights Entitlements (REs)),SHRINI-RE,Finance,Finance - Investment,0.0
+690,Roadstar Infra Investment Trust,ROADSTAR,Finance,Finance - Investment,0.0
+691,Fusion Finance Ltd. - (Rights Entitlements (REs)),FUSI-RE,Finance,Finance - NBFC,0.0
+692,Shri Niwas Leasing and Finance Ltd. - (Partly Paid-up Equity Shares (Rights Issue),SNLFPP,Finance,Finance - Investment,0.0
+693,Onesource Industries And Ventures Ltd. - (Rights Entitlements (REs)),OIVL-RE,Finance,Finance - Others,0.0
+694,GACM Technologies Ltd. - (Rights Entitlements),GATDVR-RE,Finance,Finance - Stock Broking,0.0
+695,GACM Technologies Ltd. - (DVR) - (Rights Entitlements),GATECH-RE1,Finance,Finance - Stock Broking,0.0
+696,Max India Ltd. - (Rights Entitlement),MAXIND-RE,Finance,Finance - Investment,0.0
+697,Fusion Finance Ltd- Partly Paid-up Equity Shares (Rights Issue).,FUSIONPP,Finance,Finance - NBFC,0.0
+698,Mahindra And Mahindra Financial Services Ltd. - (Rights Entitlements (REs)),M&MFIN-RE1,Finance,Finance - NBFC,0.0
+699,Yamini Investments Company Ltd. - (Rights Entitlements (REs)),YAMNIN-RE,Finance,Finance - Investment,0.0
+700,Purple Finance Ltd. - (Rights Entitlements (REs)),PURFIN-RE1,Finance,Finance - NBFC,0.0
+701,Ugro Capital Ltd. - (Rights Entitlements (REs)),UGRO-RE,Finance,Finance - NBFC,0.0
+702,Bharat Bhushan Finance & Commodity Brokers Ltd. - (Rights Entitlements (REs)),BHARAT-RE,Finance,Finance - Investment,0.0
+703,Som Datt Finance Corporation Ltd. - (Rights Entitlements (REs)),SODFC-RE,Finance,Finance - Investment,0.0
+704,Capital Trust Ltd. - (Rights Entitlements (REs)),CAPTRU-RE,Finance,Finance - NBFC,0.0
+705,TVS Infrastructure Trust - (TVSINVIT),TVSINVIT,Finance,Finance - Investment,0.0
+706,JMJ Fintech Ltd. - (Rights Entitlements (REs)),JMJFIN-RE,Finance,Finance - NBFC,0.0
+707,Zodiac Ventures Ltd. - (Rights Entitlements (REs)),ZODIAC-RE,Finance,Finance - Investment,0.0
+708,Spandana Sphoorty Financial Ltd. - (Rights Entitlements (REs)),SPAND-RE,Finance,Finance - NBFC,0.0
+709,Property Share Investment Trust - PropShare Titania,PSTITANIA,Finance,Finance - Investment,0.0
+710,Indian Infotech & Software Ltd. - (Rights Entitlements (REs)),INDINF-RE1,Finance,Finance - Investment,0.0
+711,Spandana Sphoorty Financial Ltd. - (Partly Paid-up Equity Shares (Rights Issue)),SSFLPP,Finance,Finance - NBFC,0.0
+712,JMJ Fintech Ltd. - (Partly Paid-up Equity Shares (Rights Issue)),JMJFINPP,Finance,Finance - NBFC,0.0
+713,Arunis Abode Ltd. - (Rights Entitlements (REs)),ARUNIS-RE,Finance,Finance - Investment,0.0
+714,Anantam Highways Trust,ANANTAM,Finance,Finance - Investment,0.0
+715,LKP Finance Ltd. - (Rights Entitlements (REs)),LKPFIN-RE,Finance,Finance - Investment,0.0
+716,Star Housing Finance Ltd. - (Rights Entitlements (REs)),STARHF-RE,Finance,Finance - Housing,0.0
+717,Trustedge Capital Ltd. - (Rights Entitlements (REs)),TRUCAP-RE,Finance,Finance - Investment,0.0
+718,Capital Trust Ltd. - (Rights Entitlements (REs)),CAPTRU-RE1,Finance,Finance - NBFC,0.0
+719,Mangalam Industrial Finance Ltd. - (Rights Entitlements (REs)),MANGIN-RE,Finance,Finance - NBFC,0.0
+720,Delphi World Money Ltd. - (Rights Entitlements (REs)),DELPH-RE,Finance,Finance - Others,0.0
+721,Baid Finserv Ltd. - (Rights Entitlements (REs)),BAIDFIN-RE,Finance,Finance - NBFC,0.0
+722,Tilak Ventures Ltd. - (Rights Entitlements (REs-2)),TILAK-RE2,Finance,Finance - Investment,0.0
+723,Pulsar International Ltd. - (Rights Entitlements (REs)),PULSRIN-RE,Finance,Finance - NBFC,0.0
+724,Avasara Finance Ltd. - (Rights Entitlements (REs)),AVASA-RE,Finance,Finance - NBFC,0.0
+725,Viram Suvarn Ltd. - (Rights Entitlements (REs)),VSL-RE,Finance,Finance - Others,0.0
+726,Arunis Abode Ltd. - (Rights Entitlements (REs-1)),ARUNIS-RE1,Finance,Finance - Investment,0.0
+727,Galactico Corporate Services Ltd. - (Rights Entitlements (REs)),751083,Finance,Finance - Investment,0.0
+728,Onelife Capital Advisors Ltd. - (Rights Entitlements (REs)),ONECAP-RE,Finance,Finance - Investment,0.0
+729,Raajmarg Infra Investment Trust,RIIT,Finance,Finance - Investment,0.0
+730,Enbee Trade & Finance Ltd. - (Rights Entitlements (REs-1)),ENBEE-RE2,Finance,Finance - NBFC,0.0
+731,Nexome Capital Markets Ltd. - (Rights Entitlements (REs)),NEXOME-RE,Finance,Finance - Investment,0.0
+732,Vertex Securities Ltd. - (Rights Entitlements (REs)),VERTEX-RE,Finance,Finance - Stock Broking,0.0
+733,Supra Pacific Financial Services Ltd. - (Rights Entitlements (REs)),SUPRA-RE,Finance,Finance - NBFC,0.0
+734,5Paisa Capital Ltd. - (Rights Entitlements(REs)),5PAISA-RE,Finance,Finance - Stock Broking,0.0
+735,Maha Rashtra Apex Corporation Ltd. - (Rights Entitlements (REs)),MAHAPE-RE,Finance,Finance - Investment,0.0
+736,Vertex Securities Ltd. - (Partly Paid-up),VERTEXPP,Finance,Finance - Stock Broking,0.0
+737,Regal Entertainment & Consultants Ltd. - (Rights Entitlements (REs)),REGAL-RE,Finance,Finance - NBFC,0.0
+738,Panafic Industrials Ltd. - (Rights Entitlements (REs)),PANAFIC-RE,Finance,Finance - NBFC,0.0
+739,Innovassynth Technologies (India) Ltd. - (Rights Entitlements (REs)),INOVSYN-RE,Finance,Finance - NBFC,0.0
+740,Oasis Securities Ltd. - (Rights Entitlements (REs)),OASISE-RE,Finance,Finance - NBFC,0.0
+741,Marg Techno Projects Ltd. - (Rights Entitlements (REs)),MTPL-RE,Finance,Finance - NBFC,0.0
+742,Minolta Finance Ltd. (Rights Entitlements (REs)),MINOLT-RE,Finance,Finance - NBFC,0.0
+743,SI Capital & Financial Services Ltd. - (Rights Entitlements (REs)),SICAPI-RE,Finance,Finance - Investment,0.0

@@ -1,0 +1,300 @@
+Rank,Stock_Name,Symbol,Sector,Industry,Market_Cap_Cr
+1,Asian Paints Ltd.,ASIANPAINT,Chemicals,Paints,259942.6
+2,Solar Industries India Ltd.,SOLARINDS,Chemicals,Chemicals,180799.13
+3,Pidilite Industries Ltd.,PIDILITIND,Chemicals,Chemicals,172006.57
+4,SRF Ltd.,SRF,Chemicals,Chemicals,77340.2
+5,Berger Paints India Ltd.,BERGEPAINT,Chemicals,Paints,63628.77
+6,Coromandel International Ltd.,COROMANDEL,Chemicals,Fertilizers,61704.16
+7,The Fertilisers And Chemicals Travancore Ltd.,FACT,Chemicals,Fertilizers,52341.65
+8,Gujarat Fluorochemicals Ltd.,FLUOROCHEM,Chemicals,Chemicals,52060.11
+9,UPL Ltd.,UPL,Chemicals,Pesticides & Agrochemicals,47678.68
+10,Navin Fluorine International Ltd.,NAVINFLUOR,Chemicals,Chemicals,42237.36
+11,Godrej Industries Ltd.,GODREJIND,Chemicals,Chemicals,42118.17
+12,Himadri Speciality Chemical Ltd.,HSCL,Chemicals,Carbon Black,39409.77
+13,PI Industries Ltd.,PIIND,Chemicals,Pesticides & Agrochemicals,37929.53
+14,Sumitomo Chemical India Ltd.,SUMICHEM,Chemicals,Pesticides & Agrochemicals,28184.26
+15,Deepak Nitrite Ltd.,DEEPAKNTR,Chemicals,Chemicals,23503.25
+16,Aether Industries Ltd.,AETHER,Chemicals,Chemicals,21617.38
+17,Atul Ltd.,ATUL,Chemicals,Chemicals,19824.31
+18,Aarti Industries Ltd.,AARTIIND,Chemicals,Chemicals,19358.72
+19,Deepak Fertilisers And Petrochemicals Corporation Ltd.,DEEPAKFERT,Chemicals,Chemicals,18969.67
+20,Bayer CropScience Ltd.,BAYERCROP,Chemicals,Pesticides & Agrochemicals,18193.23
+21,Chambal Fertilisers and Chemicals Ltd.,CHAMBLFERT,Chemicals,Fertilizers,17742.89
+22,BASF India Ltd.,BASF,Chemicals,Chemicals,17677.21
+23,Tata Chemicals Ltd.,TATACHEM,Chemicals,Chemicals,17078.86
+24,Kansai Nerolac Paints Ltd.,KANSAINER,Chemicals,Paints,16551.66
+25,Fine Organic Industries Ltd.,FINEORG,Chemicals,Chemicals,15795.1
+26,Paradeep Phosphates Ltd.,PARADEEP,Chemicals,Fertilizers,15349.35
+27,JSW Dulux Ltd.,JSWDULUX,Chemicals,Paints,14430.36
+28,Vinati Organics Ltd.,VINATIORGA,Chemicals,Chemicals,13837.29
+29,Anupam Rasayan India Ltd.,ANURAS,Chemicals,Chemicals,13763.88
+30,Privi Speciality Chemicals Ltd.,PRIVISCL,Chemicals,Chemicals,13607.69
+31,PCBL Chemical Ltd.,PCBL,Chemicals,Carbon Black,12193.41
+32,Jubilant Ingrevia Ltd.,JUBLINGREA,Chemicals,Chemicals,11754.95
+33,Alkyl Amines Chemicals Ltd.,ALKYLAMINE,Chemicals,Chemicals,9792.19
+34,Elantas Beck India Ltd.,ELANTAS,Chemicals,Chemicals,9354.51
+35,Sudarshan Chemical Industries Ltd.,SUDARSCHEM,Chemicals,Dyes & Pigments,8888.19
+36,Clean Science And Technology Ltd.,CLEAN,Chemicals,Chemicals,8728.45
+37,Gujarat Narmada Valley Fertilizers & Chemicals Ltd,GNFC,Chemicals,Chemicals,8352.84
+38,Tanfac Industries Ltd.,TANFACIND,Chemicals,Chemicals,7517.61
+39,Madhya Bharat Agro Products Ltd.,MBAPL,Chemicals,Fertilizers,7380.82
+40,Sharda Cropchem Ltd.,SHARDACROP,Chemicals,Pesticides & Agrochemicals,7102.61
+41,Balaji Amines Ltd.,BALAMINES,Chemicals,Chemicals,6899.95
+42,Rashtriya Chemicals and Fertilizers Ltd.,RCF,Chemicals,Fertilizers,6846.45
+43,Gujarat State Fertilizers & Chemicals Ltd.,GSFC,Chemicals,Fertilizers,6387.59
+44,Archean Chemical Industries Ltd.,ACI,Chemicals,Chemicals,6226.62
+45,Neogen Chemicals Ltd.,NEOGEN,Chemicals,Chemicals,6038.48
+46,Krishana Phoschem Ltd.,KRISHANA,Chemicals,Fertilizers,5894.64
+47,Indigo Paints Ltd.,INDIGOPNTS,Chemicals,Paints,5489.73
+48,Gujarat Alkalies And Chemicals Ltd.,GUJALKALI,Chemicals,Chemicals,5128.1
+49,Yasho Industries Ltd.,YASHO,Chemicals,Chemicals,5120.11
+50,Fineotex Chemical Ltd.,FCL,Chemicals,Chemicals,5045.78
+51,Laxmi Organic Industries Ltd.,LXCHEM,Chemicals,Chemicals,4895.47
+52,Epigral Ltd.,EPIGRAL,Chemicals,Chemicals,4738.43
+53,Dhanuka Agritech Ltd.,DHANUKA,Chemicals,Pesticides & Agrochemicals,4497.73
+54,Foseco India Ltd.,FOSECOIND,Chemicals,Chemicals,4290.43
+55,Rallis India Ltd.,RALLIS,Chemicals,Pesticides & Agrochemicals,4138.3
+56,Vishnu Chemicals Ltd.,VISHNU,Chemicals,Chemicals,4087.72
+57,Tatva Chintan Pharma Chem Ltd.,TATVA,Chemicals,Chemicals,4021.45
+58,GHCL Ltd.,GHCL,Chemicals,Chemicals,3948.72
+59,NACL Industries Ltd.,NACLIND,Chemicals,Pesticides & Agrochemicals,3911.86
+60,Styrenix Performance Materials Ltd.,STYRENIX,Chemicals,Chemicals,3840.09
+61,Bhagiradha Chemicals & Industries Ltd.,BHAGCHEM,Chemicals,Pesticides & Agrochemicals,3746.79
+62,Jubilant Agri And Consumer Products Ltd.,JUBLCPL,Chemicals,Chemicals,3625.01
+63,National Fertilizers Ltd.,NFL,Chemicals,Fertilizers,3523.33
+64,Premier Explosives Ltd.,PREMEXPLN,Chemicals,Chemicals,3504.96
+65,Bhansali Engineering Polymers Ltd.,BEPL,Chemicals,Chemicals,3078.38
+66,Grauer & Weil (India) Ltd.,GRAUWEIL,Chemicals,Chemicals,3054.63
+67,Chemplast Sanmar Ltd.,CHEMPLASTS,Chemicals,Chemicals,2914.75
+68,Rossari Biotech Ltd.,ROSSARI,Chemicals,Chemicals,2780.51
+69,GSP Crop science Ltd.,GSPCROP,Chemicals,Pesticides & Agrochemicals,2756.47
+70,Nocil Ltd.,NOCIL,Chemicals,Chemicals,2696.62
+71,Kiri Industries Ltd.,KIRIINDUS,Chemicals,Dyes & Pigments,2684.27
+72,JG Chemicals Ltd.,JGCHEM,Chemicals,Chemicals,2376.63
+73,SH Kelkar And Company Ltd.,SHK,Chemicals,Chemicals,2358.0
+74,Bharat Rasayan Ltd.,BHARATRAS,Chemicals,Pesticides & Agrochemicals,2164.31
+75,Camlin Fine Sciences Ltd.,CAMLINFINE,Chemicals,Chemicals,1992.04
+76,GOCL Corporation Ltd.,GOCLCORP,Chemicals,Chemicals,1969.76
+77,Thirumalai Chemicals Ltd.,TIRUMALCHM,Chemicals,Chemicals,1922.21
+78,Insecticides (India) Ltd.,INSECTICID,Chemicals,Pesticides & Agrochemicals,1833.6
+79,Paushak Ltd.,PAUSHAKLTD,Chemicals,Chemicals,1825.23
+80,Indokem Ltd.,INDOKEM,Chemicals,Chemicals,1726.7
+81,Titan Bio-Tech Ltd.,TITANBIO,Chemicals,Chemicals,1698.6
+82,India Pesticides Ltd.,IPL,Chemicals,Pesticides & Agrochemicals,1623.81
+83,Meghmani Organics Ltd.,MOL,Chemicals,Pesticides & Agrochemicals,1608.54
+84,Vidhi Specialty Food Ingredients Ltd.,VIDHIING,Chemicals,Dyes & Pigments,1559.53
+85,Citurgia Biochemicals Ltd.,CITURGIA,Chemicals,Chemicals,1463.62
+86,Nitta Gelatin India Ltd.,NITTAGELA,Chemicals,Chemicals,1459.97
+87,IG Petrochemicals Ltd.,IGPL,Chemicals,Chemicals,1409.63
+88,Southern Petrochemical Industries Corporation Ltd.,SPIC,Chemicals,Fertilizers,1379.87
+89,The Andhra Sugars Ltd.,ANDHRSUGAR,Chemicals,Chemicals,1378.53
+90,Indo Borax & Chemicals Ltd.,INDOBORAX,Chemicals,Chemicals,1365.27
+91,Punjab Chemicals & Crop Protection Ltd.,PUNJABCHEM,Chemicals,Pesticides & Agrochemicals,1346.08
+92,Astec Lifesciences Ltd.,ASTEC,Chemicals,Pesticides & Agrochemicals,1322.71
+93,DCW Ltd.,DCW,Chemicals,Chemicals,1301.04
+94,Excel Industries Ltd.,EXCELINDUS,Chemicals,Pesticides & Agrochemicals,1278.0
+95,Shree Pushkar Chemicals & Fertilisers Ltd.,SHREEPUSHK,Chemicals,Dyes & Pigments,1248.56
+96,Keltech Energies Ltd.,KELENRG,Chemicals,Chemicals,1244.24
+97,Manali Petrochemicals Ltd.,MANALIPETC,Chemicals,Chemicals,1189.55
+98,Platinum Industries Ltd.,PLATIND,Chemicals,Chemicals,1186.38
+99,Oriental Aromatics Ltd.,OAL,Chemicals,Chemicals,1173.0
+100,Ultramarine & Pigments Ltd.,ULTRAMAR,Chemicals,Dyes & Pigments,1161.87
+101,TGV SRACC Ltd.,TGVSL,Chemicals,Chemicals,1138.36
+102,Sunshield Chemicals Ltd.,SUNSHIEL,Chemicals,Chemicals,1106.17
+103,Amines & Plasticizers Ltd.,AMNPLST,Chemicals,Chemicals,1071.79
+104,Madras Fertilizers Ltd.,MADRASFERT,Chemicals,Fertilizers,1051.99
+105,Jyoti Resins & Adhesives Ltd.,JYOTIRES,Chemicals,Chemicals,1044.0
+106,Sacheerome Ltd.,SACHEEROME,Chemicals,Chemicals,1011.7
+107,Sadhana Nitro Chem Ltd.,SADHNANIQ,Chemicals,Chemicals,967.27
+108,Indo Amines Ltd.,INDOAMIN,Chemicals,Chemicals,944.0
+109,Sudarshan Colorants India Ltd.,SUDARCOLOR,Chemicals,Chemicals,937.58
+110,Zuari Agro Chemicals Ltd.,ZUARI,Chemicals,Fertilizers,927.38
+111,Amal Ltd.,AMAL,Chemicals,Chemicals,921.08
+112,Valiant Organics Ltd.,VALIANTORG,Chemicals,Chemicals,913.23
+113,Dharmaj Crop Guard Ltd.,DHARMAJ,Chemicals,Pesticides & Agrochemicals,912.36
+114,Vikram Thermo (India) Ltd.,VIKRAMTH,Chemicals,Chemicals,909.69
+115,Fairchem Organics Ltd.,FAIRCHEMOR,Chemicals,Chemicals,883.22
+116,Bhageria Industries Ltd.,BHAGERIA,Chemicals,Dyes & Pigments,876.38
+117,Gem Aromatics Ltd.,GEMAROMA,Chemicals,Chemicals,874.19
+118,Bodal Chemicals Ltd.,BODALCHEM,Chemicals,Dyes & Pigments,869.9
+119,Sree Rayalaseema Hi-Strength Hypo Ltd.,SRHHYPOLTD,Chemicals,Chemicals,852.15
+120,Ganesh Benzoplast Ltd.,GANESHBE,Chemicals,Chemicals,838.68
+121,Shalimar Paints Ltd.,SHALPAINTS,Chemicals,Paints,770.65
+122,Advance Agrolife Ltd.,ADVANCE,Chemicals,Pesticides & Agrochemicals,761.79
+123,OCCL Ltd.,OCCLLTD,Chemicals,Chemicals,761.74
+124,DMCC Speciality Chemicals Ltd.,DMCC,Chemicals,Chemicals,736.73
+125,Chembond Chemicals Ltd.,CHEMBONDCH,Chemicals,Chemicals,726.61
+126,Beezaasan Explotech Ltd.,BEEZAASAN,Chemicals,Chemicals,713.65
+127,Chemcon Speciality Chemicals Ltd.,CHEMCON,Chemicals,Chemicals,703.31
+128,Tuticorin Alkali Chemicals and Fertilizers Ltd.,TUTIALKA,Chemicals,Chemicals,692.76
+129,Heranba Industries Ltd.,HERANBA,Chemicals,Pesticides & Agrochemicals,679.63
+130,Best Agrolife Ltd.,BESTAGRO,Chemicals,Pesticides & Agrochemicals,673.52
+131,Jayant Agro-Organics Ltd.,JAYAGROGN,Chemicals,Chemicals,669.3
+132,Kanoria Chemicals & Industries Ltd.,KANORICHEM,Chemicals,Chemicals,668.51
+133,Transpek Industry Ltd.,TRANSPEK,Chemicals,Chemicals,637.73
+134,Primo Chemicals Ltd.,PRIMO,Chemicals,Chemicals,620.64
+135,Kronox Lab Sciences Ltd.,KRONOX,Chemicals,Chemicals,559.16
+136,Chemfab Alkalis Ltd.,CHEMFAB,Chemicals,Chemicals,543.33
+137,Aries Agro Ltd.,ARIES,Chemicals,Fertilizers,534.67
+138,Black Rose Industries Ltd.,BLACKROSE,Chemicals,Chemicals,534.48
+139,DIC India Ltd.,DICIND,Chemicals,Chemicals,522.97
+140,Plastiblends India Ltd.,PLASTIBLEN,Chemicals,Chemicals,517.44
+141,Khaitan Chemicals & Fertilizers Ltd.,KHAICHEM,Chemicals,Fertilizers,505.7
+142,Vipul Organics Ltd.,VIPULORG,Chemicals,Dyes & Pigments,466.07
+143,Indogulf Cropsciences Ltd.,IGCL,Chemicals,Pesticides & Agrochemicals,448.57
+144,Mahamaya Lifesciences Ltd.,MAHALIFE,Chemicals,Pesticides & Agrochemicals,435.33
+145,Asahi Songwon Colors Ltd.,ASAHISONG,Chemicals,Dyes & Pigments,429.29
+146,Rama Phosphates Ltd.,RAMAPHO,Chemicals,Fertilizers,425.17
+147,Shivalik Rasayan Ltd.,SHIVALIK,Chemicals,Pesticides & Agrochemicals,419.67
+148,Lords Chloro Alkali Ltd.,LORDSCHLO,Chemicals,Chemicals,399.43
+149,Naperol Investments Ltd.,NAPEROL,Chemicals,Chemicals,393.87
+150,National Peroxide Ltd.,NPL,Chemicals,Chemicals,387.78
+151,Mangalam Organics Ltd.,MANORG,Chemicals,Chemicals,385.31
+152,Andhra Petrochemicals Ltd.,ANDHRAPET,Chemicals,Chemicals,378.89
+153,Infinium Pharmachem Ltd.,INFINIUM,Chemicals,Chemicals,373.61
+154,Ushanti Colour Chem Ltd.,UCL,Chemicals,Dyes & Pigments,361.05
+155,Nikhil Adhesives Ltd.,NIKHILAD,Chemicals,Chemicals,357.44
+156,Alufluoride Ltd.,ALUFLUOR,Chemicals,Chemicals,342.19
+157,Hi-Green Carbon Ltd.,HIGREEN,Chemicals,Carbon Black,339.74
+158,Devson Catalyst Ltd.,DEVSON,Chemicals,Chemicals,337.93
+159,Goa Carbon Ltd.,GOACARBON,Chemicals,Carbon Black,332.64
+160,HP Adhesives Ltd.,HPAL,Chemicals,Chemicals,323.77
+161,Narmada Gelatines Ltd.,SHAWGELTIN,Chemicals,Chemicals,297.61
+162,Dynemic Products Ltd.,DYNPRO,Chemicals,Dyes & Pigments,289.27
+163,Mahickra Chemicals Ltd.,MAHICKRA,Chemicals,Chemicals,288.39
+164,India Gelatine & Chemicals Ltd.,INDGELA,Chemicals,Chemicals,285.22
+165,Poddar Pigments Ltd.,PODDARMENT,Chemicals,Dyes & Pigments,275.86
+166,Hindustan Organic Chemicals Ltd.,HOCL,Chemicals,Chemicals,251.97
+167,Indian Toners & Developers Ltd.,INDTONER,Chemicals,Chemicals,249.3
+168,Diamines & Chemicals Ltd.,DIAMINESQ,Chemicals,Chemicals,244.25
+169,Sanginita Chemicals Ltd.,SANGINITA,Chemicals,Chemicals,243.32
+170,Dai-Ichi Karkaria Ltd.,DAICHI,Chemicals,Chemicals,242.95
+171,Sikko Industries Ltd.,SIKKO,Chemicals,Pesticides & Agrochemicals,242.86
+172,Aksharchem (India) Ltd.,AKSHARCHEM,Chemicals,Dyes & Pigments,240.59
+173,Chembond Material Technologies Ltd.,CHEMBOND,Chemicals,Chemicals,239.38
+174,Cochin Minerals & Rutile Ltd.,COCHINM,Chemicals,Chemicals,233.26
+175,Patel Chem Specialities Ltd.,PATELCHEM,Chemicals,Chemicals,228.88
+176,Nova Agritech Ltd.,NOVAAGRI,Chemicals,Pesticides & Agrochemicals,226.86
+177,DCM Shriram Fine Chemicals Ltd.,DSFCL,Chemicals,Chemicals,222.35
+178,Balaji Phosphates Ltd.,BALAJIPHOS,Chemicals,Fertilizers,211.62
+179,SPEB Adhesives Ltd.,SPEB,Chemicals,Chemicals,204.2
+180,Resonance Specialties Ltd.,RESONANCE,Chemicals,Chemicals,196.25
+181,ARCL Organics Ltd.,ARCL,Chemicals,Chemicals,191.76
+182,ZR2 Bioenergy Ltd.,ZR2,Chemicals,Chemicals,191.11
+183,Arvee Laboratories (India) Ltd.,ARVEE,Chemicals,Chemicals,182.94
+184,Ducol Organics & Colours Ltd.,DUCOL,Chemicals,Dyes & Pigments,182.48
+185,Kesar Petroproducts Ltd.,KESARPE,Chemicals,Chemicals,182.03
+186,Anya Polytech & Fertilizers Ltd.,ANYA,Chemicals,Fertilizers,181.8
+187,IVP Ltd.,IVP,Chemicals,Chemicals,180.92
+188,Jaysynth Orgochem Ltd.,JAYSYNTH,Chemicals,Dyes & Pigments,178.08
+189,Indian Phosphate Ltd.,IPHL,Chemicals,Fertilizers,162.68
+190,Kanchi Karpooram Ltd.,KANCHI,Chemicals,Chemicals,160.7
+191,Shivam Chemicals Ltd.,SHIVAM,Chemicals,Chemicals,160.27
+192,Neochem Bio Solutions Ltd.,NEOCHEM,Chemicals,Chemicals,155.8
+193,Vikas EcoTech Ltd.,VIKASECO,Chemicals,Chemicals,152.72
+194,Polson Ltd.,POLSON,Chemicals,Chemicals,144.57
+195,Nagarjuna Fertilizers and Chemicals Ltd.,NAGAFERT,Chemicals,Fertilizers,144.13
+196,Hindprakash Industries Ltd.,HPIL,Chemicals,Dyes & Pigments,142.86
+197,Crop Life Science Ltd.,CLSL,Chemicals,Pesticides & Agrochemicals,131.98
+198,Ishan Dyes and Chemicals Ltd.,ISHANCH,Chemicals,Dyes & Pigments,131.58
+199,Vital Chemtech Ltd.,VITAL,Chemicals,Chemicals,130.53
+200,Archit Organosys Ltd.,ARCHITORG,Chemicals,Chemicals,130.47
+201,Jocil Ltd.,JOCIL,Chemicals,Chemicals,129.91
+202,Chemcrux Enterprises Ltd.,CHEMCRUX,Chemicals,Chemicals,128.64
+203,Bharat Agri Fert & Realty Ltd.,BHARATAGRI,Chemicals,Fertilizers,120.56
+204,Hindcon Chemicals Ltd.,HINDCON,Chemicals,Chemicals,116.25
+205,Shree Hari Chemicals Export Ltd.,SHHARICH,Chemicals,Chemicals,112.97
+206,Basant Agro Tech (India) Ltd.,BASANTGL,Chemicals,Fertilizers,105.13
+207,Biopol Chemicals Ltd.,BIOPOL,Chemicals,Chemicals,101.73
+208,Renol Polychem Ltd.,RNPL,Chemicals,Chemicals,100.3
+209,Ambani Orgochem Ltd.,AMBANIORGO,Chemicals,Chemicals,99.34
+210,Deepak Chemtex Ltd.,DEEPAKCHEM,Chemicals,Chemicals,96.69
+211,Paragon Fine And Speciality Chemical Ltd.,PARAGON,Chemicals,Chemicals,94.99
+212,Deep Polymers Ltd.,DEEP,Chemicals,Chemicals,85.69
+213,Starbeam Ventures Ltd.,STARBEAM,Chemicals,Fertilizers,83.01
+214,Polychem Ltd.,POLYCHEM,Chemicals,Chemicals,78.43
+215,Technichem Organics Ltd.,TECHNICHEM,Chemicals,Chemicals,77.95
+216,Indian Emulsifiers Ltd.,IEML,Chemicals,Chemicals,77.64
+217,Super Crop Safe Ltd.,SUCROSA,Chemicals,Pesticides & Agrochemicals,76.12
+218,Aristo Bio-Tech and Lifescience Ltd.,ARISTO,Chemicals,Pesticides & Agrochemicals,73.52
+219,Ritesh International Ltd.,RITESHIN,Chemicals,Chemicals,70.13
+220,Sunil Healthcare Ltd.,SUNLOC,Chemicals,Chemicals,69.92
+221,Alkali Metals Ltd.,ALKALI,Chemicals,Chemicals,69.24
+222,Eiko Lifesciences Ltd.,EIKO,Chemicals,Chemicals,69.06
+223,AVSL Industries Ltd.,AVSL,Chemicals,Chemicals,63.81
+224,Teesta Agro Industries Ltd.,TEEAI,Chemicals,Fertilizers,63.31
+225,Retina Paints Ltd.,RETINA,Chemicals,Paints,62.22
+226,Bhaskar Agrochemicals Ltd.,BHASKAGR,Chemicals,Pesticides & Agrochemicals,59.26
+227,Hardcastle & Waud Manufacturing Company Ltd.,HARDCAS,Chemicals,Chemicals,58.1
+228,Shentracon Chemicals Ltd.,SHENTRA,Chemicals,Chemicals,58.1
+229,Mehul Colours Ltd.,MEHUL,Chemicals,Dyes & Pigments,58.01
+230,Agro Phos India Ltd.,AGROPHOS,Chemicals,Fertilizers,55.41
+231,Shreyas Intermediates Ltd.,SHREYASI,Chemicals,Dyes & Pigments,54.34
+232,Dhansa Labs Ltd.,DHANSA,Chemicals,Pesticides & Agrochemicals,54.08
+233,Shlokka Dyes Ltd.,SHLOKKA,Chemicals,Dyes & Pigments,53.46
+234,The Phosphate Company Ltd.,PHOSPHATE,Chemicals,Fertilizers,50.5
+235,Polylink Polymers (India) Ltd.,POLYLINK,Chemicals,Chemicals,48.6
+236,Snehaa Organics Ltd.,SNEHAA,Chemicals,Chemicals,47.84
+237,Vahh Chemicals Ltd.,VAHH,Chemicals,Chemicals,45.27
+238,Aimco Pesticides Ltd.,AIMCOPEST,Chemicals,Pesticides & Agrochemicals,44.7
+239,Camex Ltd.,CAMEXLTD,Chemicals,Dyes & Pigments,40.87
+240,Crestchem Ltd.,CRSTCHM,Chemicals,Chemicals,40.55
+241,Shiva Global Agro Industries Ltd.,SHIVAAGRO,Chemicals,Fertilizers,38.37
+242,Unilex Colours And Chemicals Ltd.,UNILEX,Chemicals,Dyes & Pigments,38.13
+243,Prolife Industries Ltd.,PROLIFE,Chemicals,Dyes & Pigments,37.24
+244,Yug Decor Ltd.,YUG,Chemicals,Chemicals,37.22
+245,Vadivarhe Speciality Chemicals Ltd.,VSCL,Chemicals,Chemicals,35.85
+246,Bhatia Colour Chem Ltd.,BCCL,Chemicals,Chemicals,34.94
+247,Medi-Caps Ltd.,MEDICAPQ,Chemicals,Chemicals,33.78
+248,Seya Industries Ltd.,SEYAIND,Chemicals,Chemicals,33.74
+249,Dynamic Industries Ltd.,DYNAMIND,Chemicals,Dyes & Pigments,33.21
+250,MCON Rasayan India Ltd.,MCON,Chemicals,Chemicals,32.28
+251,TCM Ltd.,TCMLMTD,Chemicals,Chemicals,31.56
+252,Bohra Industries Ltd.,BOHRAIND,Chemicals,Fertilizers,31.42
+253,Haryana Leather Chemicals Ltd.,HARLETH,Chemicals,Chemicals,29.91
+254,Daikaffil Chemicals India Ltd.,DAIKAFFI,Chemicals,Pesticides & Agrochemicals,26.52
+255,Vikram Aroma Ltd.,VIKRAMAR,Chemicals,Chemicals,25.73
+256,Arunaya Organics Ltd.,ARUNAYA,Chemicals,Dyes & Pigments,25.61
+257,Chemiesynth (Vapi) Ltd.,CHEMIESYNT,Chemicals,Chemicals,24.93
+258,Machhar Industries Ltd.,MACIND,Chemicals,Chemicals,24.83
+259,Asian Petroproducts & Exports Ltd.,ASINPET,Chemicals,Chemicals,22.47
+260,Span Divergent Ltd.,SDL,Chemicals,Chemicals,21.96
+261,Tulasee Bio-Ethanol Ltd.,TULASEEBIOE,Chemicals,Chemicals,21.47
+262,Caprolactam Chemicals Ltd.,CAPRO,Chemicals,Chemicals,20.91
+263,Vikas WSP Ltd.,VIKASWSP,Chemicals,Chemicals,19.42
+264,Yasons Chemex Care Ltd.,YCCL,Chemicals,Dyes & Pigments,18.63
+265,Jayshree Chemicals Ltd.,JAYCH,Chemicals,Chemicals,17.86
+266,Vivid Global Industries Ltd.,VIVIDIND,Chemicals,Chemicals,17.24
+267,Organic Coatings Ltd.,ORGCOAT,Chemicals,Chemicals,17.15
+268,Tecil Chemicals & Hydro Power Ltd.,TECILCHEM,Chemicals,Chemicals,16.59
+269,Advance Petrochemicals Ltd.,ADVPETR-B,Chemicals,Chemicals,16.25
+270,Vikas Proppant & Granite Ltd.,VIKASPROP,Chemicals,Chemicals,12.35
+271,Zinema Media & Entertainment Ltd.,ZINEMA,Chemicals,Chemicals,12.09
+272,Link Pharma Chem Ltd.,LINKPH,Chemicals,Chemicals,11.22
+273,CJ Gelatine Products Ltd.,CJGEL,Chemicals,Chemicals,10.83
+274,Sreechem Resins Ltd.,SRECR,Chemicals,Chemicals,10.31
+275,Saptak Chem And Business Ltd.,SCBL,Chemicals,Fertilizers,10.11
+276,Lime Chemicals Ltd.,LIMECHM,Chemicals,Chemicals,9.76
+277,Phyto Chem (India) Ltd.,PHYTO,Chemicals,Pesticides & Agrochemicals,8.47
+278,Indo Euro Indchem Ltd.,INDOEURO,Chemicals,Chemicals,8.06
+279,Rite Zone Chemcon India Ltd.,RITEZONE,Chemicals,Chemicals,7.72
+280,Vellora Impact Ltd.,VELLORA,Chemicals,Dyes & Pigments,6.71
+281,Saianand Commercial Ltd.,SAICOM,Chemicals,Chemicals,5.0
+282,MP Agro Industries Ltd.,MPAGI,Chemicals,Fertilizers,4.64
+283,Revati Media Ltd.,REVAMEDIA,Chemicals,Chemicals,3.66
+284,Indo Gulf Industries Ltd.,IGLFXPL-B,Chemicals,Chemicals,2.85
+285,Omkar Speciality Chemicals Ltd.,OMKARCHEM,Chemicals,Chemicals,0.37
+286,Garodia Chemicals Ltd.,GARODCH,Chemicals,Chemicals,0.28
+287,Ushanti Colour Chem Ltd. - RE,UCL-RE,Chemicals,Chemicals,0.0
+288,Asian Petroproducts And Exports Ltd. - (Rights Entitlements (REs)),ASIANP-RE,Chemicals,Chemicals,0.0
+289,Sikko Industries Ltd. - (Rights Entitlements),SIKKO-RE,Chemicals,Pesticides & Agrochemicals,0.0
+290,UPL Ltd. - (Partly Paid-up Equity Shares),UPLPP1,Chemicals,Pesticides & Agrochemicals,0.0
+291,Camlin Fine Sciences Ltd. - (Rights Entitlements (REs)),CAMLIN-RE,Chemicals,Chemicals,0.0
+292,Vipul Organics Ltd. - (Rights Entitlements (REs)),VIPUL-RE,Chemicals,Dyes & Pigments,0.0
+293,Indra Industries Ltd. - (Rights Entitlements (REs)),INDRA-RE,Chemicals,Fertilizers,0.0
+294,Astec Lifesciences Ltd. - (Rights Entitlements (REs)),ASTEC-RE,Chemicals,Pesticides & Agrochemicals,0.0
+295,Sunshield Chemicals Ltd. - (Rights Entitlements (REs)),SUNSHI-RE,Chemicals,Chemicals,0.0
+296,NACL Industries Ltd. - (Rights Entitlements (REs)),NACL-RE,Chemicals,Pesticides & Agrochemicals,0.0
+297,Yug Decor Ltd. - ( Rights Entitlements (REs) ),YUG-RE1,Chemicals,Chemicals,0.0
+298,Sadhana Nitro Chem Ltd. - (Rights Entitlements (REs1)),SADHNA-RE,Chemicals,Chemicals,0.0
+299,Bluegod Entertainment Ltd. - (Rights Entitlements (REs)),BLUGOD-RE,Chemicals,Fertilizers,0.0
